@@ -1,0 +1,369 @@
+---
+title: "codeC laterality"
+format: html
+editor: visual
+---
+
+# Laterality
+
+variable naming convention is such that it modified data is named with next possible variable name. 
+Follow up step dataset is named using letters.  
+Two letters are used. E.g., aa,ab,ac and major step uses ba and after that bb, bc  
+But naming can be inconsistent and not strictly follow the convention.
+
+
+```{r}
+#| eval: false
+#| include: false
+
+#edit above to turn on
+library(tidyverse)
+#load rda file
+athena_folder='~/OneDrive - EPAM/athena'
+load(file.path(athena_folder,'athena.rda'))
+
+#metadata
+#read csv in this link https://github.com/OHDSI/Vocabulary-v5.0/releases/download/v20250827_1756288395.000000/metadata.zip
+l='https://github.com/OHDSI/Vocabulary-v5.0/releases/download/v20250827_1756288395.000000/metadata.zip'
+#list files in the zip file in link l
+#download file in link l to my disk
+dfile='metadata.zip'
+download.file(url = l, destfile = dfile)
+#l and unzip it to folder 'metadata'
+  
+unzip(dfile,exdir = 'metadata')
+files=list.files('metadata')
+files
+library(purrr)
+#read all files into object named after the file name using purrr and store in variable vm (remove csv from file name when setting name)
+
+
+vm <- files %>%   map(~ read_csv(file.path('metadata', .)))
+#set names in vm as in files
+names(vm) = files
+
+#view names of files read
+names(vm)
+#vm$concept_metadata.csv
+#View(vm$concept_metadata.csv)
+#View(vm$concept_relationship_metadata.csv)  
+#View(vm$v5_concept_metadata.csv)
+#View(vm$v5_concept_relationship_metadata.csv)
+cm=vm$v5_concept_relationship_metadata.csv
+   
+sconcept=concept |> select(concept_id,concept_name,concept_code,domain_id,vocabulary_id,concept_class_id)
+
+#join cm with concept on concept_id_1
+library(magrittr)
+cm %<>% left_join(sconcept, by=c('concept_id_1'='concept_id'))
+cm %<>% left_join(sconcept, by=c('concept_id_2'='concept_id'))
+names(cm)
+cm |> count(vocabulary_id.x)
+i=cm |> filter(vocabulary_id.x=='ICD10CM')
+names(cm)
+
+h1=i %>% filter(str_detect(concept_code.y,'H353'))
+#h2=h1 |> select(Source.Code,Description,Patient.Count,Event.Count)
+
+#H35.3221 exist in athena, but missing in cm (relationship metadata)
+#Retinopathy of prematurity, stage 5, right eye. H35.161 is exact match and has lateral SNOMED concept
+
+#many relationships are missing in crm aka cm cncept_relationship_metadata.csv, e.g., H35.3221
+
+#plan find target concepts that have multiple ICD10CM source codes mapped to them
+#eg 
+names(relationship)
+#not the name used
+#relationship |> filter(relationship_id == 'Standard to Non-standard map (OMOP)') 
+
+```
+
+
+```{r}
+#join relationship with concept 
+ssconcept=concept |> select(concept_id,concept_name,concept_code,vocabulary_id,concept_class_id)
+r=relationship |> left_join(sconcept, by=c('concept_id_1'='concept_id')) |> 
+  left_join(concept, by=c('concept_id_2'='concept_id'))
+
+#r |> filter(concept_code.y == 'H35.3221') |> View()
+ca= r |> filter(concept_id_1==376966) |> filter(vocabulary_id.y=='ICD10CM')
+cb=r |> filter(relationship_id =='Mapped from') |> filter(vocabulary_id.y=='ICD10CM') 
+cc=cb |> filter(str_detect(concept_name.y,'left|right|bilateral|unspecified')) |> filter(str_detect(concept_name.y,'eye'))
+#HERE
+#cc has what I need, join to frequency data
+cclarge=cb |> filter(str_detect(concept_name.y,'left|right|bilateral')) 
+
+
+
+#40k rows like that without eye
+#3k with eye
+
+#find ICD names that have same stem but differ by adding different suffix
+#detect fragments like 'left eye', 'right eye', 'bilateral', 'unspecified eye'
+#assing tag to such concept
+#find groups of concepts with same stem but different suffixes (tags)
+
+# H35353 Cystoid macular degeneration, bilateral
+# H35352 Cystoid macular degeneration, left eye
+# H35351 Cystoid macular degeneration, right eye
+# H35359 Cystoid macular degeneration, unspecified eye
+
+#make new column 'stem' that removes left eye, right eye from concept_name.x
+cc %<>% mutate(stem=str_remove(concept_name.y,'(left|right|bilateral|unspecified) eye'))
+cc2=cc |> select(concept_id_1,concept_name.y,stem,concept_code.y)
+#not sure what my goal was here
+
+
+cb |> group_by(concept_id_1, concept_name.x) |> summarize(n=n()) |> filter(n>1) |> arrange(desc(n)) -> cd
+#
+```
+
+# load CSV files with freq
+
+code moved from prior codeA rmd file
+
+```{r cars}
+f1name<-'aou_ccoi_c_1.csv'
+s1=read_csv(f1name)
+
+cfname<-'vocab-202408-vanilla/concept.csv'
+cfname<-'vocab-202504-cancer/concept.csv'
+
+#concept<-read_delim(cfname)
+names(concept)
+names(s1)
+library(magrittr)
+
+
+names(s1)
+s1 %<>% rename_with(make.names)
+names(s1)
+s1 %<>% rename(concept_id=OMOP.Concept.ID)
+#s1$dset='aou'
+
+
+
+f2name<-'vrdc_c_1.csv'
+s2=read_csv(f2name)
+
+s2 %<>% rename_with(make.names)
+names(s2)
+s2 %<>% rename(concept_id=OMOP.Concept.ID)
+#s2$dset='cms'
+
+#only s2 has concept.Type column
+
+d=bind_rows(s1,s2)
+
+
+
+d %>% group_by(Dataset,Concept.Type) %>% summarize(n=n())
+s2 %>% group_by(Dataset,Concept.Type) %>% summarize(n=n())
+#s2 has identical rows just multiple mappings to same Standard.OMOP.Concept hence it multiplies rows so removing it
+s2d=s2 %>% filter(Terminology=='ICD10CM') |> select(-Standard.OMOP.Concept) |> distinct()
+
+constat=s2d |> filter(Terminology=='ICD10CM')%>% group_by(concept_id,Description) %>% summarize(cnt=n())
+#join s2d with constat on concept_id
+
+#s2d %<>% left_join(constat, by='concept_id', suffix=c('','_cnt')) #not sure what the suffix does from llm generated
+s2d %<>% left_join(constat, by='concept_id')
+
+
+#fix problems with input frequency data for patient and event count
+
+s2d_clean=s2d |> group_by(concept_id) %>% summarize(input_rows=n(),
+                                           Patient.Count=sum(Patient.Count, na.rm=TRUE),
+                                           Event.Count=sum(Event.Count, na.rm=TRUE))
+names(s2)
+
+
+
+```
+
+# freq joining
+
+```{r}
+#join cb with s2 on concept_id_2 = concept_id
+#s3 is vrdc
+cc |> left_join(s2d_clean, by=c('concept_id_2'='concept_id')) ->cd
+
+cdext2=cd %>% group_by(concept_id_1,concept_name.x) %>% summarize(total_patient_count=sum(Patient.Count, na.rm=TRUE),
+                                                              
+                                                total_event_count=sum(Event.Count, na.rm=TRUE)
+                                                ,n=n()) %>% ungroup() %>%  left_join(cd) %>% mutate(concept_name.y2=str_c(round(100*Event.Count/total_event_count,1),'%~',concept_name.y,' (',concept_code.y,')',concept_id_2,';',Patient.Count,' patients')) %>% arrange(desc(Event.Count/total_event_count))
+
+# cd |> select(concept_id_1,concept_id_2, Patient.Count,Event.Count,concept_name.y,concept_name.x) |> arrange(desc(Event.Count)) ->cd2
+
+#cd group by concept_id_1 and summarize total Patient.Count and Event.Count
+cdext2 %>% group_by(concept_id_1,concept_name.x) %>% summarize(total_patient_count=sum(Patient.Count, na.rm=TRUE),
+                                                total_event_count=sum(Event.Count, na.rm=TRUE)
+                                                ,n=n()
+                                                ,concepts=paste(concept_name.y2,collapse = ' | \n')
+                                                ,concepts2=paste(concept_name.y,collapse = ' | \n')) %>%
+  arrange(desc(total_event_count)) ->cd3
+
+cd3$percentile_rank <- percent_rank(cd3$total_event_count)
+#this below is not working not sure why
+#cd3 %<>% mutate(percentile_rank=percent_rank(total_event_count)) 
+cd3 %<>% left_join(concept |> select(concept_id,concept_code), by=c('concept_id_1'='concept_id')) 
+
+
+#doing step above for cclarge
+  cclarge |> left_join(s2d_clean, by=c('concept_id_2'='concept_id')) ->cdlarge
+  cdlargeext2=cd %>% group_by(concept_id_1,concept_name.x) %>% summarize(total_patient_count=sum(Patient.Count, na.rm=TRUE),
+                                                              
+                                                total_event_count=sum(Event.Count, na.rm=TRUE)
+                                                ,n=n()) %>% ungroup() %>%  left_join(cd) %>% mutate(concept_name.y2=str_c(round(100*Event.Count/total_event_count,1),'%~',concept_name.y,' (',concept_code.y,')',concept_id_2,';',Patient.Count,' patients')) %>% arrange(desc(Event.Count/total_event_count))
+
+# cd |> select(concept_id_1,concept_id_2, Patient.Count,Event.Count,concept_name.y,concept_name.x) |> arrange(desc(Event.Count)) ->cd2
+
+#cd group by concept_id_1 and summarize total Patient.Count and Event.Count
+cdlargeext2 %>% group_by(concept_id_1,concept_name.x) %>% summarize(total_patient_count=sum(Patient.Count, na.rm=TRUE),
+                                                total_event_count=sum(Event.Count, na.rm=TRUE)
+                                                ,n=n()
+                                                ,concepts=paste(concept_name.y2,collapse = ' | \n')
+                                                ,concepts2=paste(concept_name.y,collapse = ' | \n')) %>%
+  arrange(desc(total_event_count)) ->cdlarge3
+
+cdlarge3$percentile_rank <- percent_rank(cdlarge3$total_event_count)
+cdlarge3 %<>% left_join(concept |> select(concept_id,concept_code), by=c('concept_id_1'='concept_id')) 
+
+#extra work with domain set
+
+
+#extra work with large set 
+  #standard terms have left rigth in them already
+#cc has what I need, join to frequency data
+cclarge_has_lat=cclarge |> filter(str_detect(concept_name.x,'left|right|bilateral')) 
+cclarge_no_lat=cclarge |> filter(!str_detect(concept_name.x,'left|right|bilateral')) 
+
+cdlarge2_no_lat =  cdlarge2 |> filter(!str_detect(concept_name.x,'left|right|bilateral')) 
+cdlarge2_has_lat = cdlarge2 |> filter(str_detect(concept_name.x,'left|right|bilateral')) 
+
+cdlarge3_has_lat =  cdlarge3 |> filter(str_detect(concept_name.x,'left|right|bilateral')) 
+cdlarge3_no_lat =  cdlarge3 |> filter(!str_detect(concept_name.x,'left|right|bilateral')) 
+
+#extra work with domain of cc
+cc_has_lat=cc |> filter(str_detect(concept_name.x,'left|right|bilateral'))
+cc_no_lat=cc |> filter(!str_detect(concept_name.x,'left|right|bilateral'))
+
+cd2_has_lat=cd |> filter(str_detect(concept_name.x,'left|right|bilateral'))
+cd2_no_lat=cd |> filter(!str_detect(concept_name.x,'left|right|bilateral'))
+
+cd3_has_lat=cd3 |> filter(str_detect(concept_name.x,'left|right|bilateral'))
+cd3_no_lat=cd3 |> filter(!str_detect(concept_name.x,'left|right|bilateral'))
+
+
+ 
+
+
+
+
+#save cd2 to csv to file s1.csv
+write.csv(cd2, 's1.csv', row.names = FALSE)
+write_csv(cd, 's1-all-columns-included.csv')
+
+write.csv(cdlarge2, 's1-phase2.csv', row.names = FALSE)
+write_csv(cd, 's1-all-columns-included.csv')
+
+
+library(writexl)
+
+#crashes due to excel limit of characters, use csv
+  #write_xlsx(cd2, 'icd10cm_to_snomed_mappings_with_freq.xlsx')
+  #write_xlsx(cd3, 'icd10cm_to_snomed_mappings_summary_with_freq.xlsx')
+write.csv(cd3, 's2.csv', row.names = FALSE)
+write.csv(cdlarge3_no_lat, 's2-phase2-no_laterality.csv', row.names = FALSE)
+
+write.csv(cdlarge3_has_lat, 's2-phase2-has_laterality.csv', row.names = FALSE)
+
+
+
+#
+
+```
+# Phase 2 results
+Considering all diagnoses (phase 2), we found 42192 ICD10CM DiseaseConceptsWithLaterality. These 42192 concepts are mapped to 3747 standard concepts. 
+
+Of those 3747 concepts, 643 concepts distinguish laterality (two seperate concepts for bursitis of left and right shoulder; ICD10CM code of M75.51 mapped to standard concept_id of 762212) and 3103 concepts are DiseaseConceptsWithoutLaterality (pain in right hip and pain in left hip mapped to 'hip pain'; M25.552 mapped to concept_id of 45572430). Proportion wise, 17.2% (643/3747) of standard concepts preserve laterality information from source codes in general diagnosis scope (phase 2). 
+
+
+# Phase 3
+Procedures in ophtalmology:
+
+### Intraocular drug administration
+: While source diagnostic data use pre-coordination, procedural data (in CPT [Current procedural terminology]) use potcoordination for drug injection procedures. For example, code 67028 (Intravitreal injection of a pharmacologic agent) is combined with  modifier 50 for bilateral injections and modifiers LT and RT for left and right eye injections. 67028+LT and 67028+RT and 67028+50 may all be mapped to https://athena.ohdsi.org/search-terms/terms/4334590 (Injection of drug into vitreous, SNOMED CT concept code 231755001)  
+
+
+### Procedure on eye
+Also use post-coordination. For example, cataract removal with intraocular lense insertion also use LT and RT modifiers (no use of bilateral modifier)
+
+
+
+# Phase 4
+
+Lateral specific procedures (in general)
+
+# Generalization
+
+During our study, we noted that the information loss can be analyzed in general.  
+With data on source concepts usage frequency, for each standard concepts with multiple source concepts mapped to it, we can try to identify (and study) any information loss. This can be viewed by some as desired and intended. Others may view this as an information loss and try to avoid it but still keep in mind some optimal granularity of the standard concept model layer. 
+Standard concepts are meant to facilitate harmonization. What level of granularity is built into such standard concepts is a design choice of model administrators. To some extend, this granularity level is dictated by available terminologies in existence. For example, the choice of SNOMED CT as a standard terminology for condition domain in 2008. 
+
+
+
+concepts quantified by usage frequency
+
+# SCT submission file composition
+
+```{r}
+
+
+ce3= cd3_no_lat |> filter(percentile_rank>0.97) 
+ce5= cd3_no_lat |> filter(percentile_rank>0.95)
+ce20= cd3_no_lat |> filter(percentile_rank>0.80)
+
+e=cd3 # |> select(concept_code,concept_name.x)
+#for each row in e make 2 new rows with concept_name appended with ' left' and ' right' respectively
+e_left=e %>% mutate(concept_name.x=str_c(concept_name.x,' of left eye'))
+e_right=e %>% mutate(concept_name.x=str_c(concept_name.x,' of right eye'))
+
+e2=bind_rows(e_left,e_right) |> arrange(desc(total_event_count))
+
+
+#make empty data frame with column names of (preserving spaces and characters precisely) Request Id	Topic	Originating Organization	Local SNOMED CT Code	Local Term	Fully Specified Name	Semantic Tag	Preferred Term	Terminology(1)	Parent Concept Id(1)	Terminology(2)	Parent Concept Id(2)	Terminology(3)	Parent Concept Id(3)	UMLS CUI	Definition	Proposed Use	Note	Synonym	Synonym	Summary	Reference
+sct_submission <- data.frame(
+  `Request Id` = character(),
+  Topic = character(),
+  `Originating Organization` = character(),
+  `Local SNOMED CT Code` = character(),
+  `Local Term` = character(),
+  `Fully Specified Name` = character(),
+  `Semantic Tag` = character(),
+  `Preferred Term` = character(),
+  `Terminology(1)` = character(),
+  `Parent Concept Id(1)` = character(),
+  `Terminology(2)` = character(),
+  `Parent Concept Id(2)` = character(),
+  `Terminology(3)` = character(),
+  `Parent Concept Id(3)` = character(),
+  `UMLS CUI` = character(),
+  Definition = character(),
+  `Proposed Use` = character(),
+  Note = character(),
+  Synonym = character(),
+  Synonym.1 = character(),
+  Summary = character(),
+  Reference = character(),
+  stringsAsFactors = FALSE
+)
+    
+
+```
+
+last block is kept empty on purpose. (RSTUDIO IDE reasons) (using run all chunks above button)
+```{r}
+#| echo: false
+
+```
+

@@ -379,8 +379,6 @@ Injury of conjunctiva and corneal abrasion without foreign body, unspecified eye
 Injury of conjunctiva and corneal abrasion without foreign body, unspecified eye | 
 Injury of conjunctiva and corneal abrasion without foreign body, right eye | 
 Injury of conjunctiva and corneal abrasion without foreign body, left eye",0.976680384087791,"231863008"
-36684613,"Dermatochalasis of right upper eyelid",1803429,4476429,1,"100%~Dermatochalasis of right upper eyelid (H02.831)45547788;1803429 patients","Dermatochalasis of right upper eyelid",0.975308641975309,"331651000119104"
-36684676,"Dermatochalasis of left upper eyelid",1623250,3946478,1,"100%~Dermatochalasis of left upper eyelid (H02.834)45571861;1623250 patients","Dermatochalasis of left upper eyelid",0.973936899862826,"337261000119107"
 376415,"Hypermetropia",2353811,3806272,3,"42.4%~Hypermetropia, right eye (H52.01)45600958;994045 patients | 
 38.8%~Hypermetropia, left eye (H52.02)45591388;918689 patients | 
 18.9%~Hypermetropia, unspecified eye (H52.00)45596129;441077 patients","Hypermetropia, right eye | 
@@ -402,13 +400,6 @@ Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with ma
 Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, left eye | 
 Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, left eye | 
 Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, unspecified eye",0.969821673525377,"138911000119106"
-36713126,"Blepharitis of left eyelid",1909094,3612579,4,"40.1%~Unspecified blepharitis left upper eyelid (H01.004)45557265;780487 patients | 
-29.8%~Unspecified blepharitis left lower eyelid (H01.005)45586332;561455 patients | 
-23%~Unspecified blepharitis left eye, unspecified eyelid (H01.006)45538154;414323 patients | 
-7.1%~Unspecified blepharitis left eye, upper and lower eyelids (H01.00B)1595551;152829 patients","Unspecified blepharitis left upper eyelid | 
-Unspecified blepharitis left lower eyelid | 
-Unspecified blepharitis left eye, unspecified eyelid | 
-Unspecified blepharitis left eye, upper and lower eyelids",0.968449931412894,"341921000119102"
 378424,"Astigmatism",1780984,3480478,3,"66.2%~Unspecified astigmatism, unspecified eye (H52.209)45562273;987956 patients | 
 17.4%~Unspecified astigmatism, right eye (H52.201)45562271;406693 patients | 
 16.4%~Unspecified astigmatism, left eye (H52.202)45562272;386335 patients","Unspecified astigmatism, unspecified eye | 
@@ -739,7 +730,6 @@ Mechanical ptosis of unspecified eyelid",0.917695473251029,"76201007"
 Myogenic ptosis of left eyelid | 
 Myogenic ptosis of right eyelid | 
 Myogenic ptosis of unspecified eyelid",0.916323731138546,"53279002"
-37164929,"Seborrheic blepharitis of right lower eyelid",477365,969503,1,"100%~Squamous blepharitis right lower eyelid (H01.022)45547775;477365 patients","Squamous blepharitis right lower eyelid",0.914951989026063,"1237000005"
 433196,"Chorioretinal scar",451509,963753,6,"26.8%~Unspecified chorioretinal scars, left eye (H31.002)45581639;120241 patients | 
 26.2%~Unspecified chorioretinal scars, right eye (H31.001)45571939;117568 patients | 
 21.7%~Other chorioretinal scars, left eye (H31.092)45586434;97653 patients | 
@@ -866,13 +856,6 @@ Tributary (branch) retinal vein occlusion, right eye",0.908093278463649,"2459600
 22.1%~Hordeolum externum right eye, unspecified eyelid (H00.013)45571843;135829 patients","Hordeolum externum unspecified eye, unspecified eyelid | 
 Hordeolum externum left eye, unspecified eyelid | 
 Hordeolum externum right eye, unspecified eyelid",0.906721536351166,"1489008"
-37109050,"Meibomian gland dysfunction of right eye",460988,837162,4,"48.1%~Meibomian gland dysfunction right eye, upper and lower eyelids (H02.88A)1595584;221666 patients | 
-28.4%~Meibomian gland dysfunction of right eye, unspecified eyelid (H02.883)1595579;123627 patients | 
-14.5%~Meibomian gland dysfunction right lower eyelid (H02.882)1595578;70196 patients | 
-9%~Meibomian gland dysfunction right upper eyelid (H02.881)1595577;45499 patients","Meibomian gland dysfunction right eye, upper and lower eyelids | 
-Meibomian gland dysfunction of right eye, unspecified eyelid | 
-Meibomian gland dysfunction right lower eyelid | 
-Meibomian gland dysfunction right upper eyelid",0.905349794238683,"16237381000119100"
 437273,"Pseudoexfoliation glaucoma",175606,828658,18,"13.4%~Capsular glaucoma with pseudoexfoliation of lens, right eye, mild stage (H40.1411)45533314;23994 patients | 
 13%~Capsular glaucoma with pseudoexfoliation of lens, left eye, severe stage (H40.1423)45547887;16644 patients | 
 12.5%~Capsular glaucoma with pseudoexfoliation of lens, left eye, mild stage (H40.1421)45543045;22679 patients | 
@@ -918,7 +901,6 @@ Horseshoe tear of retina without detachment, unspecified eye",0.902606310013717,
 3.5%~Retinal neovascularization, unspecified, unspecified eye (H35.059)45586444;9271 patients","Retinal neovascularization, unspecified, left eye | 
 Retinal neovascularization, unspecified, right eye | 
 Retinal neovascularization, unspecified, unspecified eye",0.901234567901235,"61267008"
-37164930,"Seborrheic blepharitis of left lower eyelid",413045,813873,1,"100%~Squamous blepharitis left lower eyelid (H01.025)45557268;413045 patients","Squamous blepharitis left lower eyelid",0.899862825788752,"1237001009"
 375265,"Superficial punctate keratitis",438906,807962,3,"48.8%~Punctate keratitis, left eye (H16.142)45586387;211879 patients | 
 44.2%~Punctate keratitis, right eye (H16.141)45547821;194086 patients | 
 7%~Punctate keratitis, unspecified eye (H16.149)45581594;32941 patients","Punctate keratitis, left eye | 
@@ -1144,9 +1126,6 @@ Round hole, unspecified eye",0.861454046639232,"302888003"
 7.2%~Central retinal artery occlusion, unspecified eye (H34.10)45567036;13374 patients","Central retinal artery occlusion, right eye | 
 Central retinal artery occlusion, left eye | 
 Central retinal artery occlusion, unspecified eye",0.860082304526749,"38742007"
-36712705,"Vitreomacular adhesion of left eye",146624,486196,1,"100%~Vitreomacular adhesion, left eye (H43.822)45605694;146624 patients","Vitreomacular adhesion, left eye",0.858710562414266,"10762151000119101"
-36684646,"Senile ectropion of right lower eyelid",194108,476224,1,"100%~Senile ectropion of right lower eyelid (H02.132)45595979;194108 patients","Senile ectropion of right lower eyelid",0.857338820301783,"334301000119105"
-36684711,"Senile ectropion of left lower eyelid",192700,467101,1,"100%~Senile ectropion of left lower eyelid (H02.135)45542931;192700 patients","Senile ectropion of left lower eyelid",0.8559670781893,"339901000119108"
 381572,"Abducens nerve palsy",143531,465208,3,"45.7%~Sixth [abducent] nerve palsy, left eye (H49.22)45581694;61832 patients | 
 38.5%~Sixth [abducent] nerve palsy, right eye (H49.21)45596120;51592 patients | 
 15.7%~Sixth [abducent] nerve palsy, unspecified eye (H49.20)45605707;30107 patients","Sixth [abducent] nerve palsy, left eye | 
@@ -1180,22 +1159,6 @@ Hordeolum internum left eye, unspecified eyelid",0.847736625514403,"414521009"
 0.6%~Retinal detachment with multiple breaks, unspecified eye (H33.029)45552660;1298 patients","Retinal detachment with multiple breaks, right eye | 
 Retinal detachment with multiple breaks, left eye | 
 Retinal detachment with multiple breaks, unspecified eye",0.84636488340192,"712507000"
-4164640,"Blind right eye",187853,420073,7,"100%~Unqualified visual loss, right eye, normal vision left eye (H54.61)45562286;187853 patients | 
-NA | 
-NA | 
-NA | 
-NA | 
-NA | 
-NA","Unqualified visual loss, right eye, normal vision left eye | 
-Blindness right eye, category 4 | 
-Blindness, right eye, category 3 | 
-Blindness, right eye, category 4 | 
-Blindness, right eye, category 5 | 
-Blindness right eye, category 3 | 
-Blindness right eye, category 5",0.844993141289438,"274572000"
-4164639,"Blind left eye",190694,419438,2,"100%~Unqualified visual loss, left eye, normal vision right eye (H54.62)45562287;190694 patients | 
-NA","Unqualified visual loss, left eye, normal vision right eye | 
-Blindness, left eye, category 3-5",0.843621399176955,"274571007"
 435993,"Foreign body in conjunctival sac",307381,418855,9,"45.3%~Foreign body in conjunctival sac, right eye, initial encounter (T15.11XA)45589510;140216 patients | 
 44.5%~Foreign body in conjunctival sac, left eye, initial encounter (T15.12XA)45584647;138833 patients | 
 4.1%~Foreign body in conjunctival sac, unspecified eye, initial encounter (T15.10XA)45589508;12125 patients | 
@@ -1218,7 +1181,6 @@ Foreign body in conjunctival sac, right eye",0.842249657064472,"52497002"
 12.9%~Unspecified purulent endophthalmitis, unspecified eye (H44.009)45562249;25095 patients","Unspecified purulent endophthalmitis, right eye | 
 Unspecified purulent endophthalmitis, left eye | 
 Unspecified purulent endophthalmitis, unspecified eye",0.840877914951989,"41720003"
-36712706,"Vitreomacular adhesion of right eye",126658,409222,1,"100%~Vitreomacular adhesion, right eye (H43.821)45586473;126658 patients","Vitreomacular adhesion, right eye",0.839506172839506,"10762191000119106"
 373203,"Central opacity of cornea",152218,402026,3,"49.7%~Central corneal opacity, right eye (H17.11)45591276;75931 patients | 
 48.6%~Central corneal opacity, left eye (H17.12)45596030;72691 patients | 
 1.7%~Central corneal opacity, unspecified eye (H17.10)45533251;3596 patients","Central corneal opacity, right eye | 
@@ -1393,11 +1355,6 @@ Chronic iridocyclitis, unspecified eye",0.813443072702332,"77971008"
 Other vascular disorders of iris and ciliary body, left eye | 
 Other vascular disorders of iris and ciliary body, unspecified eye | 
 Unspecified adhesions of iris and ciliary body, unspecified eye",0.812071330589849,"733316000"
-36712753,"Foreign body in right cornea",197892,312719,3,"88.6%~Foreign body in cornea, right eye, initial encounter (T15.01XA)45604015;175585 patients | 
-11.4%~Foreign body in cornea, right eye, subsequent encounter (T15.01XD)45536467;22307 patients | 
-NA","Foreign body in cornea, right eye, initial encounter | 
-Foreign body in cornea, right eye, subsequent encounter | 
-Foreign body in cornea, right eye",0.810699588477366,"10849141000119102"
 443784,"Vascular disorder",41456,311395,3,"47.8%~Other vascular disorders of iris and ciliary body, right eye (H21.1X1)45557366;19501 patients | 
 47.3%~Other vascular disorders of iris and ciliary body, left eye (H21.1X2)45605639;18940 patients | 
 4.9%~Other vascular disorders of iris and ciliary body, unspecified eye (H21.1X9)45557367;3015 patients","Other vascular disorders of iris and ciliary body, right eye | 
@@ -1440,7 +1397,6 @@ Foreign body on external eye, part unspecified, right eye |
 Foreign body on external eye, part unspecified, left eye | 
 Foreign body in other and multiple parts of external eye, right eye | 
 Foreign body on external eye, part unspecified",0.8079561042524,"55899000"
-42535528,"Blepharitis of right eyelid",177863,307617,1,"100%~Unspecified blepharitis right eye, upper and lower eyelids (H01.00A)1595550;177863 patients","Unspecified blepharitis right eye, upper and lower eyelids",0.806584362139918,"336311000119103"
 379812,"Exposure keratoconjunctivitis",110452,307282,3,"47.5%~Exposure keratoconjunctivitis, left eye (H16.212)45596027;52083 patients | 
 44.1%~Exposure keratoconjunctivitis, right eye (H16.211)45605622;47346 patients | 
 8.5%~Exposure keratoconjunctivitis, unspecified eye (H16.219)45591273;11023 patients","Exposure keratoconjunctivitis, left eye | 
@@ -1543,11 +1499,6 @@ Abrasion of unspecified eyelid and periocular area",0.802469135802469,"283050005
 4.6%~Central serous chorioretinopathy, unspecified eye (H35.719)45543039;5339 patients","Central serous chorioretinopathy, left eye | 
 Central serous chorioretinopathy, right eye | 
 Central serous chorioretinopathy, unspecified eye",0.801097393689986,"312956001"
-36712754,"Foreign body in left cornea",186347,294937,3,"88.5%~Foreign body in cornea, left eye, initial encounter (T15.02XA)45604016;164876 patients | 
-11.5%~Foreign body in cornea, left eye, subsequent encounter (T15.02XD)45565290;21471 patients | 
-NA","Foreign body in cornea, left eye, initial encounter | 
-Foreign body in cornea, left eye, subsequent encounter | 
-Foreign body in cornea, left eye",0.799725651577503,"10849181000119107"
 436695,"Band-shaped keratopathy",69782,285360,3,"49.8%~Band keratopathy, right eye (H18.421)45552621;34058 patients | 
 46.7%~Band keratopathy, left eye (H18.422)45552622;31835 patients | 
 3.4%~Band keratopathy, unspecified eye (H18.429)45538227;3889 patients","Band keratopathy, right eye | 
@@ -1642,7 +1593,6 @@ Ulcerative blepharitis left lower eyelid",0.781893004115226,"700291008"
 28.4%~Unspecified ectropion of left eye, unspecified eyelid (H02.106)45586338;35221 patients","Unspecified ectropion of unspecified eye, unspecified eyelid | 
 Unspecified ectropion of right eye, unspecified eyelid | 
 Unspecified ectropion of left eye, unspecified eyelid",0.780521262002744,"62909004"
-37207866,"Dermatochalasis of right lower eyelid",142862,246377,1,"100%~Dermatochalasis of right lower eyelid (H02.832)45595986;142862 patients","Dermatochalasis of right lower eyelid",0.779149519890261,"334221000119107"
 438155,"Glaucomatous atrophy of optic disc",105036,244617,3,"36.2%~Glaucomatous optic atrophy, left eye (H47.232)45557445;36871 patients | 
 35.9%~Glaucomatous optic atrophy, right eye (H47.231)45567082;36756 patients | 
 27.9%~Glaucomatous optic atrophy, unspecified eye (H47.239)45576780;31409 patients","Glaucomatous optic atrophy, left eye | 
@@ -1688,9 +1638,6 @@ Unspecified chronic conjunctivitis, unspecified eye |
 Unspecified chronic conjunctivitis, left eye | 
 Unspecified chronic conjunctivitis, right eye | 
 Chronic giant papillary conjunctivitis, unspecified eye",0.775034293552812,"73762008"
-36712713,"Primary basal cell carcinoma of left eyelid",41840,240766,2,"76.5%~Basal cell carcinoma of skin of left lower eyelid, including canthus (C44.1192)1595498;29573 patients | 
-23.5%~Basal cell carcinoma of skin of left upper eyelid, including canthus (C44.1191)1595497;12267 patients","Basal cell carcinoma of skin of left lower eyelid, including canthus | 
-Basal cell carcinoma of skin of left upper eyelid, including canthus",0.773662551440329,"1079111000119108"
 372627,"Transient visual loss",123117,238836,3,"37.6%~Transient visual loss, left eye (H53.122)45547939;44395 patients | 
 36.9%~Transient visual loss, right eye (H53.121)45562276;44112 patients | 
 25.5%~Transient visual loss, unspecified eye (H53.129)45600960;34610 patients","Transient visual loss, left eye | 
@@ -1707,19 +1654,6 @@ Cysts of right lower eyelid",0.769547325102881,"700330005"
 45763823,"Allergic contact dermatitis of upper eyelid",149333,234388,2,"54.7%~Allergic dermatitis of right upper eyelid (H01.111)45595972;80602 patients | 
 45.3%~Allergic dermatitis of left upper eyelid (H01.114)45586334;68731 patients","Allergic dermatitis of right upper eyelid | 
 Allergic dermatitis of left upper eyelid",0.768175582990398,"700340008"
-45757719,"Blind right eye, normal vision left eye",51894,230090,7,"52.2%~Blindness right eye category 3, blindness left eye category 3 (H54.0X33)1326537;15526 patients | 
-23.1%~Blindness right eye category 3, normal vision left eye (H54.413A)1326573;17908 patients | 
-13.4%~Blindness right eye category 5, normal vision left eye (H54.415A)1326577;10396 patients | 
-5.6%~Blindness right eye category 4, normal vision left eye (H54.414A)1326575;5354 patients | 
-2.9%~Blindness right eye category 3, blindness left eye category 4 (H54.0X34)1326538;1564 patients | 
-2.8%~Blindness right eye category 3, blindness left eye category 5 (H54.0X35)1326539;1146 patients | 
-NA","Blindness right eye category 3, blindness left eye category 3 | 
-Blindness right eye category 3, normal vision left eye | 
-Blindness right eye category 5, normal vision left eye | 
-Blindness right eye category 4, normal vision left eye | 
-Blindness right eye category 3, blindness left eye category 4 | 
-Blindness right eye category 3, blindness left eye category 5 | 
-Blindness, right eye, normal vision left eye",0.766803840877915,"343021000119100"
 45763790,"Cyst of upper eyelid",135595,228490,2,"51.6%~Cysts of right upper eyelid (H02.821)45557287;70169 patients | 
 48.4%~Cysts of left upper eyelid (H02.824)45542945;65426 patients","Cysts of right upper eyelid | 
 Cysts of left upper eyelid",0.765432098765432,"700302005"
@@ -1728,9 +1662,6 @@ Cysts of left upper eyelid",0.765432098765432,"700302005"
 2.8%~Conjunctival cysts, unspecified eye (H11.449)45557330;4036 patients","Conjunctival cysts, left eye | 
 Conjunctival cysts, right eye | 
 Conjunctival cysts, unspecified eye",0.764060356652949,"193901000"
-36712715,"Primary basal cell carcinoma of right eyelid",40522,227007,2,"74.1%~Basal cell carcinoma of skin of right lower eyelid, including canthus (C44.1122)1595496;27513 patients | 
-25.9%~Basal cell carcinoma of skin of right upper eyelid, including canthus (C44.1121)1595495;13009 patients","Basal cell carcinoma of skin of right lower eyelid, including canthus | 
-Basal cell carcinoma of skin of right upper eyelid, including canthus",0.762688614540466,"1079171000119100"
 37016179,"Mild nonproliferative retinopathy due to type 1 diabetes mellitus",61498,225272,6,"25.6%~Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye (E10.3299)37200148;13427 patients | 
 18%~Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, right eye (E10.3211)37200141;7081 patients | 
 17.9%~Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, right eye (E10.3291)37200145;17315 patients | 
@@ -1805,7 +1736,6 @@ Corneal transplant failure, unspecified eye",0.753086419753086,"15250008"
 Unspecified episcleritis, right eye | 
 Unspecified episcleritis, unspecified eye | 
 Episcleritis periodica fugax, unspecified eye",0.751714677640604,"815008"
-37207926,"Dermatochalasis of left lower eyelid",119235,199793,1,"100%~Dermatochalasis of left lower eyelid (H02.835)45581546;119235 patients","Dermatochalasis of left lower eyelid",0.750342935528121,"339821000119107"
 4147020,"Insect bite of eyelids and periocular area",135501,196981,18,"45.2%~Insect bite (nonvenomous) of left eyelid and periocular area, initial encounter (S00.262A)45549001;60769 patients | 
 45.2%~Insect bite (nonvenomous) of right eyelid and periocular area, initial encounter (S00.261A)45573054;60735 patients | 
 4.8%~Insect bite (nonvenomous) of unspecified eyelid and periocular area, initial encounter (S00.269A)45539377;7153 patients | 
@@ -1935,23 +1865,11 @@ Acute angle-closure glaucoma, left eye",0.739368998628258,"30041005"
 28.9%~Unspecified retinoschisis, unspecified eye (H33.109)45567031;2668 patients","Unspecified retinoschisis, left eye | 
 Unspecified retinoschisis, right eye | 
 Unspecified retinoschisis, unspecified eye",0.737997256515775,"44268007"
-37168303,"Break of retina of right eye",74213,189412,1,"100%~Unspecified retinal break, right eye (H33.301)45557394;74213 patients","Unspecified retinal break, right eye",0.736625514403292,"1279731008"
-37168305,"Break of retina of left eye",73344,185254,1,"100%~Unspecified retinal break, left eye (H33.302)45567034;73344 patients","Unspecified retinal break, left eye",0.735253772290809,"1279733006"
-37208309,"Benign neoplasm of skin of right eyelid",113698,184538,3,"51.2%~Other benign neoplasm of skin of right upper eyelid, including canthus (D23.111)1595527;57449 patients | 
-48.8%~Other benign neoplasm of skin of right lower eyelid, including canthus (D23.112)1595528;56249 patients | 
-NA","Other benign neoplasm of skin of right upper eyelid, including canthus | 
-Other benign neoplasm of skin of right lower eyelid, including canthus | 
-Other benign neoplasm of skin of right eyelid, including canthus",0.733882030178326,"1079391000119102"
 377556,"Sudden visual loss",97076,184497,3,"41%~Sudden visual loss, right eye (H53.131)45562277;39782 patients | 
 39.7%~Sudden visual loss, left eye (H53.132)45576790;38233 patients | 
 19.3%~Sudden visual loss, unspecified eye (H53.139)45572013;19061 patients","Sudden visual loss, right eye | 
 Sudden visual loss, left eye | 
 Sudden visual loss, unspecified eye",0.732510288065844,"15203004"
-37208308,"Benign neoplasm of skin of left eyelid",110752,179174,3,"51.8%~Other benign neoplasm of skin of left lower eyelid, including canthus (D23.122)1595530;57946 patients | 
-48.2%~Other benign neoplasm of skin of left upper eyelid, including canthus (D23.121)1595529;52806 patients | 
-NA","Other benign neoplasm of skin of left lower eyelid, including canthus | 
-Other benign neoplasm of skin of left upper eyelid, including canthus | 
-Other benign neoplasm of skin of left eyelid, including canthus",0.731138545953361,"1079351000119107"
 4078543,"Absolute glaucoma",35663,178859,3,"49.1%~Absolute glaucoma, unspecified eye (H44.519)45591366;12517 patients | 
 26%~Absolute glaucoma, right eye (H44.511)45596107;11749 patients | 
 25%~Absolute glaucoma, left eye (H44.512)45596108;11397 patients","Absolute glaucoma, unspecified eye | 
@@ -2144,7 +2062,6 @@ Subluxation of lens, unspecified eye",0.694101508916324,"65814009"
 15%~Scotoma involving central area, unspecified eye (H53.419)45605713;11655 patients","Scotoma involving central area, right eye | 
 Scotoma involving central area, left eye | 
 Scotoma involving central area, unspecified eye",0.692729766803841,"38950008"
-37207869,"Senile entropion of right lower eyelid",51659,144666,1,"100%~Senile entropion of right lower eyelid (H02.032)45591218;51659 patients","Senile entropion of right lower eyelid",0.691358024691358,"334291000119109"
 379822,"Cyst of eyelid",92363,143685,3,"36.1%~Cysts of left eye, unspecified eyelid (H02.826)45566933;32902 patients | 
 35.7%~Cysts of right eye, unspecified eyelid (H02.823)45576637;32445 patients | 
 28.2%~Cysts of unspecified eye, unspecified eyelid (H02.829)45581545;27016 patients","Cysts of left eye, unspecified eyelid | 
@@ -2268,7 +2185,6 @@ Retinal micro-aneurysms, unspecified, unspecified eye",0.669410150891632,"340370
 15.5%~Chronic giant papillary conjunctivitis, unspecified eye (H10.419)45552588;7303 patients","Chronic giant papillary conjunctivitis, right eye | 
 Chronic giant papillary conjunctivitis, left eye | 
 Chronic giant papillary conjunctivitis, unspecified eye",0.66803840877915,"231857004"
-37207929,"Senile entropion of left lower eyelid",44364,120936,1,"100%~Senile entropion of left lower eyelid (H02.035)45562122;44364 patients","Senile entropion of left lower eyelid",0.666666666666667,"339891000119109"
 374338,"Nondiabetic proliferative retinopathy",36280,118477,3,"44.8%~Other non-diabetic proliferative retinopathy, right eye (H35.21)45547869;15704 patients | 
 42.8%~Other non-diabetic proliferative retinopathy, left eye (H35.22)45543032;14839 patients | 
 12.4%~Other non-diabetic proliferative retinopathy, unspecified eye (H35.20)45600909;5737 patients","Other non-diabetic proliferative retinopathy, right eye | 
@@ -2341,7 +2257,6 @@ Low vision, right eye, category 1 |
 Low vision, left eye, category 1-2 | 
 Low vision, right eye, category 2 | 
 Low vision, right eye, category 1",0.655692729766804,"193745007"
-36713314,"Phthisis bulbi of left eye",28592,109131,1,"100%~Atrophy of globe, left eye (H44.522)45538295;28592 patients","Atrophy of globe, left eye",0.654320987654321,"677391000119100"
 372906,"Blindness - both eyes",19165,108880,6,"57.4%~Blindness right eye category 5, blindness left eye category 5 (H54.0X55)1326547;9232 patients | 
 23.6%~Blindness right eye category 4, blindness left eye category 4 (H54.0X44)1326542;4686 patients | 
 5.1%~Blindness right eye category 4, blindness left eye category 5 (H54.0X45)1326543;1307 patients | 
@@ -2353,8 +2268,6 @@ Blindness right eye category 4, blindness left eye category 5 |
 Blindness right eye category 5, blindness left eye category 4 | 
 Blindness right eye category 5, blindness left eye category 3 | 
 Blindness right eye category 4, blindness left eye category 3",0.652949245541838,"193699007"
-37207959,"Edema of right upper eyelid",78288,108777,1,"100%~Edema of right upper eyelid (H02.841)45562134;78288 patients","Edema of right upper eyelid",0.651577503429355,"342461000119105"
-37207927,"Cicatricial ectropion of left lower eyelid",38771,107729,1,"100%~Cicatricial ectropion of left lower eyelid (H02.115)45538164;38771 patients","Cicatricial ectropion of left lower eyelid",0.650205761316872,"339851000119104"
 4338893,"Giant retinal tear",25097,107641,3,"49.7%~Retinal detachment with giant retinal tear, right eye (H33.031)45552661;12377 patients | 
 48.3%~Retinal detachment with giant retinal tear, left eye (H33.032)45596065;11898 patients | 
 2%~Retinal detachment with giant retinal tear, unspecified eye (H33.039)45547858;822 patients","Retinal detachment with giant retinal tear, right eye | 
@@ -2370,16 +2283,6 @@ Unspecified entropion of left eye, unspecified eyelid",0.647462277091907,"331680
 25.6%~Optic nerve hypoplasia, left eye (H47.032)45591377;8365 patients","Optic nerve hypoplasia, unspecified eye | 
 Optic nerve hypoplasia, right eye | 
 Optic nerve hypoplasia, left eye",0.646090534979424,"95499004"
-36717025,"Phthisis bulbi of right eye",27954,104217,1,"100%~Atrophy of globe, right eye (H44.521)45543057;27954 patients","Atrophy of globe, right eye",0.644718792866941,"677401000119103"
-37207960,"Edema of left upper eyelid",74847,103816,1,"100%~Edema of left upper eyelid (H02.844)45557288;74847 patients","Edema of left upper eyelid",0.643347050754458,"342491000119103"
-45757721,"Blind left eye, normal vision right eye",36491,103306,4,"53.3%~Blindness left eye category 3, normal vision right eye (H54.42A3)1326579;18006 patients | 
-31.5%~Blindness left eye category 5, normal vision right eye (H54.42A5)1326581;12140 patients | 
-15.3%~Blindness left eye category 4, normal vision right eye (H54.42A4)1326580;6345 patients | 
-NA","Blindness left eye category 3, normal vision right eye | 
-Blindness left eye category 5, normal vision right eye | 
-Blindness left eye category 4, normal vision right eye | 
-Blindness, left eye, normal vision right eye",0.641975308641975,"343041000119106"
-37207867,"Cicatricial ectropion of right lower eyelid",37415,102167,1,"100%~Cicatricial ectropion of right lower eyelid (H02.112)45591222;37415 patients","Cicatricial ectropion of right lower eyelid",0.640603566529492,"334251000119104"
 374874,"Primary malignant neoplasm of eye",23986,101450,4,"39.8%~Malignant neoplasm of unspecified site of unspecified eye (C69.90)45537833;9746 patients | 
 30.7%~Malignant neoplasm of unspecified site of right eye (C69.91)45537834;7096 patients | 
 29.5%~Malignant neoplasm of unspecified site of left eye (C69.92)45595681;7144 patients | 
@@ -2685,25 +2588,6 @@ Burn of cornea and conjunctival sac, right eye |
 Corrosion of cornea and conjunctival sac, left eye | 
 Corrosion of cornea and conjunctival sac, right eye | 
 Corrosion of cornea and conjunctival sac, unspecified eye",0.617283950617284,"698780001"
-36713154,"Abscess of right upper eyelid",49762,80839,1,"100%~Abscess of right upper eyelid (H00.031)45591212;49762 patients","Abscess of right upper eyelid",0.615912208504801,"347641000119105"
-45757720,"Blind right eye, low vision left eye",18924,79224,9,"42.7%~Blindness right eye category 3, low vision left eye category 1 (H54.1131)1326549;7425 patients | 
-17.7%~Blindness right eye category 5, low vision left eye category 2 (H54.1152)1326556;2310 patients | 
-11.7%~Blindness right eye category 5, low vision left eye category 1 (H54.1151)1326555;2501 patients | 
-11%~Blindness right eye category 3, low vision left eye category 2 (H54.1132)1326550;2081 patients | 
-9.9%~Blindness right eye category 4, low vision left eye category 1 (H54.1141)1326552;2824 patients | 
-7%~Blindness right eye category 4, low vision left eye category 2 (H54.1142)1326553;1783 patients | 
-NA | 
-NA | 
-NA","Blindness right eye category 3, low vision left eye category 1 | 
-Blindness right eye category 5, low vision left eye category 2 | 
-Blindness right eye category 5, low vision left eye category 1 | 
-Blindness right eye category 3, low vision left eye category 2 | 
-Blindness right eye category 4, low vision left eye category 1 | 
-Blindness right eye category 4, low vision left eye category 2 | 
-Blindness right eye category 4, low vision left eye | 
-Blindness right eye category 3, low vision left eye | 
-Blindness right eye category 5, low vision left eye",0.614540466392318,"343031000119102"
-37207961,"Eczematous dermatitis of right upper eyelid",52541,79173,1,"100%~Eczematous dermatitis of right upper eyelid (H01.131)45581528;52541 patients","Eczematous dermatitis of right upper eyelid",0.613168724279835,"342521000119101"
 4338759,"Squamous cell carcinoma of eyelid",30300,77869,7,"29.9%~Squamous cell carcinoma of skin of unspecified eyelid, including canthus (C44.121)45547495;9419 patients | 
 23.4%~Squamous cell carcinoma of skin of left lower eyelid, including canthus (C44.1292)1595502;6979 patients | 
 21.1%~Squamous cell carcinoma of skin of right lower eyelid, including canthus (C44.1222)1595500;6310 patients | 
@@ -2810,7 +2694,6 @@ Retinal telangiectasis, unspecified eye",0.609053497942387,"84884003"
 17.1%~Senile ectropion of left eye, unspecified eyelid (H02.136)45547782;6905 patients","Senile ectropion of unspecified eye, unspecified eyelid | 
 Senile ectropion of right eye, unspecified eyelid | 
 Senile ectropion of left eye, unspecified eyelid",0.607681755829904,"71659009"
-36717312,"Abscess of left upper eyelid",46736,76543,1,"100%~Abscess of left upper eyelid (H00.034)45595970;46736 patients","Abscess of left upper eyelid",0.606310013717421,"347671000119103"
 381252,"Benign neoplasm of eye",36570,76360,4,"42.3%~Benign neoplasm of unspecified part of right eye (D31.91)45557072;15806 patients | 
 39.5%~Benign neoplasm of unspecified part of left eye (D31.92)45571609;15068 patients | 
 18.1%~Benign neoplasm of unspecified part of unspecified eye (D31.90)45581301;5696 patients | 
@@ -2934,9 +2817,6 @@ Anterior scleritis, unspecified eye",0.589849108367627,"63454000"
 45763827,"Abnormal retraction of upper eyelid",28684,68488,2,"52.4%~Eyelid retraction right upper eyelid (H02.531)45542939;14999 patients | 
 47.6%~Eyelid retraction left upper eyelid (H02.534)45533192;13685 patients","Eyelid retraction right upper eyelid | 
 Eyelid retraction left upper eyelid",0.588477366255144,"700344004"
-37207963,"Eczematous dermatitis of left upper eyelid",46022,67936,1,"100%~Eczematous dermatitis of left upper eyelid (H01.134)45605579;46022 patients","Eczematous dermatitis of left upper eyelid",0.587105624142661,"342551000119109"
-3656982,"Mechanical ectropion of left lower eyelid",33053,67775,1,"100%~Mechanical ectropion of left lower eyelid (H02.125)45562127;33053 patients","Mechanical ectropion of left lower eyelid",0.585733882030178,"339741000119107"
-3656897,"Mechanical ectropion of right lower eyelid",32695,67531,1,"100%~Mechanical ectropion of right lower eyelid (H02.122)45562126;32695 patients","Mechanical ectropion of right lower eyelid",0.584362139917695,"334141000119109"
 376401,"Traumatic cataract",27188,67054,3,"46.3%~Unspecified traumatic cataract, right eye (H26.101)45571925;12632 patients | 
 45.8%~Unspecified traumatic cataract, left eye (H26.102)45562211;12640 patients | 
 7.9%~Unspecified traumatic cataract, unspecified eye (H26.109)45567015;1916 patients","Unspecified traumatic cataract, right eye | 
@@ -3036,21 +2916,6 @@ Pannus (corneal), unspecified eye",0.576131687242798,"35666006"
 23.5%~Xanthelasma of left eye, unspecified eyelid (H02.66)45600830;8381 patients","Xanthelasma of unspecified eye, unspecified eyelid | 
 Xanthelasma of right eye, unspecified eyelid | 
 Xanthelasma of left eye, unspecified eyelid",0.574759945130315,"238951005"
-45757722,"Blind left eye, low vision right eye",17931,61855,8,"41.4%~Low vision right eye category 1, blindness left eye category 3 (H54.1213)1326558;6777 patients | 
-14.4%~Low vision right eye category 2, blindness left eye category 5 (H54.1225)1326564;2117 patients | 
-14.3%~Low vision right eye category 1, blindness left eye category 5 (H54.1215)1326560;2387 patients | 
-12.3%~Low vision right eye category 1, blindness left eye category 4 (H54.1214)1326559;2926 patients | 
-9.7%~Low vision right eye category 2, blindness left eye category 3 (H54.1223)1326562;2034 patients | 
-7.8%~Low vision right eye category 2, blindness left eye category 4 (H54.1224)1326563;1690 patients | 
-NA | 
-NA","Low vision right eye category 1, blindness left eye category 3 | 
-Low vision right eye category 2, blindness left eye category 5 | 
-Low vision right eye category 1, blindness left eye category 5 | 
-Low vision right eye category 1, blindness left eye category 4 | 
-Low vision right eye category 2, blindness left eye category 3 | 
-Low vision right eye category 2, blindness left eye category 4 | 
-Low vision right eye category 2, blindness left eye | 
-Low vision right eye category 1, blindness left eye",0.573388203017833,"343051000119108"
 376119,"Perforated corneal ulcer",10692,61245,3,"49.8%~Perforated corneal ulcer, left eye (H16.072)45542975;5052 patients | 
 47%~Perforated corneal ulcer, right eye (H16.071)45552606;4916 patients | 
 3.2%~Perforated corneal ulcer, unspecified eye (H16.079)45533241;724 patients","Perforated corneal ulcer, left eye | 
@@ -3123,15 +2988,11 @@ Other specified diabetes mellitus with severe nonproliferative diabetic retinopa
 Other specified diabetes mellitus with stable proliferative diabetic retinopathy, left eye | 
 Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, left eye | 
 Other specified diabetes mellitus with stable proliferative diabetic retinopathy, right eye",0.565157750342936,"73211009"
-3657020,"Edema of right lower eyelid",40124,57134,1,"100%~Edema of right lower eyelid (H02.842)45533195;40124 patients","Edema of right lower eyelid",0.563786008230453,"342471000119104"
 373756,"Exudative retinopathy",17508,56155,3,"43.3%~Exudative retinopathy, right eye (H35.021)45562227;7551 patients | 
 42.6%~Exudative retinopathy, left eye (H35.022)45557399;7590 patients | 
 14.1%~Exudative retinopathy, unspecified eye (H35.029)45576732;2367 patients","Exudative retinopathy, right eye | 
 Exudative retinopathy, left eye | 
 Exudative retinopathy, unspecified eye",0.56241426611797,"25506007"
-3662401,"Edema of left lower eyelid",39831,55771,1,"100%~Edema of left lower eyelid (H02.845)45586347;39831 patients","Edema of left lower eyelid",0.561042524005487,"342501000119105"
-37168360,"Detachment of right retina with retinal break",12377,53485,1,"100%~Retinal detachment with giant retinal tear, right eye (H33.031)45552661;12377 patients","Retinal detachment with giant retinal tear, right eye",0.559670781893004,"1279847002"
-37168359,"Detachment of left retina with retinal break",11898,52031,1,"100%~Retinal detachment with giant retinal tear, left eye (H33.032)45596065;11898 patients","Retinal detachment with giant retinal tear, left eye",0.558299039780521,"1279846006"
 439815,"Choroidal degeneration",24512,50003,3,"41.5%~Choroidal degeneration, unspecified, right eye (H31.101)45586435;10248 patients | 
 36.4%~Choroidal degeneration, unspecified, left eye (H31.102)45567026;9044 patients | 
 22.1%~Choroidal degeneration, unspecified, unspecified eye (H31.109)45538252;5220 patients","Choroidal degeneration, unspecified, right eye | 
@@ -3259,9 +3120,6 @@ Angular blepharoconjunctivitis, unspecified eye",0.541838134430727,"69397000"
 1.4%~Serous choroidal detachment, unspecified eye (H31.429)45538256;297 patients","Serous choroidal detachment, right eye | 
 Serous choroidal detachment, left eye | 
 Serous choroidal detachment, unspecified eye",0.540466392318244,"78584008"
-35626038,"Mild nonproliferative retinopathy of right eye due to diabetes mellitus",9863,46726,2,"53.6%~Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, right eye (E08.3211)37200027;3735 patients | 
-46.4%~Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, right eye (E08.3291)37200031;6128 patients","Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, right eye | 
-Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, right eye",0.539094650205761,"769183005"
 4317981,"Upper eyelid entropion",23491,46632,2,"54.2%~Unspecified entropion of right upper eyelid (H02.001)45581530;12792 patients | 
 45.8%~Unspecified entropion of left upper eyelid (H02.004)45552559;10699 patients","Unspecified entropion of right upper eyelid | 
 Unspecified entropion of left upper eyelid",0.537722908093278,"95753002"
@@ -3299,7 +3157,6 @@ Drug or chemical induced diabetes mellitus with proliferative diabetic retinopat
 3.5%~Nodular episcleritis, unspecified eye (H15.129)45586381;788 patients","Nodular episcleritis, left eye | 
 Nodular episcleritis, right eye | 
 Nodular episcleritis, unspecified eye",0.534979423868313,"70558001"
-1077052,"Mechanical entropion of right lower eyelid",12143,45423,1,"100%~Mechanical entropion of right lower eyelid (H02.022)45571849;12143 patients","Mechanical entropion of right lower eyelid",0.53360768175583,"334131000119100"
 377272,"Secondary vitreoretinal degeneration",26077,45380,3,"48.8%~Secondary vitreoretinal degeneration, left eye (H35.462)45538270;12767 patients | 
 45.2%~Secondary vitreoretinal degeneration, right eye (H35.461)45552677;11567 patients | 
 6%~Secondary vitreoretinal degeneration, unspecified eye (H35.469)45576737;1743 patients","Secondary vitreoretinal degeneration, left eye | 
@@ -3318,7 +3175,6 @@ Constant exophthalmos, unspecified eye",0.529492455418381,"89907009"
 45763779,"Senile entropion of upper eyelid",22510,44794,2,"55.1%~Senile entropion of right upper eyelid (H02.031)45576625;12443 patients | 
 44.9%~Senile entropion of left upper eyelid (H02.034)45600821;10067 patients","Senile entropion of right upper eyelid | 
 Senile entropion of left upper eyelid",0.528120713305898,"700289000"
-36713155,"Abscess of right lower eyelid",28223,44480,1,"100%~Abscess of right lower eyelid (H00.032)45552555;28223 patients","Abscess of right lower eyelid",0.526748971193416,"347651000119107"
 45763774,"Unstable keratoconus",15756,44174,3,"49.6%~Keratoconus, unstable, left eye (H18.622)45566999;7615 patients | 
 46.6%~Keratoconus, unstable, right eye (H18.621)45542993;7238 patients | 
 3.8%~Keratoconus, unstable, unspecified eye (H18.629)45571909;903 patients","Keratoconus, unstable, left eye | 
@@ -3363,14 +3219,11 @@ Other specified malignant neoplasm of skin of left eyelid, including canthus |
 Unspecified malignant neoplasm of skin of left eyelid, including canthus | 
 Other and unspecified malignant neoplasm of skin of eyelid, including canthus | 
 Other specified malignant neoplasm of skin of right eyelid, including canthus",0.521262002743484,"94021008"
-36717200,"Abscess of left lower eyelid",26639,43000,1,"100%~Abscess of left lower eyelid (H00.035)45562118;26639 patients","Abscess of left lower eyelid",0.519890260631001,"347681000119100"
 375250,"Retinopathy of prematurity stage 1 - demarcation line",19675,42866,3,"38.7%~Retinopathy of prematurity, stage 1, right eye (H35.121)45552671;7919 patients | 
 36.6%~Retinopathy of prematurity, stage 1, left eye (H35.122)45562230;7870 patients | 
 24.7%~Retinopathy of prematurity, stage 1, unspecified eye (H35.129)45533305;3886 patients","Retinopathy of prematurity, stage 1, right eye | 
 Retinopathy of prematurity, stage 1, left eye | 
 Retinopathy of prematurity, stage 1, unspecified eye",0.518518518518518,"408847006"
-37168148,"Multiple lesions of retina of left eye without detachment",17222,42735,1,"100%~Multiple defects of retina without detachment, left eye (H33.332)45591317;17222 patients","Multiple defects of retina without detachment, left eye",0.517146776406036,"1279496001"
-37168136,"Multiple lesions of retina of right eye without detachment",17329,42637,1,"100%~Multiple defects of retina without detachment, right eye (H33.331)45581648;17329 patients","Multiple defects of retina without detachment, right eye",0.515775034293553,"1275622007"
 435269,"Optic papillitis",15504,42006,3,"44%~Optic papillitis, right eye (H46.01)45576775;6707 patients | 
 41.7%~Optic papillitis, left eye (H46.02)45600943;6263 patients | 
 14.3%~Optic papillitis, unspecified eye (H46.00)45533338;2534 patients","Optic papillitis, right eye | 
@@ -3386,13 +3239,11 @@ Endothelial corneal dystrophy, left eye",0.513031550068587,"416960004"
 4.3%~Pupillary membranes, unspecified eye (H21.40)45557372;1004 patients","Pupillary membranes, right eye | 
 Pupillary membranes, left eye | 
 Pupillary membranes, unspecified eye",0.511659807956104,"95500008"
-1077020,"Mechanical entropion of right upper eyelid",8206,39903,1,"100%~Mechanical entropion of right upper eyelid (H02.021)45533182;8206 patients","Mechanical entropion of right upper eyelid",0.510288065843621,"331561000119103"
 436403,"Retinal vasculitis",10111,39825,3,"36.3%~Retinal vasculitis, right eye (H35.061)45586445;3560 patients | 
 35.7%~Retinal vasculitis, left eye (H35.062)45596069;3539 patients | 
 28.1%~Retinal vasculitis, unspecified eye (H35.069)45552670;3012 patients","Retinal vasculitis, right eye | 
 Retinal vasculitis, left eye | 
 Retinal vasculitis, unspecified eye",0.508916323731139,"77628002"
-1077095,"Mechanical entropion of left lower eyelid",10704,39249,1,"100%~Mechanical entropion of left lower eyelid (H02.025)45571851;10704 patients","Mechanical entropion of left lower eyelid",0.507544581618656,"339731000119103"
 432640,"Hypopyon ulcer",8773,39188,3,"51%~Corneal ulcer with hypopyon, left eye (H16.032)45552604;4429 patients | 
 47%~Corneal ulcer with hypopyon, right eye (H16.031)45591272;4017 patients | 
 2%~Corneal ulcer with hypopyon, unspecified eye (H16.039)45552605;327 patients","Corneal ulcer with hypopyon, left eye | 
@@ -3447,7 +3298,6 @@ Intermittent angle-closure glaucoma, unspecified eye",0.497942386831276,"6546000
 9.6%~Corneal edema secondary to contact lens, unspecified eye (H18.219)45538224;2373 patients","Corneal edema secondary to contact lens, right eye | 
 Corneal edema secondary to contact lens, left eye | 
 Corneal edema secondary to contact lens, unspecified eye",0.496570644718793,"49362009"
-1077061,"Mechanical entropion of left upper eyelid",7778,37563,1,"100%~Mechanical entropion of left upper eyelid (H02.024)45571850;7778 patients","Mechanical entropion of left upper eyelid",0.49519890260631,"337171000119107"
 374351,"Conjunctival scar",16250,37282,3,"47.8%~Scarring of conjunctiva, left eye (H11.242)45571895;7720 patients | 
 47.7%~Scarring of conjunctiva, right eye (H11.241)45586372;7609 patients | 
 4.5%~Scarring of conjunctiva, unspecified eye (H11.249)45586373;921 patients","Scarring of conjunctiva, left eye | 
@@ -3458,7 +3308,6 @@ Scarring of conjunctiva, unspecified eye",0.493827160493827,"90607003"
 1.7%~Total traumatic cataract, unspecified eye (H26.139)45605648;353 patients","Total traumatic cataract, right eye | 
 Total traumatic cataract, left eye | 
 Total traumatic cataract, unspecified eye",0.492455418381344,"8656007"
-3657021,"Eczematous dermatitis of right lower eyelid",24009,37055,1,"100%~Eczematous dermatitis of right lower eyelid (H01.132)45542926;24009 patients","Eczematous dermatitis of right lower eyelid",0.491083676268861,"342531000119103"
 438739,"Sympathetic uveitis",13194,36938,3,"38.4%~Sympathetic uveitis, right eye (H44.131)45538291;5202 patients | 
 36.3%~Sympathetic uveitis, left eye (H44.132)45596104;4907 patients | 
 25.3%~Sympathetic uveitis, unspecified eye (H44.139)45586476;3085 patients","Sympathetic uveitis, right eye | 
@@ -3478,14 +3327,9 @@ Retained foreign body in left eye, unspecified eyelid",0.488340192043896,"250120
 5%~Residual stage of angle-closure glaucoma, unspecified eye (H40.249)45591348;784 patients","Residual stage of angle-closure glaucoma, right eye | 
 Residual stage of angle-closure glaucoma, left eye | 
 Residual stage of angle-closure glaucoma, unspecified eye",0.486968449931413,"392291006"
-35626039,"Mild nonproliferative retinopathy of left eye due to diabetes mellitus",7809,35889,2,"50.9%~Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, left eye (E08.3212)37200028;2659 patients | 
-49.1%~Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, left eye (E08.3292)37200032;5150 patients","Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, left eye | 
-Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, left eye",0.48559670781893,"769184004"
 4319604,"Upper eyelid ectropion",21106,35731,2,"55.6%~Unspecified ectropion of right upper eyelid (H02.101)45566918;11415 patients | 
 44.4%~Unspecified ectropion of left upper eyelid (H02.104)45591221;9691 patients","Unspecified ectropion of right upper eyelid | 
 Unspecified ectropion of left upper eyelid",0.484224965706447,"95757001"
-36684720,"Episcleritis of left eye",18607,35397,1,"100%~Episcleritis periodica fugax, left eye (H15.112)45533236;18607 patients","Episcleritis periodica fugax, left eye",0.482853223593964,"340861000119109"
-36684727,"Neovascularization of left cornea",12276,35135,1,"100%~Unspecified corneal neovascularization, left eye (H16.402)45542980;12276 patients","Unspecified corneal neovascularization, left eye",0.481481481481481,"341231000119107"
 375251,"Retinopathy of prematurity stage 2 - intraretinal ridge",15628,35127,3,"40.6%~Retinopathy of prematurity, stage 2, right eye (H35.131)45538263;6834 patients | 
 33.7%~Retinopathy of prematurity, stage 2, left eye (H35.132)45596070;5805 patients | 
 25.7%~Retinopathy of prematurity, stage 2, unspecified eye (H35.139)45533306;2989 patients","Retinopathy of prematurity, stage 2, right eye | 
@@ -3530,7 +3374,6 @@ Injury of optic nerve, left eye",0.474622770919067,"48233004"
 20.2%~Primary angle closure without glaucoma damage, unspecified eye (H40.069)45552681;2090 patients","Primary angle closure without glaucoma damage, right eye | 
 Primary angle closure without glaucoma damage, left eye | 
 Primary angle closure without glaucoma damage, unspecified eye",0.473251028806584,"302217008"
-3656899,"Cicatricial entropion of right lower eyelid",13113,33803,1,"100%~Cicatricial entropion of right lower eyelid (H02.012)45576622;13113 patients","Cicatricial entropion of right lower eyelid",0.471879286694102,"334241000119101"
 437860,"Choroidal detachment",10158,33778,3,"49.3%~Unspecified choroidal detachment, right eye (H31.401)45547854;4880 patients | 
 47.2%~Unspecified choroidal detachment, left eye (H31.402)45543021;4760 patients | 
 3.5%~Unspecified choroidal detachment, unspecified eye (H31.409)45600898;518 patients","Unspecified choroidal detachment, right eye | 
@@ -3563,13 +3406,11 @@ Avulsion of left eye",0.467764060356653,"12193006"
 4%~Unspecified choroidal hemorrhage, unspecified eye (H31.309)45600897;644 patients","Unspecified choroidal hemorrhage, right eye | 
 Unspecified choroidal hemorrhage, left eye | 
 Unspecified choroidal hemorrhage, unspecified eye",0.46639231824417,"122003"
-36684661,"Neovascularization of right cornea",12004,33293,1,"100%~Unspecified corneal neovascularization, right eye (H16.401)45581599;12004 patients","Unspecified corneal neovascularization, right eye",0.465020576131687,"335621000119105"
 439011,"Progressive iris atrophy",15102,33255,3,"45.2%~Iris atrophy (essential) (progressive), right eye (H21.261)45533273;7017 patients | 
 44.8%~Iris atrophy (essential) (progressive), left eye (H21.262)45586415;6824 patients | 
 10%~Iris atrophy (essential) (progressive), unspecified eye (H21.269)45542999;1261 patients","Iris atrophy (essential) (progressive), right eye | 
 Iris atrophy (essential) (progressive), left eye | 
 Iris atrophy (essential) (progressive), unspecified eye",0.463648834019204,"25913001"
-36684654,"Episcleritis of right eye",17395,32722,1,"100%~Episcleritis periodica fugax, right eye (H15.111)45576666;17395 patients","Episcleritis periodica fugax, right eye",0.462277091906722,"335251000119100"
 377862,"Ocular fistula causing hypotony of eye",8993,32680,4,"45.3%~Hypotony of left eye due to ocular fistula (H44.422)45591364;3904 patients | 
 44.7%~Hypotony of right eye due to ocular fistula (H44.421)45533333;3982 patients | 
 7.6%~Hypotony of eye due to ocular fistula, bilateral (H44.423)45600932;813 patients | 
@@ -3639,8 +3480,6 @@ Unspecified superficial injury of left eyelid and periocular area |
 Other and unspecified superficial injuries of eyelid and periocular area | 
 Unspecified superficial injury of unspecified eyelid and periocular area | 
 External constriction of right eyelid and periocular area",0.455418381344307,"63943002"
-37207865,"Spastic entropion of right lower eyelid",11768,30929,1,"100%~Spastic entropion of right lower eyelid (H02.042)45557272;11768 patients","Spastic entropion of right lower eyelid",0.454046639231824,"334091000119102"
-3656984,"Cicatricial entropion of left lower eyelid",11657,30478,1,"100%~Cicatricial entropion of left lower eyelid (H02.015)45547780;11657 patients","Cicatricial entropion of left lower eyelid",0.452674897119342,"339841000119101"
 436986,"Enophthalmos",13381,30472,6,"25.4%~Unspecified enophthalmos, left eye (H05.402)45566952;3537 patients | 
 22.7%~Unspecified enophthalmos, right eye (H05.401)45547805;3075 patients | 
 19.8%~Enophthalmos due to trauma or surgery, left eye (H05.422)45586361;2675 patients | 
@@ -3652,7 +3491,6 @@ Enophthalmos due to trauma or surgery, left eye |
 Enophthalmos due to trauma or surgery, right eye | 
 Unspecified enophthalmos, unspecified eye | 
 Enophthalmos due to trauma or surgery, unspecified eye",0.451303155006859,"80093006"
-3657022,"Eczematous dermatitis of left lower eyelid",20468,30195,1,"100%~Eczematous dermatitis of left lower eyelid (H01.135)45571847;20468 patients","Eczematous dermatitis of left lower eyelid",0.449931412894376,"342561000119106"
 374956,"Anterior dislocation of lens",10785,29968,3,"48.3%~Anterior dislocation of lens, right eye (H27.121)45576705;5119 patients | 
 48.3%~Anterior dislocation of lens, left eye (H27.122)45581634;5211 patients | 
 3.4%~Anterior dislocation of lens, unspecified eye (H27.129)45567019;455 patients","Anterior dislocation of lens, right eye | 
@@ -3680,7 +3518,6 @@ Tonic pupil, unspecified eye",0.444444444444444,"24225004"
 3.3%~Iridodialysis, unspecified eye (H21.539)45600887;387 patients","Iridodialysis, right eye | 
 Iridodialysis, left eye | 
 Iridodialysis, unspecified eye",0.443072702331962,"45953007"
-37207896,"Central pterygium of right eye",13366,28594,1,"100%~Central pterygium of right eye (H11.021)45586368;13366 patients","Central pterygium of right eye",0.441700960219479,"336201000119108"
 436702,"Pseudopapilledema",14581,28562,3,"39.3%~Pseudopapilledema of optic disc, right eye (H47.331)45547918;5769 patients | 
 34.7%~Pseudopapilledema of optic disc, left eye (H47.332)45547919;5060 patients | 
 26%~Pseudopapilledema of optic disc, unspecified eye (H47.339)45576783;3752 patients","Pseudopapilledema of optic disc, right eye | 
@@ -3713,7 +3550,6 @@ Peripheral corneal degeneration, unspecified eye",0.43758573388203,"89182000"
 13.4%~Retrobulbar neuritis, unspecified eye (H46.10)45543063;1715 patients","Retrobulbar neuritis, left eye | 
 Retrobulbar neuritis, right eye | 
 Retrobulbar neuritis, unspecified eye",0.436213991769547,"230507009"
-37207956,"Central pterygium of left eye",13410,28170,1,"100%~Central pterygium of left eye (H11.022)45533225;13410 patients","Central pterygium of left eye",0.434842249657064,"341811000119103"
 381847,"Blind spot scotoma",14862,28010,3,"43.7%~Scotoma of blind spot area, right eye (H53.421)45562279;6554 patients | 
 40.9%~Scotoma of blind spot area, left eye (H53.422)45562280;6388 patients | 
 15.4%~Scotoma of blind spot area, unspecified eye (H53.429)45533366;1920 patients","Scotoma of blind spot area, right eye | 
@@ -3783,7 +3619,6 @@ Diffuse interstitial keratitis, unspecified eye",0.41838134430727,"17157001"
 Primary hypotony of left eye | 
 Primary hypotony of unspecified eye | 
 Primary hypotony of eye, bilateral",0.417009602194787,"2251002"
-37207925,"Spastic entropion of left lower eyelid",9573,25701,1,"100%~Spastic entropion of left lower eyelid (H02.045)45557273;9573 patients","Spastic entropion of left lower eyelid",0.415637860082305,"339691000119105"
 4335996,"Retinal dialysis",5171,25504,3,"45.9%~Retinal detachment with retinal dialysis, left eye (H33.042)45576721;2325 patients | 
 37.9%~Retinal detachment with retinal dialysis, right eye (H33.041)45562224;2228 patients | 
 16.2%~Retinal detachment with retinal dialysis, unspecified eye (H33.049)45571948;618 patients","Retinal detachment with retinal dialysis, left eye | 
@@ -3814,13 +3649,11 @@ Contact blepharoconjunctivitis, unspecified eye",0.40877914951989,"10813004"
 9.3%~Goniosynechiae, unspecified eye (H21.529)45552637;620 patients","Goniosynechiae, left eye | 
 Goniosynechiae, right eye | 
 Goniosynechiae, unspecified eye",0.407407407407407,"247034002"
-37207902,"Xanthoma of left upper eyelid",13743,24927,1,"100%~Xanthelasma of left upper eyelid (H02.64)45576633;13743 patients","Xanthelasma of left upper eyelid",0.406035665294925,"337091000119107"
 436692,"Retinal venous engorgement",10860,24793,3,"45.2%~Venous engorgement, left eye (H34.822)45591321;5006 patients | 
 44.6%~Venous engorgement, right eye (H34.821)45557397;4508 patients | 
 10.1%~Venous engorgement, unspecified eye (H34.829)45581650;1346 patients","Venous engorgement, left eye | 
 Venous engorgement, right eye | 
 Venous engorgement, unspecified eye",0.404663923182442,"193379006"
-37207842,"Xanthoma of right upper eyelid",13598,24784,1,"100%~Xanthelasma of right upper eyelid (H02.61)45538168;13598 patients","Xanthelasma of right upper eyelid",0.403292181069959,"331481000119108"
 45769873,"Traction detachment of retina due to type 1 diabetes mellitus",4778,24457,3,"48.1%~Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, left eye (E10.3532)37200176;2180 patients | 
 45.1%~Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, right eye (E10.3531)37200175;2209 patients | 
 6.8%~Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, unspecified eye (E10.3539)37200178;389 patients","Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, left eye | 
@@ -3876,7 +3709,6 @@ Blepharophimosis right eye, unspecified eyelid |
 Blepharophimosis left eye, unspecified eyelid | 
 Blepharophimosis right lower eyelid | 
 Blepharophimosis left lower eyelid",0.393689986282579,"715391004"
-3656854,"Cicatricial entropion of right upper eyelid",7612,21865,1,"100%~Cicatricial entropion of right upper eyelid (H02.011)45571848;7612 patients","Cicatricial entropion of right upper eyelid",0.392318244170096,"331671000119108"
 373204,"Conjunctival xerosis",7655,21679,3,"88.5%~Conjunctival xerosis, unspecified, unspecified eye (H11.149)45571892;6307 patients | 
 5.9%~Conjunctival xerosis, unspecified, left eye (H11.142)45562162;627 patients | 
 5.5%~Conjunctival xerosis, unspecified, right eye (H11.141)45566964;721 patients","Conjunctival xerosis, unspecified, unspecified eye | 
@@ -3897,12 +3729,6 @@ Panophthalmitis (acute), unspecified eye",0.388203017832647,"33382000"
 31.3%~Glaucoma with increased episcleral venous pressure, left eye (H40.812)45543052;2811 patients","Glaucoma with increased episcleral venous pressure, right eye | 
 Glaucoma with increased episcleral venous pressure, unspecified eye | 
 Glaucoma with increased episcleral venous pressure, left eye",0.386831275720165,"34623005"
-36684693,"Recurrent pterygium of left eye",8251,21283,1,"100%~Recurrent pterygium of left eye (H11.062)45591258;8251 patients","Recurrent pterygium of left eye",0.385459533607682,"338321000119109"
-45757708,"Low vision right eye, normal vision left eye",9876,21037,3,"65.7%~Low vision right eye category 1, normal vision left eye (H54.511A)1326583;7271 patients | 
-34.3%~Low vision right eye category 2, normal vision left eye (H54.512A)1326584;2605 patients | 
-NA","Low vision right eye category 1, normal vision left eye | 
-Low vision right eye category 2, normal vision left eye | 
-Low vision, right eye, normal vision left eye",0.384087791495199,"339911000119106"
 76122,"Brown's tendon sheath syndrome",7505,20699,2,"53.7%~Brown's sheath syndrome, right eye (H50.611)45572010;4019 patients | 
 46.3%~Brown's sheath syndrome, left eye (H50.612)45543076;3486 patients","Brown's sheath syndrome, right eye | 
 Brown's sheath syndrome, left eye",0.382716049382716,"35929003"
@@ -3919,14 +3745,6 @@ Foreign body in cornea, unspecified eye",0.37997256515775,"37450000"
 440705,"Adhesions of iris",10322,20201,2,"50.3%~Unspecified adhesions of iris, left eye (H21.502)45571920;5134 patients | 
 49.7%~Unspecified adhesions of iris, right eye (H21.501)45562201;5188 patients","Unspecified adhesions of iris, left eye | 
 Unspecified adhesions of iris, right eye",0.378600823045267,"78778007"
-36684630,"Recurrent pterygium of right eye",7784,20170,1,"100%~Recurrent pterygium of right eye (H11.061)45542961;7784 patients","Recurrent pterygium of right eye",0.377229080932785,"332711000119103"
-1077019,"Mechanical lagophthalmos of right upper eyelid",9736,20053,1,"100%~Mechanical lagophthalmos right upper eyelid (H02.221)45605581;9736 patients","Mechanical lagophthalmos right upper eyelid",0.375857338820302,"331551000119100"
-45757699,"Low vision left eye, normal vision right eye",10814,19991,3,"72%~Low vision left eye category 1, normal vision right eye (H54.52A1)1326586;7865 patients | 
-28%~Low vision left eye category 2, normal vision right eye (H54.52A2)1326587;2949 patients | 
-NA","Low vision left eye category 1, normal vision right eye | 
-Low vision left eye category 2, normal vision right eye | 
-Low vision, left eye, normal vision right eye",0.374485596707819,"334311000119108"
-3656938,"Cicatricial entropion of left upper eyelid",6524,19392,1,"100%~Cicatricial entropion of left upper eyelid (H02.014)45586335;6524 patients","Cicatricial entropion of left upper eyelid",0.373113854595336,"337281000119103"
 435397,"Late effect of foreign body in orifice",13205,19214,12,"29%~Foreign body in cornea, right eye, sequela (T15.01XS)45594360;3743 patients | 
 28.7%~Foreign body in cornea, left eye, sequela (T15.02XS)45541248;3536 patients | 
 11.2%~Foreign body in conjunctival sac, right eye, sequela (T15.11XS)45536468;1552 patients | 
@@ -3973,10 +3791,6 @@ Paresis of accommodation, left eye",0.366255144032922,"68158006"
 5.5%~Secondary infectious iridocyclitis, unspecified eye (H20.039)45605637;458 patients","Secondary infectious iridocyclitis, right eye | 
 Secondary infectious iridocyclitis, left eye | 
 Secondary infectious iridocyclitis, unspecified eye",0.364883401920439,"89114005"
-35626041,"Moderate nonproliferative diabetic retinopathy of right eye",3350,18162,2,"70.6%~Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, right eye (E08.3311)37200035;1859 patients | 
-29.4%~Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, right eye (E08.3391)37200039;1491 patients","Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, right eye | 
-Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, right eye",0.363511659807956,"769185003"
-1077060,"Mechanical lagophthalmos of left upper eyelid",8853,18080,1,"100%~Mechanical lagophthalmos left upper eyelid (H02.224)45595981;8853 patients","Mechanical lagophthalmos left upper eyelid",0.362139917695473,"337161000119101"
 441669,"Congenital anomaly of posterior segment of eye",10007,17789,1,"100%~Congenital malformation of posterior segment of eye, unspecified (Q14.9)35210762;10007 patients","Congenital malformation of posterior segment of eye, unspecified",0.36076817558299,"128534003"
 4243456,"Senile atrophy of choroid",7851,17695,3,"49.3%~Age-related choroidal atrophy, right eye (H31.111)45552654;3927 patients | 
 44.5%~Age-related choroidal atrophy, left eye (H31.112)45552655;3401 patients | 
@@ -4003,16 +3817,6 @@ Localized vascularization of cornea, unspecified eye",0.355281207133059,"4873000
 16.6%~Spasm of accommodation, left eye (H52.532)45538315;1755 patients","Spasm of accommodation, unspecified eye | 
 Spasm of accommodation, right eye | 
 Spasm of accommodation, left eye",0.353909465020576,"30069002"
-42538748,"Retained nonmagnetic foreign body in right eye",5782,17188,5,"66.4%~Retained (nonmagnetic) (old) foreign body in vitreous body, right eye (H44.751)45586479;2370 patients | 
-23%~Unspecified retained (old) intraocular foreign body, nonmagnetic, right eye (H44.701)45605701;2420 patients | 
-5.3%~Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, right eye (H44.791)45543061;636 patients | 
-3%~Retained (nonmagnetic) (old) foreign body in posterior wall of globe, right eye (H44.741)45605702;185 patients | 
-2.4%~Retained (nonmagnetic) (old) foreign body in iris or ciliary body, right eye (H44.721)45591369;171 patients","Retained (nonmagnetic) (old) foreign body in vitreous body, right eye | 
-Unspecified retained (old) intraocular foreign body, nonmagnetic, right eye | 
-Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, right eye | 
-Retained (nonmagnetic) (old) foreign body in posterior wall of globe, right eye | 
-Retained (nonmagnetic) (old) foreign body in iris or ciliary body, right eye",0.352537722908093,"762526006"
-37208010,"Pigment dispersion syndrome of right eye",7113,16982,1,"100%~Degeneration of iris (pigmentary), right eye (H21.231)45538234;7113 patients","Degeneration of iris (pigmentary), right eye",0.35116598079561,"348081000119109"
 440999,"Choroidal rupture",6320,16905,3,"51.2%~Choroidal rupture, left eye (H31.322)45571943;3131 patients | 
 45.6%~Choroidal rupture, right eye (H31.321)45547853;2896 patients | 
 3.2%~Choroidal rupture, unspecified eye (H31.329)45596061;293 patients","Choroidal rupture, left eye | 
@@ -4051,22 +3855,12 @@ Unspecified hereditary corneal dystrophies, left eye",0.344307270233196,"7779700
 25%~Anterior subcapsular polar infantile and juvenile cataract, unspecified eye (H26.049)45586422;713 patients","Anterior subcapsular polar infantile and juvenile cataract, left eye | 
 Anterior subcapsular polar infantile and juvenile cataract, right eye | 
 Anterior subcapsular polar infantile and juvenile cataract, unspecified eye",0.342935528120713,"1412008"
-37208015,"Pigment dispersion syndrome of left eye",6724,15863,1,"100%~Degeneration of iris (pigmentary), left eye (H21.232)45586412;6724 patients","Degeneration of iris (pigmentary), left eye",0.34156378600823,"348531000119101"
 45763764,"Cicatricial lagophthalmos of upper eyelid",7056,15638,2,"50.4%~Cicatricial lagophthalmos right upper eyelid (H02.211)45600827;3649 patients | 
 49.6%~Cicatricial lagophthalmos left upper eyelid (H02.214)45538165;3407 patients","Cicatricial lagophthalmos right upper eyelid | 
 Cicatricial lagophthalmos left upper eyelid",0.340192043895748,"700267004"
 380411,"Monocular exotropia with V-pattern strabismus",7855,15628,2,"54.9%~Monocular exotropia with V pattern, right eye (H50.131)45547927;4516 patients | 
 45.1%~Monocular exotropia with V pattern, left eye (H50.132)45581697;3339 patients","Monocular exotropia with V pattern, right eye | 
 Monocular exotropia with V pattern, left eye",0.338820301783265,"111529008"
-42538747,"Retained nonmagnetic foreign body in left eye",5488,15600,5,"65.1%~Retained (nonmagnetic) (old) foreign body in vitreous body, left eye (H44.752)45552709;2294 patients | 
-23.9%~Unspecified retained (old) intraocular foreign body, nonmagnetic, left eye (H44.702)45543060;2245 patients | 
-5.5%~Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, left eye (H44.792)45586480;603 patients | 
-3.3%~Retained (nonmagnetic) (old) foreign body in posterior wall of globe, left eye (H44.742)45600939;187 patients | 
-2.3%~Retained (nonmagnetic) (old) foreign body in iris or ciliary body, left eye (H44.722)45596112;159 patients","Retained (nonmagnetic) (old) foreign body in vitreous body, left eye | 
-Unspecified retained (old) intraocular foreign body, nonmagnetic, left eye | 
-Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, left eye | 
-Retained (nonmagnetic) (old) foreign body in posterior wall of globe, left eye | 
-Retained (nonmagnetic) (old) foreign body in iris or ciliary body, left eye",0.337448559670782,"762525005"
 381860,"Vascular abnormality of conjunctiva",9459,15505,3,"44.3%~Vascular abnormalities of conjunctiva, right eye (H11.411)45566965;4507 patients | 
 40.9%~Vascular abnormalities of conjunctiva, left eye (H11.412)45547811;4161 patients | 
 14.8%~Vascular abnormalities of conjunctiva, unspecified eye (H11.419)45552594;791 patients","Vascular abnormalities of conjunctiva, right eye | 
@@ -4207,9 +4001,6 @@ Mechanical lagophthalmos unspecified eye, unspecified eyelid |
 Mechanical lagophthalmos left eye, unspecified eyelid | 
 Mechanical lagophthalmos left eye, upper and lower eyelids | 
 Mechanical lagophthalmos right eye, upper and lower eyelids",0.318244170096022,"21783006"
-35626042,"Moderate nonproliferative diabetic retinopathy of left eye",2561,12735,2,"68.6%~Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, left eye (E08.3312)37200036;1444 patients | 
-31.4%~Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, left eye (E08.3392)37200040;1117 patients","Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, left eye | 
-Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, left eye",0.316872427983539,"769186002"
 438751,"Lens-induced iridocyclitis",5348,12714,3,"48.3%~Lens-induced iridocyclitis, left eye (H20.22)45567004;2431 patients | 
 44.4%~Lens-induced iridocyclitis, right eye (H20.21)45600884;2301 patients | 
 7.2%~Lens-induced iridocyclitis, unspecified eye (H20.20)45552632;616 patients","Lens-induced iridocyclitis, left eye | 
@@ -4243,7 +4034,6 @@ Malignant melanoma of left upper eyelid, including canthus",0.311385459533608,"2
 16.3%~Unspecified focal chorioretinal inflammation, unspecified eye (H30.009)45576706;903 patients","Unspecified focal chorioretinal inflammation, left eye | 
 Unspecified focal chorioretinal inflammation, right eye | 
 Unspecified focal chorioretinal inflammation, unspecified eye",0.310013717421125,"15847003"
-1077051,"Mechanical lagophthalmos of right lower eyelid",6088,12012,1,"100%~Mechanical lagophthalmos right lower eyelid (H02.222)45595980;6088 patients","Mechanical lagophthalmos right lower eyelid",0.308641975308642,"334121000119103"
 380722,"Localized traumatic opacity",5959,11880,3,"51.8%~Localized traumatic opacities, right eye (H26.111)45571927;3120 patients | 
 45.8%~Localized traumatic opacities, left eye (H26.112)45557382;2649 patients | 
 2.4%~Localized traumatic opacities, unspecified eye (H26.119)45543007;190 patients","Localized traumatic opacities, right eye | 
@@ -4264,7 +4054,6 @@ Accidental puncture and laceration of left eye and adnexa during other procedure
 Accidental puncture and laceration of unspecified eye and adnexa during other procedure | 
 Accidental puncture and laceration of eye and adnexa during an ophthalmic procedure, bilateral | 
 Accidental puncture and laceration of eye and adnexa during other procedure, bilateral",0.305898491083676,"242995009"
-36712704,"Vitreomacular adhesion of bilateral eyes",6364,11574,1,"100%~Vitreomacular adhesion, unspecified eye (H43.829)45571987;6364 patients","Vitreomacular adhesion, unspecified eye",0.304526748971193,"10762111000119102"
 37168677,"Neovascularization of eye",6339,11456,3,"46.5%~Cataract with neovascularization, right eye (H26.211)45605649;2820 patients | 
 36.7%~Cataract with neovascularization, left eye (H26.212)45552642;2564 patients | 
 16.8%~Cataract with neovascularization, unspecified eye (H26.219)45600891;955 patients","Cataract with neovascularization, right eye | 
@@ -4293,7 +4082,6 @@ Descemetocele, unspecified eye",0.300411522633745,"83110007"
 8%~Focal chorioretinal inflammation of posterior pole, unspecified eye (H30.029)45538249;322 patients","Focal chorioretinal inflammation of posterior pole, right eye | 
 Focal chorioretinal inflammation of posterior pole, left eye | 
 Focal chorioretinal inflammation of posterior pole, unspecified eye",0.299039780521262,"373667006"
-1077021,"Mechanical ectropion of right upper eyelid",3622,11334,1,"100%~Mechanical ectropion of right upper eyelid (H02.121)45600823;3622 patients","Mechanical ectropion of right upper eyelid",0.297668038408779,"331571000119109"
 45763788,"Cicatricial ectropion of upper eyelid",5806,11297,2,"54.2%~Cicatricial ectropion of right upper eyelid (H02.111)45552563;3143 patients | 
 45.8%~Cicatricial ectropion of left upper eyelid (H02.114)45542929;2663 patients","Cicatricial ectropion of right upper eyelid | 
 Cicatricial ectropion of left upper eyelid",0.296296296296296,"700300002"
@@ -4380,13 +4168,11 @@ Penetrating wound without foreign body of left eyeball",0.288065843621399,"31529
 1.4%~Degenerative myopia with foveoschisis, unspecified eye (H44.2D9)1326529;33 patients","Degenerative myopia with foveoschisis, right eye | 
 Degenerative myopia with foveoschisis, left eye | 
 Degenerative myopia with foveoschisis, unspecified eye",0.286694101508916,"399861008"
-1077094,"Mechanical lagophthalmos of left lower eyelid",5464,10803,1,"100%~Mechanical lagophthalmos left lower eyelid (H02.225)45566923;5464 patients","Mechanical lagophthalmos left lower eyelid",0.285322359396433,"339721000119101"
 434638,"Paramacular focal retinitis AND retinochoroiditis",3509,10636,3,"45%~Focal chorioretinal inflammation, macular or paramacular, right eye (H30.041)45562216;1620 patients | 
 42.9%~Focal chorioretinal inflammation, macular or paramacular, left eye (H30.042)45543014;1617 patients | 
 12.1%~Focal chorioretinal inflammation, macular or paramacular, unspecified eye (H30.049)45557386;272 patients","Focal chorioretinal inflammation, macular or paramacular, right eye | 
 Focal chorioretinal inflammation, macular or paramacular, left eye | 
 Focal chorioretinal inflammation, macular or paramacular, unspecified eye",0.283950617283951,"42031001"
-37109495,"Macular hole of right eye",1790,10488,1,"100%~Degenerative myopia with macular hole, right eye (H44.2B1)1326516;1790 patients","Degenerative myopia with macular hole, right eye",0.282578875171468,"677951000119109"
 436133,"Scleral staphyloma",4367,10289,3,"50.7%~Scleral ectasia, right eye (H15.841)45547819;2018 patients | 
 41.3%~Scleral ectasia, left eye (H15.842)45576669;1811 patients | 
 8%~Scleral ectasia, unspecified eye (H15.849)45591269;538 patients","Scleral ectasia, right eye | 
@@ -4406,7 +4192,6 @@ Vitiligo of left eye, unspecified eyelid and periocular area |
 Vitiligo of right eye, unspecified eyelid and periocular area | 
 Vitiligo of left lower eyelid and periocular area | 
 Vitiligo of right lower eyelid and periocular area",0.278463648834019,"87666009"
-37109493,"Macular hole of left eye",1806,10044,1,"100%~Degenerative myopia with macular hole, left eye (H44.2B2)1326517;1806 patients","Degenerative myopia with macular hole, left eye",0.277091906721536,"677901000119105"
 45773201,"Spastic ectropion of lower eyelid",5554,10004,2,"50.4%~Spastic ectropion of left lower eyelid (H02.145)45552564;2808 patients | 
 49.6%~Spastic ectropion of right lower eyelid (H02.142)45562128;2746 patients","Spastic ectropion of left lower eyelid | 
 Spastic ectropion of right lower eyelid",0.275720164609054,"700276006"
@@ -4417,8 +4202,6 @@ Spastic ectropion of right lower eyelid",0.275720164609054,"700276006"
 Other specified malignant neoplasm of skin of right lower eyelid, including canthus | 
 Merkel cell carcinoma of left lower eyelid, including canthus | 
 Merkel cell carcinoma of right lower eyelid, including canthus",0.274348422496571,"313250007"
-1077062,"Mechanical ectropion of left upper eyelid",2997,9757,1,"100%~Mechanical ectropion of left upper eyelid (H02.124)45542930;2997 patients","Mechanical ectropion of left upper eyelid",0.272976680384088,"337181000119105"
-37207864,"Xanthoma of right lower eyelid",5537,9627,1,"100%~Xanthelasma of right lower eyelid (H02.62)45557285;5537 patients","Xanthelasma of right lower eyelid",0.271604938271605,"334051000119107"
 437553,"Hypersecretion glaucoma",1316,9613,3,"84.4%~Hypersecretion glaucoma, unspecified eye (H40.829)45586470;678 patients | 
 7.8%~Hypersecretion glaucoma, left eye (H40.822)45596101;362 patients | 
 7.8%~Hypersecretion glaucoma, right eye (H40.821)45596100;276 patients","Hypersecretion glaucoma, unspecified eye | 
@@ -4522,7 +4305,6 @@ Drug or chemical induced diabetes mellitus with proliferative diabetic retinopat
 6.2%~Other corneal deformities, unspecified eye (H18.799)45571910;231 patients","Other corneal deformities, left eye | 
 Other corneal deformities, right eye | 
 Other corneal deformities, unspecified eye",0.262002743484225,"41478008"
-37207924,"Xanthoma of left lower eyelid",5442,9386,1,"100%~Xanthelasma of left lower eyelid (H02.65)45586343;5442 patients","Xanthelasma of left lower eyelid",0.260631001371742,"339651000119100"
 4153217,"Patient condition resolved",644,9332,3,"40.5%~Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, left eye (E08.37X2)37200081;186 patients | 
 32%~Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, unspecified eye (E08.37X9)37200083;200 patients | 
 27.4%~Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, right eye (E08.37X1)37200080;258 patients","Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, left eye | 
@@ -4543,7 +4325,6 @@ Conjunctival adhesions and strands (localized), unspecified eye",0.2565157750342
 10.7%~Solar retinopathy, unspecified eye (H31.029)45571941;444 patients","Solar retinopathy, right eye | 
 Solar retinopathy, left eye | 
 Solar retinopathy, unspecified eye",0.255144032921811,"1135000"
-37207879,"Double pterygium of right eye",3704,8978,1,"100%~Double pterygium of right eye (H11.031)45591256;3704 patients","Double pterygium of right eye",0.253772290809328,"335351000119105"
 432645,"Scleromalacia perforans",2301,8972,3,"48.3%~Scleromalacia perforans, left eye (H15.052)45586378;1032 patients | 
 44.4%~Scleromalacia perforans, right eye (H15.051)45533234;1024 patients | 
 7.3%~Scleromalacia perforans, unspecified eye (H15.059)45600859;245 patients","Scleromalacia perforans, left eye | 
@@ -4631,7 +4412,6 @@ Monocular esotropia with V pattern, right eye",0.242798353909465,"65215002"
 26.5%~Cicatricial entropion of left eye, unspecified eyelid (H02.016)45576623;877 patients","Cicatricial entropion of unspecified eye, unspecified eyelid | 
 Cicatricial entropion of right eye, unspecified eyelid | 
 Cicatricial entropion of left eye, unspecified eyelid",0.241426611796982,"67383002"
-37207939,"Double pterygium of left eye",3288,8051,1,"100%~Double pterygium of left eye (H11.032)45581577;3288 patients","Double pterygium of left eye",0.240054869684499,"340961000119102"
 435814,"Degenerative changes of ciliary body",3899,7918,3,"49.2%~Degeneration of ciliary body, right eye (H21.221)45596042;1906 patients | 
 48.4%~Degeneration of ciliary body, left eye (H21.222)45596043;1919 patients | 
 2.4%~Degeneration of ciliary body, unspecified eye (H21.229)45571914;74 patients","Degeneration of ciliary body, right eye | 
@@ -4660,9 +4440,6 @@ Abnormal innervation syndrome right upper eyelid |
 Abnormal innervation syndrome left upper eyelid | 
 Abnormal innervation syndrome right lower eyelid | 
 Abnormal innervation syndrome left lower eyelid",0.234567901234568,"5127009"
-35626043,"Severe nonproliferative retinopathy of right eye due to diabetes mellitus",1183,7478,2,"67.5%~Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, right eye (E08.3411)37200043;765 patients | 
-32.5%~Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, right eye (E08.3491)37200047;418 patients","Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, right eye | 
-Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, right eye",0.233196159122085,"769187006"
 375272,"Spastic entropion",3394,7460,3,"39.8%~Spastic entropion of right eye, unspecified eyelid (H02.043)45547781;1463 patients | 
 36.1%~Spastic entropion of unspecified eye, unspecified eyelid (H02.049)45600822;1116 patients | 
 24.1%~Spastic entropion of left eye, unspecified eyelid (H02.046)45557274;815 patients","Spastic entropion of right eye, unspecified eyelid | 
@@ -4683,10 +4460,6 @@ Enophthalmos due to atrophy of orbital tissue, unspecified eye",0.22908093278463
 7.7%~Displacement (lateral) of globe, unspecified eye (H05.219)45586358;283 patients","Displacement (lateral) of globe, right eye | 
 Displacement (lateral) of globe, left eye | 
 Displacement (lateral) of globe, unspecified eye",0.227709190672154,"48747004"
-35626044,"Severe nonproliferative retinopathy of left eye due to diabetes mellitus",949,7243,2,"76.2%~Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, left eye (E08.3412)37200044;629 patients | 
-23.8%~Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, left eye (E08.3492)37200048;320 patients","Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, left eye | 
-Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, left eye",0.226337448559671,"769188001"
-36674199,"Proliferative retinopathy of right eye with diabetes mellitus",1609,7178,1,"100%~Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, right eye (E08.3591)37200075;1609 patients","Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, right eye",0.224965706447188,"770765001"
 4199331,"Vernal keratoconjunctivitis",3424,7148,3,"41.2%~Vernal keratoconjunctivitis, with limbar and corneal involvement, right eye (H16.261)45566982;1415 patients | 
 39.6%~Vernal keratoconjunctivitis, with limbar and corneal involvement, left eye (H16.262)45538218;1407 patients | 
 19.2%~Vernal keratoconjunctivitis, with limbar and corneal involvement, unspecified eye (H16.269)45586390;602 patients","Vernal keratoconjunctivitis, with limbar and corneal involvement, right eye | 
@@ -4834,9 +4607,6 @@ Anesthesia and hypoesthesia of cornea, unspecified eye",0.203017832647462,"37343
 9.6%~Xeroderma of right eye, unspecified eyelid (H01.143)45595975;411 patients","Xeroderma of unspecified eye, unspecified eyelid | 
 Xeroderma of left eye, unspecified eyelid | 
 Xeroderma of right eye, unspecified eyelid",0.201646090534979,"55846006"
-36717300,"Lagophthalmos of bilateral eyelids",3146,6322,2,"74.2%~Unspecified lagophthalmos, bilateral, upper and lower eyelids (H02.20C)1595566;2724 patients | 
-25.8%~Paralytic lagophthalmos, bilateral, upper and lower eyelids (H02.23C)1595575;422 patients","Unspecified lagophthalmos, bilateral, upper and lower eyelids | 
-Paralytic lagophthalmos, bilateral, upper and lower eyelids",0.200274348422497,"11718681000119109"
 438095,"Overlapping malignant neoplasm of eye and adnexa (primary)",1911,6308,3,"44.3%~Malignant neoplasm of overlapping sites of left eye and adnexa (C69.82)45605285;799 patients | 
 37%~Malignant neoplasm of overlapping sites of right eye and adnexa (C69.81)45561826;754 patients | 
 18.7%~Malignant neoplasm of overlapping sites of unspecified eye and adnexa (C69.80)45571531;358 patients","Malignant neoplasm of overlapping sites of left eye and adnexa | 
@@ -4865,7 +4635,6 @@ Ring corneal ulcer, unspecified eye",0.193415637860082,"111520007"
 4.2%~Miotic pupillary cyst, unspecified eye (H21.279)45543000;123 patients","Miotic pupillary cyst, right eye | 
 Miotic pupillary cyst, left eye | 
 Miotic pupillary cyst, unspecified eye",0.192043895747599,"22681004"
-3662369,"Paralytic ectropion of right lower eyelid",2062,5586,1,"100%~Paralytic ectropion of right lower eyelid (H02.152)1595558;2062 patients","Paralytic ectropion of right lower eyelid",0.190672153635117,"16907361000119100"
 434354,"Anterior corneal pigmentation",3179,5583,3,"44.8%~Anterior corneal pigmentations, right eye (H18.011)45576681;1417 patients | 
 42.1%~Anterior corneal pigmentations, left eye (H18.012)45562173;1312 patients | 
 13.1%~Anterior corneal pigmentations, unspecified eye (H18.019)45566991;450 patients","Anterior corneal pigmentations, right eye | 
@@ -4912,13 +4681,11 @@ Unspecified complication of corneal transplant, right eye |
 Unspecified complication of corneal transplant, left eye | 
 Corneal transplant infection, unspecified eye | 
 Unspecified complication of corneal transplant, unspecified eye",0.185185185185185,"737299009"
-3657889,"Paralytic ectropion of left lower eyelid",2106,5402,1,"100%~Paralytic ectropion of left lower eyelid (H02.155)1595561;2106 patients","Paralytic ectropion of left lower eyelid",0.183813443072702,"16907441000119106"
 432625,"Expulsive choroidal hemorrhage",2394,5330,3,"52.4%~Expulsive choroidal hemorrhage, right eye (H31.311)45557392;1371 patients | 
 42.6%~Expulsive choroidal hemorrhage, left eye (H31.312)45543020;830 patients | 
 5%~Expulsive choroidal hemorrhage, unspecified eye (H31.319)45581642;193 patients","Expulsive choroidal hemorrhage, right eye | 
 Expulsive choroidal hemorrhage, left eye | 
 Expulsive choroidal hemorrhage, unspecified eye",0.182441700960219,"11623000"
-37311300,"Cataract of right eye",2820,5325,1,"100%~Cataract with neovascularization, right eye (H26.211)45605649;2820 patients","Cataract with neovascularization, right eye",0.181069958847737,"816120008"
 374945,"Adherent leukoma",2764,5152,3,"45.5%~Adherent leukoma, right eye (H17.01)45586396;1239 patients | 
 43%~Adherent leukoma, left eye (H17.02)45586397;1156 patients | 
 11.5%~Adherent leukoma, unspecified eye (H17.00)45533250;369 patients","Adherent leukoma, right eye | 
@@ -4929,7 +4696,6 @@ Adherent leukoma, unspecified eye",0.179698216735254,"30337003"
 6.4%~Disseminated chorioretinal inflammation of posterior pole, unspecified eye (H30.119)45533287;131 patients","Disseminated chorioretinal inflammation of posterior pole, right eye | 
 Disseminated chorioretinal inflammation of posterior pole, left eye | 
 Disseminated chorioretinal inflammation of posterior pole, unspecified eye",0.178326474622771,"193442009"
-36674200,"Proliferative retinopathy of left eye due to diabetes mellitus",1251,5050,1,"100%~Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, left eye (E08.3592)37200076;1251 patients","Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, left eye",0.176954732510288,"770766000"
 442184,"Monocular esotropia with noncommitance other than A OR V pattern",2446,5041,2,"53%~Monocular esotropia with other noncomitancies, left eye (H50.042)45557457;1313 patients | 
 47%~Monocular esotropia with other noncomitancies, right eye (H50.041)45600953;1133 patients","Monocular esotropia with other noncomitancies, left eye | 
 Monocular esotropia with other noncomitancies, right eye",0.175582990397805,"80899006"
@@ -4973,13 +4739,11 @@ Intraoperative hemorrhage and hematoma of eye and adnexa complicating other proc
 12%~Other degenerative disorders of globe, left eye (H44.392)45596105;359 patients","Other degenerative disorders of globe, unspecified eye | 
 Other degenerative disorders of globe, right eye | 
 Other degenerative disorders of globe, left eye",0.167352537722908,"62585004"
-3656988,"Interstitial keratitis of left eye",1378,4552,1,"100%~Other interstitial and deep keratitis, left eye (H16.392)45586392;1378 patients","Other interstitial and deep keratitis, left eye",0.165980795610425,"340301000119102"
 380412,"Total ophthalmoplegia",1949,4497,3,"47.1%~Total (external) ophthalmoplegia, unspecified eye (H49.30)45596121;822 patients | 
 27.2%~Total (external) ophthalmoplegia, left eye (H49.32)45567087;611 patients | 
 25.7%~Total (external) ophthalmoplegia, right eye (H49.31)45572003;516 patients","Total (external) ophthalmoplegia, unspecified eye | 
 Total (external) ophthalmoplegia, left eye | 
 Total (external) ophthalmoplegia, right eye",0.164609053497942,"78097002"
-3656903,"Interstitial keratitis of right eye",1355,4475,1,"100%~Other interstitial and deep keratitis, right eye (H16.391)45566987;1355 patients","Other interstitial and deep keratitis, right eye",0.16323731138546,"334701000119106"
 37016356,"Mild nonproliferative retinopathy due to secondary diabetes mellitus",833,4469,6,"55.9%~Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, unspecified eye (E09.3219)37200087;333 patients | 
 14.6%~Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, right eye (E09.3211)37200084;133 patients | 
 11.1%~Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye (E09.3299)37200091;128 patients | 
@@ -5017,7 +4781,6 @@ Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites
 11.2%~Ligneous conjunctivitis, unspecified eye (H10.519)45562158;384 patients","Ligneous conjunctivitis, left eye | 
 Ligneous conjunctivitis, right eye | 
 Ligneous conjunctivitis, unspecified eye",0.156378600823045,"403435005"
-37311301,"Cataract of left eye",2564,4209,1,"100%~Cataract with neovascularization, left eye (H26.212)45552642;2564 patients","Cataract with neovascularization, left eye",0.155006858710562,"816119002"
 377564,"Pseudopterygium",1959,4154,3,"48.8%~Pseudopterygium of conjunctiva, right eye (H11.811)45586375;944 patients | 
 44.9%~Pseudopterygium of conjunctiva, left eye (H11.812)45591261;842 patients | 
 6.3%~Pseudopterygium of conjunctiva, unspecified eye (H11.819)45547815;173 patients","Pseudopterygium of conjunctiva, right eye | 
@@ -5032,20 +4795,17 @@ Spastic ectropion of left eye, unspecified eyelid",0.150891632373114,"80846000"
 45763787,"Spastic entropion of upper eyelid",2165,3866,2,"64.3%~Spastic entropion of right upper eyelid (H02.041)45591219;1422 patients | 
 35.7%~Spastic entropion of left upper eyelid (H02.044)45586336;743 patients","Spastic entropion of right upper eyelid | 
 Spastic entropion of left upper eyelid",0.149519890260631,"700299005"
-37311833,"Stable treated proliferative retinopathy of right eye due to diabetes mellitus",804,3857,1,"100%~Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, right eye (E08.3551)37200071;804 patients","Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, right eye",0.148148148148148,"816961009"
 4184281,"Degenerative changes of anterior chamber angle",1568,3790,3,"38%~Degeneration of chamber angle, right eye (H21.211)45542997;830 patients | 
 34%~Degeneration of chamber angle, unspecified eye (H21.219)45591290;97 patients | 
 28%~Degeneration of chamber angle, left eye (H21.212)45567008;641 patients","Degeneration of chamber angle, right eye | 
 Degeneration of chamber angle, unspecified eye | 
 Degeneration of chamber angle, left eye",0.146776406035665,"5425007"
-35626068,"Macular edema of left eye due to diabetes mellitus",186,3782,1,"100%~Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, left eye (E08.37X2)37200081;186 patients","Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, left eye",0.145404663923182,"769218003"
 376694,"Stromal corneal pigmentation",2111,3713,3,"45%~Stromal corneal pigmentations, left eye (H18.062)45600874;896 patients | 
 40.5%~Stromal corneal pigmentations, right eye (H18.061)45533255;837 patients | 
 14.6%~Stromal corneal pigmentations, unspecified eye (H18.069)45566994;378 patients","Stromal corneal pigmentations, left eye | 
 Stromal corneal pigmentations, right eye | 
 Stromal corneal pigmentations, unspecified eye",0.1440329218107,"55031000"
 1077068,"Left glaukomflecken",602,3641,1,"100%~Glaucomatous flecks (subcapsular), left eye (H26.232)45576704;602 patients","Glaucomatous flecks (subcapsular), left eye",0.142661179698217,"337561000119109"
-37209482,"Transplant failure of cornea of right eye",1480,3507,1,"100%~Corneal transplant failure, right eye (T86.8411)725614;1480 patients","Corneal transplant failure, right eye",0.141289437585734,"16058711000119104"
 435271,"Mooren's ulcer",921,3452,3,"46.1%~Mooren's corneal ulcer, left eye (H16.052)45576672;395 patients | 
 42.5%~Mooren's corneal ulcer, right eye (H16.051)45562166;404 patients | 
 11.4%~Mooren's corneal ulcer, unspecified eye (H16.059)45605620;122 patients","Mooren's corneal ulcer, left eye | 
@@ -5057,7 +4817,6 @@ Mooren's corneal ulcer, unspecified eye",0.139917695473251,"22440001"
 Vitreous abscess (chronic), right eye | 
 Vitreous abscess (chronic), unspecified eye",0.138545953360768,"48142003"
 436805,"Congenital anomaly of anterior segment of eye",1588,3420,1,"100%~Congenital malformation of anterior segment of eye, unspecified (Q13.9)35210756;1588 patients","Congenital malformation of anterior segment of eye, unspecified",0.137174211248285,"429448005"
-37209484,"Transplant failure of cornea of left eye",1418,3417,1,"100%~Corneal transplant failure, left eye (T86.8412)725615;1418 patients","Corneal transplant failure, left eye",0.135802469135802,"16058871000119104"
 443519,"Retinopathy of prematurity stage 4 - subtotal retinal detachment",1122,3414,3,"36.8%~Retinopathy of prematurity, stage 4, right eye (H35.151)45576734;464 patients | 
 32.7%~Retinopathy of prematurity, stage 4, left eye (H35.152)45567042;380 patients | 
 30.4%~Retinopathy of prematurity, stage 4, unspecified eye (H35.159)45543030;278 patients","Retinopathy of prematurity, stage 4, right eye | 
@@ -5068,7 +4827,6 @@ Retinopathy of prematurity, stage 4, unspecified eye",0.13443072702332,"40885000
 8.5%~Corneal deposits in metabolic disorders, left eye (H18.032)45591279;151 patients","Corneal deposits in metabolic disorders, unspecified eye | 
 Corneal deposits in metabolic disorders, right eye | 
 Corneal deposits in metabolic disorders, left eye",0.133058984910837,"43521007"
-37311832,"Stable treated proliferative retinopathy of left eye due to diabetes mellitus",715,3181,1,"100%~Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, left eye (E08.3552)37200072;715 patients","Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, left eye",0.131687242798354,"816962002"
 45757704,"Cyst of ora serrata of retina",1805,3019,3,"55.1%~Cyst of ora serrata, right eye (H33.111)45552662;1044 patients | 
 39.6%~Cyst of ora serrata, left eye (H33.112)45567032;662 patients | 
 5.3%~Cyst of ora serrata, unspecified eye (H33.119)45576723;99 patients","Cyst of ora serrata, right eye | 
@@ -5112,7 +4870,6 @@ Blister (nonthermal) of unspecified eyelid and periocular area, subsequent encou
 Blister (nonthermal) of unspecified eyelid and periocular area | 
 Blister (nonthermal) of left eyelid and periocular area | 
 Blister (nonthermal) of right eyelid and periocular area",0.122085048010974,"269210000"
-35626067,"Macular edema of right eye due to diabetes mellitus",258,2561,1,"100%~Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, right eye (E08.37X1)37200080;258 patients","Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, right eye",0.120713305898491,"769217008"
 4104213,"Disseminated peripheral chorioretinitis",793,2552,3,"48%~Disseminated chorioretinal inflammation, peripheral, left eye (H30.122)45533288;379 patients | 
 46.8%~Disseminated chorioretinal inflammation, peripheral right eye (H30.121)45581635;348 patients | 
 5.1%~Disseminated chorioretinal inflammation, peripheral, unspecified eye (H30.129)45596058;66 patients","Disseminated chorioretinal inflammation, peripheral, left eye | 
@@ -5197,11 +4954,7 @@ Breakdown (mechanical) of prosthetic orbit of left eye, sequela",0.0946502057613
 12%~Corneal staphyloma, unspecified eye (H18.729)45600878;77 patients","Corneal staphyloma, right eye | 
 Corneal staphyloma, left eye | 
 Corneal staphyloma, unspecified eye",0.093278463648834,"52476003"
-3656848,"Vitiligo of skin of right upper eyelid and periocular area",912,1457,1,"100%~Vitiligo of right upper eyelid and periocular area (H02.731)45586344;912 patients","Vitiligo of right upper eyelid and periocular area",0.0905349794238683,"330881000119101"
 4151240,"Transplanted organ failure",509,1457,1,"100%~Corneal transplant failure, unspecified eye (T86.8419)725617;509 patients","Corneal transplant failure, unspecified eye",0.0905349794238683,"269295009"
-1244557,"Disorder of left eye proper",315,1449,1,"100%~Vogt-Koyanagi syndrome, left eye (H20.822)45567006;315 patients","Vogt-Koyanagi syndrome, left eye",0.0891632373113855,"1290030002"
-37209483,"Transplant rejection of cornea of right eye",704,1417,1,"100%~Corneal transplant rejection, right eye (T86.8401)725610;704 patients","Corneal transplant rejection, right eye",0.0877914951989026,"16058831000119102"
-37209481,"Transplant rejection of cornea of left eye",693,1381,1,"100%~Corneal transplant rejection, left eye (T86.8402)725611;693 patients","Corneal transplant rejection, left eye",0.0864197530864197,"16058671000119103"
 440715,"Parasitic endophthalmitis",624,1347,3,"44.2%~Parasitic endophthalmitis, unspecified, left eye (H44.122)45547905;284 patients | 
 35.2%~Parasitic endophthalmitis, unspecified, right eye (H44.121)45586474;221 patients | 
 20.6%~Parasitic endophthalmitis, unspecified, unspecified eye (H44.129)45538290;119 patients","Parasitic endophthalmitis, unspecified, left eye | 
@@ -5215,7 +4968,6 @@ Accidental puncture and laceration of left eye and adnexa during other procedure
 Accidental puncture and laceration of unspecified eye and adnexa during other procedure | 
 Accidental puncture and laceration of eye and adnexa during other procedure, bilateral",0.083676268861454,"301905003"
 4338894,"Macular hole",281,1265,1,"100%~Degenerative myopia with macular hole, unspecified eye (H44.2B9)1326519;281 patients","Degenerative myopia with macular hole, unspecified eye",0.0823045267489712,"232006002"
-3656850,"Vitiligo of skin of left upper eyelid and periocular area",691,1231,1,"100%~Vitiligo of left upper eyelid and periocular area (H02.734)45557286;691 patients","Vitiligo of left upper eyelid and periocular area",0.0809327846364883,"330911000119101"
 379023,"Hypertrichosis of eyelid",683,1216,3,"47.4%~Hypertrichosis of unspecified eye, unspecified eyelid (H02.869)45538175;320 patients | 
 28.9%~Hypertrichosis of right eye, unspecified eyelid (H02.863)45562136;169 patients | 
 23.7%~Hypertrichosis of left eye, unspecified eyelid (H02.866)45562137;194 patients","Hypertrichosis of unspecified eye, unspecified eyelid | 
@@ -5225,9 +4977,6 @@ Hypertrichosis of left eye, unspecified eyelid",0.0795610425240055,"79830009"
 45763765,"Discoid lupus erythematosus of lower eyelid",812,1133,2,"66.2%~Discoid lupus erythematosus of right lower eyelid (H01.122)45547776;565 patients | 
 33.8%~Discoid lupus erythematosus of left lower eyelid (H01.125)45595974;247 patients","Discoid lupus erythematosus of right lower eyelid | 
 Discoid lupus erythematosus of left lower eyelid",0.0768175582990398,"700269001"
-42538746,"Retained magnetic foreign body in right eye",726,1119,2,"81.2%~Unspecified retained (old) intraocular foreign body, magnetic, right eye (H44.601)45557439;573 patients | 
-18.8%~Retained (old) intraocular foreign body, magnetic, in other or multiple sites, right eye (H44.691)45591368;153 patients","Unspecified retained (old) intraocular foreign body, magnetic, right eye | 
-Retained (old) intraocular foreign body, magnetic, in other or multiple sites, right eye",0.0754458161865569,"762524009"
 442301,"Iridoschisis",509,1108,3,"49.9%~Iridoschisis, left eye (H21.252)45542998;251 patients | 
 38.7%~Iridoschisis, right eye (H21.251)45581620;217 patients | 
 11.4%~Iridoschisis, unspecified eye (H21.259)45562195;41 patients","Iridoschisis, left eye | 
@@ -5251,9 +5000,6 @@ Retained (old) magnetic foreign body in anterior chamber, left eye",0.0713305898
 Siderosis of eye, right eye | 
 Siderosis of eye, left eye | 
 Siderosis of eye, bilateral",0.0685871056241427,"25277000"
-42539563,"Retained magnetic foreign body in left eye",608,973,2,"77.9%~Unspecified retained (old) intraocular foreign body, magnetic, left eye (H44.602)45567076;462 patients | 
-22.1%~Retained (old) intraocular foreign body, magnetic, in other or multiple sites, left eye (H44.692)45567078;146 patients","Unspecified retained (old) intraocular foreign body, magnetic, left eye | 
-Retained (old) intraocular foreign body, magnetic, in other or multiple sites, left eye",0.0672153635116598,"762523003"
 45763820,"Elephantiasis of upper eyelid",655,925,2,"61.1%~Elephantiasis of left upper eyelid (H02.854)45591228;355 patients | 
 38.9%~Elephantiasis of right upper eyelid (H02.851)45566934;300 patients","Elephantiasis of left upper eyelid | 
 Elephantiasis of right upper eyelid",0.065843621399177,"700337008"
@@ -5356,13 +5102,11 @@ Exudative cysts of iris or anterior chamber, unspecified eye",0.046639231824417,
 30.9%~Chalcosis, left eye (H44.312)45576764;114 patients","Chalcosis, right eye | 
 Chalcosis, unspecified eye | 
 Chalcosis, left eye",0.0452674897119342,"875001"
-3661895,"Xeroderma of right upper eyelid",389,532,1,"100%~Xeroderma of right upper eyelid (H01.141)45547779;389 patients","Xeroderma of right upper eyelid",0.0438957475994513,"330821000119100"
 439828,"Ring staphyloma",287,482,3,"48.3%~Ring staphyloma, right eye (H15.851)45581589;139 patients | 
 36.7%~Ring staphyloma, left eye (H15.852)45596024;99 patients | 
 14.9%~Ring staphyloma, unspecified eye (H15.859)45576671;49 patients","Ring staphyloma, right eye | 
 Ring staphyloma, left eye | 
 Ring staphyloma, unspecified eye",0.0425240054869684,"5299007"
-3661897,"Xeroderma of left upper eyelid",316,453,1,"100%~Xeroderma of left upper eyelid (H01.144)45576621;316 patients","Xeroderma of left upper eyelid",0.0411522633744856,"330851000119108"
 372918,"Argentous corneal deposit",238,383,3,"40.2%~Argentous corneal deposits, left eye (H18.022)45562174;97 patients | 
 35.8%~Argentous corneal deposits, right eye (H18.021)45538222;92 patients | 
 24%~Argentous corneal deposits, unspecified eye (H18.029)45581607;49 patients","Argentous corneal deposits, left eye | 
@@ -5382,7 +5126,6 @@ Granular corneal dystrophy, left eye",0.037037037037037,"45283008"
 45771088,"Elephantiasis of lower eyelid",287,360,2,"54.4%~Elephantiasis of left lower eyelid (H02.855)45591229;164 patients | 
 45.6%~Elephantiasis of right lower eyelid (H02.852)45542946;123 patients","Elephantiasis of left lower eyelid | 
 Elephantiasis of right lower eyelid",0.0342935528120713,"700263000"
-1077008,"Xeroderma of right lower eyelid",254,349,1,"100%~Xeroderma of right lower eyelid (H01.142)45600818;254 patients","Xeroderma of right lower eyelid",0.0329218106995885,"330831000119102"
 437863,"Exudative cyst of pars plana",180,334,3,"51.8%~Exudative cyst of pars plana, left eye (H21.352)45591292;77 patients | 
 38.3%~Exudative cyst of pars plana, right eye (H21.351)45586419;82 patients | 
 9.9%~Exudative cyst of pars plana, unspecified eye (H21.359)45562200;21 patients","Exudative cyst of pars plana, left eye | 
@@ -5393,7 +5136,6 @@ Exudative cyst of pars plana, unspecified eye",0.0315500685871056,"63317005"
 13.3%~Macular corneal dystrophy, left eye (H18.552)725344;36 patients","Macular corneal dystrophy, unspecified eye | 
 Macular corneal dystrophy, right eye | 
 Macular corneal dystrophy, left eye",0.0288065843621399,"60258001"
-1077009,"Xeroderma of left lower eyelid",244,331,1,"100%~Xeroderma of left lower eyelid (H01.145)45566916;244 patients","Xeroderma of left lower eyelid",0.0288065843621399,"330861000119105"
 374636,"Retained magnetic foreign body in iris AND/OR ciliary body",235,317,3,"41.6%~Retained (old) magnetic foreign body in iris or ciliary body, unspecified eye (H44.629)45581681;117 patients | 
 34.7%~Retained (old) magnetic foreign body in iris or ciliary body, right eye (H44.621)45600935;68 patients | 
 23.7%~Retained (old) magnetic foreign body in iris or ciliary body, left eye (H44.622)45562255;50 patients","Retained (old) magnetic foreign body in iris or ciliary body, unspecified eye | 
@@ -5423,10 +5165,6 @@ Retained (old) magnetic foreign body in posterior wall of globe, left eye |
 Retained (old) magnetic foreign body in posterior wall of globe, unspecified eye",0.0192043895747599,"15236003"
 45772117,"Parasitic cyst of retina",49,86,1,"100%~Parasitic cyst of retina, unspecified eye (H33.129)45581644;49 patients","Parasitic cyst of retina, unspecified eye",0.0178326474622771,"336791000119106"
 434231,"Burn confined to eye and adnexa",0,0,1,"NA","Burn of eye and adnexa, part unspecified",0,"269232009"
-1075501,"Primary open angle glaucoma of left eye",0,0,1,"NA","Primary open-angle glaucoma, left eye",0,"1306287007"
-1075502,"Primary open angle glaucoma of right eye",0,0,2,"NA | 
-NA","Primary open-angle glaucoma, right eye | 
-Primary open-angle glaucoma, left eye",0,"1306288002"
 1340204,"History of event",0,0,3,"NA | 
 NA | 
 NA","Cataract extraction status, right eye | 

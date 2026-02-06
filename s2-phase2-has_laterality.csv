@@ -1,310 +1,111 @@
-"concept_id_1","concept_name.x","total_patient_count","total_event_count","n","concepts"
-601619,"Pain of right knee joint",13391248,72573325,1,"Pain in right knee"
-601622,"Pain of left knee region",12482594,65065042,1,"Pain in left knee"
-762294,"Pain in right foot",10019184,35307170,1,"Pain in right foot"
-765131,"Pain in left foot",9449372,32519843,1,"Pain in left foot"
-4115171,"Pain in right lower limb",10150207,26045357,2,"Pain in right leg | 
-Pain in right lower leg"
-4117695,"Pain in left lower limb",10005234,25193159,2,"Pain in left leg | 
-Pain in left lower leg"
-759852,"Cellulitis of left lower limb",3551847,18529020,1,"Cellulitis of left lower limb"
-4110815,"Sensorineural hearing loss of bilateral ears",5829163,17999139,1,"Sensorineural hearing loss, bilateral"
-759853,"Cellulitis of right lower limb",3468936,17879686,1,"Cellulitis of right lower limb"
-36717006,"Intermittent claudication of bilateral lower limbs co-occurrent and due to atherosclerosis",1637376,11817233,1,"Atherosclerosis of native arteries of extremities with intermittent claudication, bilateral legs"
-762296,"Pain in right hand",4480662,11146038,1,"Pain in right hand"
-762151,"Carpal tunnel syndrome of right wrist",2220034,9111091,1,"Carpal tunnel syndrome, right upper limb"
-765933,"Pain of left hand",3567813,8605525,1,"Pain in left hand"
-760119,"Otitis media of bilateral ears",4253629,8600165,1,"Otitis media, unspecified, bilateral"
-4115169,"Pain in left arm",3343295,7354912,2,"Pain in left arm | 
-Pain in left upper arm"
-4115170,"Pain in right arm",3120484,7071605,2,"Pain in right arm | 
-Pain in right upper arm"
-762150,"Carpal tunnel syndrome of left wrist",1755290,6822145,1,"Carpal tunnel syndrome, left upper limb"
-760872,"Varicose veins of bilateral lower limbs",844979,4745124,1,"Varicose veins of bilateral lower extremities with other complications"
-36684613,"Dermatochalasis of right upper eyelid",1803429,4476429,1,"Dermatochalasis of right upper eyelid"
-605025,"Otalgia of right ear",2858130,4416962,1,"Otalgia, right ear"
-605024,"Otalgia of left ear",2658930,4124009,1,"Otalgia, left ear"
-36684676,"Dermatochalasis of left upper eyelid",1623250,3946478,1,"Dermatochalasis of left upper eyelid"
-759859,"Cellulitis of right upper limb",1260014,3730636,1,"Cellulitis of right upper limb"
-759860,"Cellulitis of left upper limb",1244698,3699608,1,"Cellulitis of left upper limb"
-36713126,"Blepharitis of left eyelid",1909094,3612579,4,"Unspecified blepharitis left upper eyelid | 
+"concept_id_1","concept_name.x","total_patient_count","total_event_count","n","concepts","concepts2","percentile_rank","concept_code"
+36684613,"Dermatochalasis of right upper eyelid",1803429,4476429,1,"100%~Dermatochalasis of right upper eyelid (H02.831)45547788;1803429 patients","Dermatochalasis of right upper eyelid",0.975308641975309,"331651000119104"
+36684676,"Dermatochalasis of left upper eyelid",1623250,3946478,1,"100%~Dermatochalasis of left upper eyelid (H02.834)45571861;1623250 patients","Dermatochalasis of left upper eyelid",0.973936899862826,"337261000119107"
+36713126,"Blepharitis of left eyelid",1909094,3612579,4,"40.1%~Unspecified blepharitis left upper eyelid (H01.004)45557265;780487 patients | 
+29.8%~Unspecified blepharitis left lower eyelid (H01.005)45586332;561455 patients | 
+23%~Unspecified blepharitis left eye, unspecified eyelid (H01.006)45538154;414323 patients | 
+7.1%~Unspecified blepharitis left eye, upper and lower eyelids (H01.00B)1595551;152829 patients","Unspecified blepharitis left upper eyelid | 
 Unspecified blepharitis left lower eyelid | 
 Unspecified blepharitis left eye, unspecified eyelid | 
-Unspecified blepharitis left eye, upper and lower eyelids"
-762212,"Bursitis of right shoulder",956808,2926394,1,"Bursitis of right shoulder"
-37170707,"Pressure injury of right buttock stage II",462138,2748322,1,"Pressure ulcer of right buttock, stage 2"
-37170718,"Pressure injury of left buttock stage II",446515,2632808,1,"Pressure ulcer of left buttock, stage 2"
-762207,"Adhesive capsulitis of left shoulder",461840,2579950,1,"Adhesive capsulitis of left shoulder"
-35226292,"Metastasis to right lung",355267,2550635,1,"Secondary malignant neoplasm of right lung"
-762206,"Adhesive capsulitis of right shoulder",466615,2468962,1,"Adhesive capsulitis of right shoulder"
-36685980,"Localized swelling of left lower limb",1347677,2384934,1,"Localized swelling, mass and lump, left lower limb"
-762213,"Bursitis of left shoulder",775549,2323944,1,"Bursitis of left shoulder"
-36685978,"Localized swelling of right lower limb",1268598,2239938,1,"Localized swelling, mass and lump, right lower limb"
-36712806,"Intermittent claudication of right lower limb co-occurrent and due to atherosclerosis",407426,2218375,1,"Atherosclerosis of native arteries of extremities with intermittent claudication, right leg"
-35225630,"Metastasis to left lung",319775,2196514,1,"Secondary malignant neoplasm of left lung"
-605478,"Primary squamous cell carcinoma of skin of left upper limb",697829,2154560,1,"Squamous cell carcinoma of skin of left upper limb, including shoulder"
-760038,"Acute serous otitis media of bilateral ears",1328926,2129625,1,"Acute serous otitis media, bilateral"
-760895,"Mass of left breast",1070643,2066514,4,"Unspecified lump in the left breast, unspecified quadrant | 
-Unspecified lump in left breast, subareolar | 
-Unspecified lump in the left breast, overlapping quadrants | 
-Unspecified lump in the left breast"
-37170711,"Pressure injury of right buttock stage IV",70948,2042221,1,"Pressure ulcer of right buttock, stage 4"
-759930,"Ductal carcinoma in situ of left breast",232290,2029227,1,"Intraductal carcinoma in situ of left breast"
-36717286,"Intermittent claudication of left lower limb co-occurrent and due to atherosclerosis",375903,2016204,1,"Atherosclerosis of native arteries of extremities with intermittent claudication, left leg"
-765053,"Mass of right breast",1030482,1980091,4,"Unspecified lump in the right breast, unspecified quadrant | 
-Unspecified lump in right breast, subareolar | 
-Unspecified lump in the right breast, overlapping quadrants | 
-Unspecified lump in the right breast"
-37170723,"Pressure injury of left buttock stage IV",70575,1963848,1,"Pressure ulcer of left buttock, stage 4"
-37170709,"Pressure injury of right buttock stage III",182573,1960742,1,"Pressure ulcer of right buttock, stage 3"
-602164,"Primary squamous cell carcinoma of skin of right upper limb",641468,1959985,1,"Squamous cell carcinoma of skin of right upper limb, including shoulder"
-759931,"Ductal carcinoma in situ of right breast",223530,1941944,1,"Intraductal carcinoma in situ of right breast"
-433495,"Conductive hearing loss, bilateral",795360,1940746,1,"Conductive hearing loss, bilateral"
-37170720,"Pressure injury of left buttock stage III",178808,1905698,1,"Pressure ulcer of left buttock, stage 3"
-37109301,"Benign neoplasm of left choroid",629785,1902311,1,"Benign neoplasm of left choroid"
-36676836,"Arthropathy of left knee joint",517971,1876385,1,"Synovial cyst of popliteal space [Baker], left knee"
-760873,"Varicose veins of left lower limb",365771,1853691,1,"Varicose veins of left lower extremity with other complications"
-36685986,"Localized swelling of right upper limb",931517,1831602,1,"Localized swelling, mass and lump, right upper limb"
-36676837,"Arthropathy of right knee joint",496383,1789579,1,"Synovial cyst of popliteal space [Baker], right knee"
-37170797,"Pressure injury of left heel stage III",137147,1783592,1,"Pressure ulcer of left heel, stage 3"
-760874,"Varicose veins of right lower limb",350346,1776414,1,"Varicose veins of right lower extremity with other complications"
-36685988,"Localized swelling of left upper limb",866517,1714912,1,"Localized swelling, mass and lump, left upper limb"
-37170786,"Pressure injury of right heel stage III",126409,1621009,1,"Pressure ulcer of right heel, stage 3"
-436421,"Mixed conductive and sensorineural hearing loss, bilateral",513371,1464268,1,"Mixed conductive and sensorineural hearing loss, bilateral"
-36713111,"Osteoarthritis of right knee joint",315937,1207636,1,"Chondromalacia, right knee"
-43021779,"Hearing loss of left ear",647503,1159309,2,"Unspecified hearing loss, left ear | 
-Other specified hearing loss, left ear"
-37170795,"Pressure injury of left heel stage II",168030,1154796,1,"Pressure ulcer of left heel, stage 2"
-36717036,"Osteoarthritis of left knee joint",297340,1140495,1,"Chondromalacia, left knee"
-37170764,"Pressure injury of right hip stage IV",49264,1116670,1,"Pressure ulcer of right hip, stage 4"
-36712963,"Gangrene of left lower limb due to atherosclerosis",142622,1097901,1,"Atherosclerosis of native arteries of extremities with gangrene, left leg"
-37170777,"Pressure injury of left hip stage IV",48633,1083907,1,"Pressure ulcer of left hip, stage 4"
-37170784,"Pressure injury of right heel stage II",156391,1072705,1,"Pressure ulcer of right heel, stage 2"
-36717279,"Gangrene of right lower limb due to atherosclerosis",139792,1066379,1,"Atherosclerosis of native arteries of extremities with gangrene, right leg"
-43021778,"Hearing loss of right ear",589872,1046071,2,"Unspecified hearing loss, right ear | 
-Other specified hearing loss, right ear"
-37164929,"Seborrheic blepharitis of right lower eyelid",477365,969503,1,"Squamous blepharitis right lower eyelid"
-440207,"Hypoplastic left heart syndrome",19774,950132,1,"Hypoplastic left heart syndrome"
-36712807,"Pain at rest of right lower limb due to atherosclerosis",171104,929385,1,"Atherosclerosis of native arteries of extremities with rest pain, right leg"
-36712805,"Pain at rest of left lower limb due to atherosclerosis",164002,907640,1,"Atherosclerosis of native arteries of extremities with rest pain, left leg"
-37155710,"Pressure injury of left heel stage IV",57635,868164,1,"Pressure ulcer of left heel, stage 4"
-37208028,"Benign neoplasm of right breast",338699,862757,1,"Benign neoplasm of right breast"
-764597,"Lump in upper outer quadrant of right breast",440507,859119,1,"Unspecified lump in the right breast, upper outer quadrant"
-37208024,"Benign neoplasm of left breast",327022,837198,1,"Benign neoplasm of left breast"
-37109050,"Meibomian gland dysfunction of right eye",460988,837162,4,"Meibomian gland dysfunction right eye, upper and lower eyelids | 
+Unspecified blepharitis left eye, upper and lower eyelids",0.968449931412894,"341921000119102"
+37164929,"Seborrheic blepharitis of right lower eyelid",477365,969503,1,"100%~Squamous blepharitis right lower eyelid (H01.022)45547775;477365 patients","Squamous blepharitis right lower eyelid",0.914951989026063,"1237000005"
+37109050,"Meibomian gland dysfunction of right eye",460988,837162,4,"48.1%~Meibomian gland dysfunction right eye, upper and lower eyelids (H02.88A)1595584;221666 patients | 
+28.4%~Meibomian gland dysfunction of right eye, unspecified eyelid (H02.883)1595579;123627 patients | 
+14.5%~Meibomian gland dysfunction right lower eyelid (H02.882)1595578;70196 patients | 
+9%~Meibomian gland dysfunction right upper eyelid (H02.881)1595577;45499 patients","Meibomian gland dysfunction right eye, upper and lower eyelids | 
 Meibomian gland dysfunction of right eye, unspecified eyelid | 
 Meibomian gland dysfunction right lower eyelid | 
-Meibomian gland dysfunction right upper eyelid"
-764594,"Lump in upper outer quadrant of left breast",431399,836169,1,"Unspecified lump in the left breast, upper outer quadrant"
-37164930,"Seborrheic blepharitis of left lower eyelid",413045,813873,1,"Squamous blepharitis left lower eyelid"
-37170788,"Pressure injury of right heel stage IV",53811,805374,1,"Pressure ulcer of right heel, stage 4"
-760031,"Acute non-suppurative otitis media of bilateral ears",506573,795516,1,"Other acute nonsuppurative otitis media, bilateral"
-762217,"Calcific tendinitis of right shoulder",223271,703113,1,"Calcific tendinitis of right shoulder"
-36712794,"Contusion of right toe",424056,667775,6,"Contusion of right lesser toe(s) without damage to nail, initial encounter | 
-Contusion of right great toe without damage to nail, initial encounter | 
-Contusion of right lesser toe(s) without damage to nail, subsequent encounter | 
-Contusion of right great toe without damage to nail, subsequent encounter | 
-Contusion of right lesser toe(s) without damage to nail | 
-Contusion of right great toe without damage to nail"
-36712795,"Contusion of left toe",408233,639041,6,"Contusion of left lesser toe(s) without damage to nail, initial encounter | 
-Contusion of left great toe without damage to nail, initial encounter | 
-Contusion of left lesser toe(s) without damage to nail, subsequent encounter | 
-Contusion of left great toe without damage to nail, subsequent encounter | 
-Contusion of left great toe without damage to nail | 
-Contusion of left lesser toe(s) without damage to nail"
-43020460,"Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery",141666,629971,1,"ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery"
-37170762,"Pressure injury of right hip stage III",55076,597603,1,"Pressure ulcer of right hip, stage 3"
-37170793,"Pressure injury of left heel stage I",127536,575840,1,"Pressure ulcer of left heel, stage 1"
-37117095,"Benign neoplasm of left adrenal gland",228497,574905,1,"Benign neoplasm of left adrenal gland"
-762216,"Calcific tendinitis of left shoulder",183415,573760,1,"Calcific tendinitis of left shoulder"
-37170775,"Pressure injury of left hip stage III",53014,573601,1,"Pressure ulcer of left hip, stage 3"
-37170703,"Pressure injury of right buttock stage I",146203,560940,1,"Pressure ulcer of right buttock, stage 1"
-760061,"Chronic nonsuppurative otitis media of bilateral ears",242042,554548,1,"Other chronic nonsuppurative otitis media, bilateral"
-37170782,"Pressure injury of right heel stage I",122022,553340,1,"Pressure ulcer of right heel, stage 1"
-46270163,"Acute ST segment elevation myocardial infarction due to right coronary artery occlusion",139504,551398,1,"ST elevation (STEMI) myocardial infarction involving right coronary artery"
-135923,"Cleft palate",53245,547727,2,"Cleft palate, unspecified | 
-Cleft palate"
-37170716,"Pressure injury of left buttock stage I",142450,544124,1,"Pressure ulcer of left buttock, stage 1"
-37170837,"Pressure injury of right ankle stage III",42843,511302,1,"Pressure ulcer of right ankle, stage 3"
-36712705,"Vitreomacular adhesion of left eye",146624,486196,1,"Vitreomacular adhesion, left eye"
-36684646,"Senile ectropion of right lower eyelid",194108,476224,1,"Senile ectropion of right lower eyelid"
-36684711,"Senile ectropion of left lower eyelid",192700,467101,1,"Senile ectropion of left lower eyelid"
-37170850,"Pressure injury of left ankle stage III",37374,446409,1,"Pressure ulcer of left ankle, stage 3"
-313867,"Double outlet right ventricle",16537,421529,1,"Double outlet right ventricle"
-4164640,"Blind right eye",187853,420073,7,"Unqualified visual loss, right eye, normal vision left eye | 
+Meibomian gland dysfunction right upper eyelid",0.905349794238683,"16237381000119100"
+37164930,"Seborrheic blepharitis of left lower eyelid",413045,813873,1,"100%~Squamous blepharitis left lower eyelid (H01.025)45557268;413045 patients","Squamous blepharitis left lower eyelid",0.899862825788752,"1237001009"
+36712705,"Vitreomacular adhesion of left eye",146624,486196,1,"100%~Vitreomacular adhesion, left eye (H43.822)45605694;146624 patients","Vitreomacular adhesion, left eye",0.858710562414266,"10762151000119101"
+36684646,"Senile ectropion of right lower eyelid",194108,476224,1,"100%~Senile ectropion of right lower eyelid (H02.132)45595979;194108 patients","Senile ectropion of right lower eyelid",0.857338820301783,"334301000119105"
+36684711,"Senile ectropion of left lower eyelid",192700,467101,1,"100%~Senile ectropion of left lower eyelid (H02.135)45542931;192700 patients","Senile ectropion of left lower eyelid",0.8559670781893,"339901000119108"
+4164640,"Blind right eye",187853,420073,7,"100%~Unqualified visual loss, right eye, normal vision left eye (H54.61)45562286;187853 patients | 
+NA | 
+NA | 
+NA | 
+NA | 
+NA | 
+NA","Unqualified visual loss, right eye, normal vision left eye | 
 Blindness right eye, category 4 | 
 Blindness, right eye, category 3 | 
 Blindness, right eye, category 4 | 
 Blindness, right eye, category 5 | 
 Blindness right eye, category 3 | 
-Blindness right eye, category 5"
-4164639,"Blind left eye",190694,419438,2,"Unqualified visual loss, left eye, normal vision right eye | 
-Blindness, left eye, category 3-5"
-35225626,"Metastasis to left adrenal gland",74155,418383,1,"Secondary malignant neoplasm of left adrenal gland"
-36712706,"Vitreomacular adhesion of right eye",126658,409222,1,"Vitreomacular adhesion, right eye"
-37117135,"Infective arthritis of right knee",44709,397579,1,"Arthritis due to other bacteria, right knee"
-764595,"Lump in upper inner quadrant of left breast",202420,376369,1,"Unspecified lump in the left breast, upper inner quadrant"
-37204169,"Benign neoplasm of right adrenal gland",148361,373674,1,"Benign neoplasm of right adrenal gland"
-37208040,"Benign neoplasm of right ovary",125155,366470,1,"Benign neoplasm of right ovary"
-36712784,"Contusion of right ankle",216164,366345,3,"Contusion of right ankle, initial encounter | 
-Contusion of right ankle, subsequent encounter | 
-Contusion of right ankle"
-764599,"Lump in upper inner quadrant of right breast",196864,361897,1,"Unspecified lump in the right breast, upper inner quadrant"
-36712785,"Contusion of left ankle",208262,353186,3,"Contusion of left ankle, initial encounter | 
-Contusion of left ankle, subsequent encounter | 
-Contusion of left ankle"
-37208043,"Benign neoplasm of left ovary",123289,353087,1,"Benign neoplasm of left ovary"
-134144,"Cleft palate with cleft lip",33750,348025,2,"Unspecified cleft palate with unilateral cleft lip | 
-Cleft palate with cleft lip"
-37170834,"Pressure injury of right ankle stage II",52511,345216,1,"Pressure ulcer of right ankle, stage 2"
-37170760,"Pressure injury of right hip stage II",59085,341730,1,"Pressure ulcer of right hip, stage 2"
-43020910,"Pulmonary hypertension due to left heart disease",145348,337738,1,"Pulmonary hypertension due to left heart disease"
-35226288,"Metastasis to right adrenal gland",60605,337295,1,"Secondary malignant neoplasm of right adrenal gland"
-36712704,"Vitreomacular adhesion of bilateral eyes",113972,334328,1,"Vitreomacular adhesion, bilateral"
-37170772,"Pressure injury of left hip stage II",56894,323204,1,"Pressure ulcer of left hip, stage 2"
-36712753,"Foreign body in right cornea",197892,312719,3,"Foreign body in cornea, right eye, initial encounter | 
+Blindness right eye, category 5",0.844993141289438,"274572000"
+4164639,"Blind left eye",190694,419438,2,"100%~Unqualified visual loss, left eye, normal vision right eye (H54.62)45562287;190694 patients | 
+NA","Unqualified visual loss, left eye, normal vision right eye | 
+Blindness, left eye, category 3-5",0.843621399176955,"274571007"
+36712706,"Vitreomacular adhesion of right eye",126658,409222,1,"100%~Vitreomacular adhesion, right eye (H43.821)45586473;126658 patients","Vitreomacular adhesion, right eye",0.839506172839506,"10762191000119106"
+36712753,"Foreign body in right cornea",197892,312719,3,"88.6%~Foreign body in cornea, right eye, initial encounter (T15.01XA)45604015;175585 patients | 
+11.4%~Foreign body in cornea, right eye, subsequent encounter (T15.01XD)45536467;22307 patients | 
+NA","Foreign body in cornea, right eye, initial encounter | 
 Foreign body in cornea, right eye, subsequent encounter | 
-Foreign body in cornea, right eye"
-42535528,"Blepharitis of right eyelid",177863,307617,1,"Unspecified blepharitis right eye, upper and lower eyelids"
-35626038,"Mild nonproliferative retinopathy of right eye due to diabetes mellitus",48424,304098,4,"Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, right eye | 
-Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, right eye"
-36712754,"Foreign body in left cornea",186347,294937,3,"Foreign body in cornea, left eye, initial encounter | 
+Foreign body in cornea, right eye",0.810699588477366,"10849141000119102"
+42535528,"Blepharitis of right eyelid",177863,307617,1,"100%~Unspecified blepharitis right eye, upper and lower eyelids (H01.00A)1595550;177863 patients","Unspecified blepharitis right eye, upper and lower eyelids",0.806584362139918,"336311000119103"
+36712754,"Foreign body in left cornea",186347,294937,3,"88.5%~Foreign body in cornea, left eye, initial encounter (T15.02XA)45604016;164876 patients | 
+11.5%~Foreign body in cornea, left eye, subsequent encounter (T15.02XD)45565290;21471 patients | 
+NA","Foreign body in cornea, left eye, initial encounter | 
 Foreign body in cornea, left eye, subsequent encounter | 
-Foreign body in cornea, left eye"
-35626039,"Mild nonproliferative retinopathy of left eye due to diabetes mellitus",46370,293261,4,"Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, left eye | 
-Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, left eye"
-765719,"Lump in lower outer quadrant of left breast",158853,287144,1,"Unspecified lump in the left breast, lower outer quadrant"
-37170847,"Pressure injury of left ankle stage II",44066,284873,1,"Pressure ulcer of left ankle, stage 2"
-764598,"Lump in lower outer quadrant of right breast",156901,284590,1,"Unspecified lump in the right breast, lower outer quadrant"
-37208023,"Acquired stenosis of left nasolacrimal duct",129258,266279,1,"Acquired stenosis of left nasolacrimal duct"
-4014159,"Chronic right-sided heart failure",63949,263409,1,"Chronic right heart failure"
-37208022,"Acquired stenosis of right nasolacrimal duct",123223,254243,1,"Acquired stenosis of right nasolacrimal duct"
-37310245,"Fibroadenosis of right breast",130959,252608,1,"Fibroadenosis of right breast"
-760152,"Cellulitis of left external ear",140971,248950,1,"Cellulitis of left external ear"
-37170839,"Pressure injury of right ankle stage IV",20616,248747,1,"Pressure ulcer of right ankle, stage 4"
-37310244,"Fibroadenosis of left breast",129733,247900,1,"Fibroadenosis of left breast"
-765316,"Cellulitis of right external ear",139701,247390,1,"Cellulitis of right external ear"
-37207866,"Dermatochalasis of right lower eyelid",142862,246377,1,"Dermatochalasis of right lower eyelid"
-36712713,"Primary basal cell carcinoma of left eyelid",41840,240766,2,"Basal cell carcinoma of skin of left lower eyelid, including canthus | 
-Basal cell carcinoma of skin of left upper eyelid, including canthus"
-764596,"Lump in lower inner quadrant of left breast",129941,231133,1,"Unspecified lump in the left breast, lower inner quadrant"
-45757719,"Blind right eye, normal vision left eye",51894,230090,7,"Blindness right eye category 3, blindness left eye category 3 | 
+Foreign body in cornea, left eye",0.799725651577503,"10849181000119107"
+37207866,"Dermatochalasis of right lower eyelid",142862,246377,1,"100%~Dermatochalasis of right lower eyelid (H02.832)45595986;142862 patients","Dermatochalasis of right lower eyelid",0.779149519890261,"334221000119107"
+36712713,"Primary basal cell carcinoma of left eyelid",41840,240766,2,"76.5%~Basal cell carcinoma of skin of left lower eyelid, including canthus (C44.1192)1595498;29573 patients | 
+23.5%~Basal cell carcinoma of skin of left upper eyelid, including canthus (C44.1191)1595497;12267 patients","Basal cell carcinoma of skin of left lower eyelid, including canthus | 
+Basal cell carcinoma of skin of left upper eyelid, including canthus",0.773662551440329,"1079111000119108"
+45757719,"Blind right eye, normal vision left eye",51894,230090,7,"52.2%~Blindness right eye category 3, blindness left eye category 3 (H54.0X33)1326537;15526 patients | 
+23.1%~Blindness right eye category 3, normal vision left eye (H54.413A)1326573;17908 patients | 
+13.4%~Blindness right eye category 5, normal vision left eye (H54.415A)1326577;10396 patients | 
+5.6%~Blindness right eye category 4, normal vision left eye (H54.414A)1326575;5354 patients | 
+2.9%~Blindness right eye category 3, blindness left eye category 4 (H54.0X34)1326538;1564 patients | 
+2.8%~Blindness right eye category 3, blindness left eye category 5 (H54.0X35)1326539;1146 patients | 
+NA","Blindness right eye category 3, blindness left eye category 3 | 
 Blindness right eye category 3, normal vision left eye | 
 Blindness right eye category 5, normal vision left eye | 
 Blindness right eye category 4, normal vision left eye | 
 Blindness right eye category 3, blindness left eye category 4 | 
 Blindness right eye category 3, blindness left eye category 5 | 
-Blindness, right eye, normal vision left eye"
-36685929,"Cellulitis of right axilla",116386,228932,1,"Cellulitis of right axilla"
-36712715,"Primary basal cell carcinoma of right eyelid",40522,227007,2,"Basal cell carcinoma of skin of right lower eyelid, including canthus | 
-Basal cell carcinoma of skin of right upper eyelid, including canthus"
-37309625,"Acute on chronic right-sided congestive heart failure",56625,226180,1,"Acute on chronic right heart failure"
-37208031,"Neoplasm of uncertain behavior of left kidney",67207,220034,1,"Neoplasm of uncertain behavior of left kidney"
-37208036,"Neoplasm of uncertain behavior of right kidney",65593,219187,1,"Neoplasm of uncertain behavior of right kidney"
-37170852,"Pressure injury of left ankle stage IV",16542,215538,1,"Pressure ulcer of left ankle, stage 4"
-36685928,"Cellulitis of left axilla",110167,215378,1,"Cellulitis of left axilla"
-765720,"Lump in lower inner quadrant of right breast",117993,209551,1,"Unspecified lump in the right breast, lower inner quadrant"
-37209394,"Follicular cyst of right ovary",130215,203900,1,"Follicular cyst of right ovary"
-37207926,"Dermatochalasis of left lower eyelid",119235,199793,1,"Dermatochalasis of left lower eyelid"
-37108588,"Arthritis of left knee caused by bacteria",37887,195603,1,"Arthritis due to other bacteria, left knee"
-37168303,"Break of retina of right eye",74213,189412,1,"Unspecified retinal break, right eye"
-1075604,"Primary malignant neoplasm of axillary tail of left breast",21024,187648,1,"Malignant neoplasm of axillary tail of left female breast"
-37168305,"Break of retina of left eye",73344,185254,1,"Unspecified retinal break, left eye"
-762376,"Cellulitis of left orbit",73209,184962,1,"Cellulitis of left orbit"
-37208309,"Benign neoplasm of skin of right eyelid",113698,184538,3,"Other benign neoplasm of skin of right upper eyelid, including canthus | 
+Blindness, right eye, normal vision left eye",0.766803840877915,"343021000119100"
+36712715,"Primary basal cell carcinoma of right eyelid",40522,227007,2,"74.1%~Basal cell carcinoma of skin of right lower eyelid, including canthus (C44.1122)1595496;27513 patients | 
+25.9%~Basal cell carcinoma of skin of right upper eyelid, including canthus (C44.1121)1595495;13009 patients","Basal cell carcinoma of skin of right lower eyelid, including canthus | 
+Basal cell carcinoma of skin of right upper eyelid, including canthus",0.762688614540466,"1079171000119100"
+37207926,"Dermatochalasis of left lower eyelid",119235,199793,1,"100%~Dermatochalasis of left lower eyelid (H02.835)45581546;119235 patients","Dermatochalasis of left lower eyelid",0.750342935528121,"339821000119107"
+37168303,"Break of retina of right eye",74213,189412,1,"100%~Unspecified retinal break, right eye (H33.301)45557394;74213 patients","Unspecified retinal break, right eye",0.736625514403292,"1279731008"
+37168305,"Break of retina of left eye",73344,185254,1,"100%~Unspecified retinal break, left eye (H33.302)45567034;73344 patients","Unspecified retinal break, left eye",0.735253772290809,"1279733006"
+37208309,"Benign neoplasm of skin of right eyelid",113698,184538,3,"51.2%~Other benign neoplasm of skin of right upper eyelid, including canthus (D23.111)1595527;57449 patients | 
+48.8%~Other benign neoplasm of skin of right lower eyelid, including canthus (D23.112)1595528;56249 patients | 
+NA","Other benign neoplasm of skin of right upper eyelid, including canthus | 
 Other benign neoplasm of skin of right lower eyelid, including canthus | 
-Other benign neoplasm of skin of right eyelid, including canthus"
-37173345,"Pressure injury of right lumbar region of back stage IV",12415,184011,1,"Pressure ulcer of right lower back, stage 4"
-37209395,"Follicular cyst of left ovary",113676,179357,1,"Follicular cyst of left ovary"
-37208308,"Benign neoplasm of skin of left eyelid",110752,179174,3,"Other benign neoplasm of skin of left lower eyelid, including canthus | 
+Other benign neoplasm of skin of right eyelid, including canthus",0.733882030178326,"1079391000119102"
+37208308,"Benign neoplasm of skin of left eyelid",110752,179174,3,"51.8%~Other benign neoplasm of skin of left lower eyelid, including canthus (D23.122)1595530;57946 patients | 
+48.2%~Other benign neoplasm of skin of left upper eyelid, including canthus (D23.121)1595529;52806 patients | 
+NA","Other benign neoplasm of skin of left lower eyelid, including canthus | 
 Other benign neoplasm of skin of left upper eyelid, including canthus | 
-Other benign neoplasm of skin of left eyelid, including canthus"
-765476,"Cellulitis of right orbit",71580,174928,1,"Cellulitis of right orbit"
-1075605,"Primary malignant neoplasm of axillary tail of right breast",19306,173205,1,"Malignant neoplasm of axillary tail of right female breast"
-37208045,"Lobular carcinoma in situ of left breast",39432,168914,1,"Lobular carcinoma in situ of left breast"
-37173344,"Pressure injury of left lumbar region of back stage IV",11434,165808,1,"Pressure ulcer of left lower back, stage 4"
-46269854,"Cleft palate and bilateral cleft lip",18261,160662,2,"Unspecified cleft palate with bilateral cleft lip | 
-Cleft hard and soft palate with bilateral cleft lip"
-36685157,"Abscess of left external ear",78783,156029,1,"Abscess of left external ear"
-37208046,"Lobular carcinoma in situ of right breast",37486,155806,1,"Lobular carcinoma in situ of right breast"
-36685228,"Abscess of right external ear",76198,150485,1,"Abscess of right external ear"
-376977,"Heteronymous bilateral visual field defects",72952,149334,1,"Heteronymous bilateral field defects"
-37173695,"Arthritis of joint of right hand",78296,147332,1,"Other specified arthritis, right hand"
-37207869,"Senile entropion of right lower eyelid",51659,144666,1,"Senile entropion of right lower eyelid"
-37208030,"Neoplasm of uncertain behavior of left breast",58316,138714,1,"Neoplasm of uncertain behavior of left breast"
-36713165,"Pigment dispersion syndrome of bilateral eyes",45734,137475,1,"Degeneration of iris (pigmentary), bilateral"
-37208038,"Neoplasm of uncertain behavior of right breast",56629,135019,1,"Neoplasm of uncertain behavior of right breast"
-36684822,"Benign neoplasm of right kidney",46230,134321,1,"Benign neoplasm of right kidney"
-4178668,"Branchial cleft anomaly",40307,131666,2,"Sinus, fistula and cyst of branchial cleft | 
-Other branchial cleft malformations"
-133861,"Cleft lip",22305,130981,2,"Cleft lip, unilateral | 
-Cleft lip"
-1245722,"Chronic tubotympanic suppurative otitis media of bilateral middle ears",46511,130714,1,"Chronic tubotympanic suppurative otitis media, bilateral"
-36675105,"Injury of right foot",62670,128546,6,"Unspecified sprain of right great toe, initial encounter | 
-Unspecified sprain of right lesser toe(s), initial encounter | 
-Unspecified sprain of right great toe, subsequent encounter | 
-Unspecified sprain of right lesser toe(s), subsequent encounter | 
-Unspecified sprain of right lesser toe(s) | 
-Unspecified sprain of right great toe"
-36712949,"Ptosis of bilateral eyebrows",66935,126593,1,"Brow ptosis, bilateral"
-37108731,"Injury of left foot",59738,122025,6,"Unspecified sprain of left great toe, initial encounter | 
-Unspecified sprain of left lesser toe(s), initial encounter | 
-Unspecified sprain of left great toe, subsequent encounter | 
-Unspecified sprain of left lesser toe(s), subsequent encounter | 
-Unspecified sprain of left great toe | 
-Unspecified sprain of left lesser toe(s)"
-37207929,"Senile entropion of left lower eyelid",44364,120936,1,"Senile entropion of left lower eyelid"
-37173241,"Pressure injury of right lumbar region of back",30499,120286,3,"Pressure ulcer of right lower back, unspecified stage | 
-Pressure ulcer of right lower back, unstageable | 
-Pressure ulcer of right lower back"
-37173819,"Arthritis of joint of left hand",64338,118947,1,"Other specified arthritis, left hand"
-36684823,"Benign neoplasm of left kidney",42144,118720,1,"Benign neoplasm of left kidney"
-1076889,"Anterior tibial compartment syndrome of right lower leg",44246,118399,1,"Anterior tibial syndrome, right leg"
-1076888,"Anterior tibial compartment syndrome of left lower leg",42360,117173,1,"Anterior tibial syndrome, left leg"
-37310242,"Mammary duct ectasia of left breast",69032,113951,1,"Mammary duct ectasia of left breast"
-4233424,"Acute right-sided heart failure",36786,113327,1,"Acute right heart failure"
-36687193,"Chondromalacia of right shoulder",61125,111951,1,"Chondromalacia, right shoulder"
-37310243,"Mammary duct ectasia of right breast",67311,110367,1,"Mammary duct ectasia of right breast"
-36713314,"Phthisis bulbi of left eye",28592,109131,1,"Atrophy of globe, left eye"
-37207959,"Edema of right upper eyelid",78288,108777,1,"Edema of right upper eyelid"
-37207927,"Cicatricial ectropion of left lower eyelid",38771,107729,1,"Cicatricial ectropion of left lower eyelid"
-37173337,"Pressure injury of right lumbar region of back stage III",12789,106322,1,"Pressure ulcer of right lower back, stage 3"
-36717025,"Phthisis bulbi of right eye",27954,104217,1,"Atrophy of globe, right eye"
-37170759,"Pressure injury of right hip stage I",24790,104173,1,"Pressure ulcer of right hip, stage 1"
-37207960,"Edema of left upper eyelid",74847,103816,1,"Edema of left upper eyelid"
-45757721,"Blind left eye, normal vision right eye",36491,103306,4,"Blindness left eye category 3, normal vision right eye | 
+Other benign neoplasm of skin of left eyelid, including canthus",0.731138545953361,"1079351000119107"
+37207869,"Senile entropion of right lower eyelid",51659,144666,1,"100%~Senile entropion of right lower eyelid (H02.032)45591218;51659 patients","Senile entropion of right lower eyelid",0.691358024691358,"334291000119109"
+37207929,"Senile entropion of left lower eyelid",44364,120936,1,"100%~Senile entropion of left lower eyelid (H02.035)45562122;44364 patients","Senile entropion of left lower eyelid",0.666666666666667,"339891000119109"
+36713314,"Phthisis bulbi of left eye",28592,109131,1,"100%~Atrophy of globe, left eye (H44.522)45538295;28592 patients","Atrophy of globe, left eye",0.654320987654321,"677391000119100"
+37207959,"Edema of right upper eyelid",78288,108777,1,"100%~Edema of right upper eyelid (H02.841)45562134;78288 patients","Edema of right upper eyelid",0.651577503429355,"342461000119105"
+37207927,"Cicatricial ectropion of left lower eyelid",38771,107729,1,"100%~Cicatricial ectropion of left lower eyelid (H02.115)45538164;38771 patients","Cicatricial ectropion of left lower eyelid",0.650205761316872,"339851000119104"
+36717025,"Phthisis bulbi of right eye",27954,104217,1,"100%~Atrophy of globe, right eye (H44.521)45543057;27954 patients","Atrophy of globe, right eye",0.644718792866941,"677401000119103"
+37207960,"Edema of left upper eyelid",74847,103816,1,"100%~Edema of left upper eyelid (H02.844)45557288;74847 patients","Edema of left upper eyelid",0.643347050754458,"342491000119103"
+45757721,"Blind left eye, normal vision right eye",36491,103306,4,"53.3%~Blindness left eye category 3, normal vision right eye (H54.42A3)1326579;18006 patients | 
+31.5%~Blindness left eye category 5, normal vision right eye (H54.42A5)1326581;12140 patients | 
+15.3%~Blindness left eye category 4, normal vision right eye (H54.42A4)1326580;6345 patients | 
+NA","Blindness left eye category 3, normal vision right eye | 
 Blindness left eye category 5, normal vision right eye | 
 Blindness left eye category 4, normal vision right eye | 
-Blindness, left eye, normal vision right eye"
-37207867,"Cicatricial ectropion of right lower eyelid",37415,102167,1,"Cicatricial ectropion of right lower eyelid"
-46270162,"Acute ST segment elevation myocardial infarction due to left coronary artery occlusion",32553,99965,1,"ST elevation (STEMI) myocardial infarction involving left main coronary artery"
-37170831,"Pressure injury of right ankle stage I",22149,98072,1,"Pressure ulcer of right ankle, stage 1"
-37173339,"Pressure injury of left lumbar region of back stage III",11546,95728,1,"Pressure ulcer of left lower back, stage 3"
-37170770,"Pressure injury of left hip stage I",21887,92125,1,"Pressure ulcer of left hip, stage 1"
-761255,"Congenital talipes equinovarus of right foot",19426,89881,1,"Congenital talipes equinovarus, right foot"
-37208033,"Neoplasm of uncertain behavior of right ovary",30996,87926,1,"Neoplasm of uncertain behavior of right ovary"
-36687192,"Chondromalacia of left shoulder",47738,87462,1,"Chondromalacia, left shoulder"
-37170844,"Pressure injury of left ankle stage I",19470,87432,1,"Pressure ulcer of left ankle, stage 1"
-35626041,"Moderate nonproliferative diabetic retinopathy of right eye",13000,86166,4,"Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, right eye | 
-Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, right eye"
-37208032,"Neoplasm of uncertain behavior of left ovary",29662,84844,1,"Neoplasm of uncertain behavior of left ovary"
-46269852,"Cleft hard and soft palate with cleft lip",13336,84723,1,"Cleft hard and soft palate with unilateral cleft lip"
-35225656,"Metastasis to right ovary",18009,81297,1,"Secondary malignant neoplasm of right ovary"
-761468,"Acquired deformity of right hip",42905,80933,2,"Other specified acquired deformities of right thigh | 
-Unspecified acquired deformity of right thigh"
-36713154,"Abscess of right upper eyelid",49762,80839,1,"Abscess of right upper eyelid"
-35626042,"Moderate nonproliferative diabetic retinopathy of left eye",12211,80739,4,"Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, left eye | 
-Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, left eye"
-37208044,"Benign neoplasm of right conjunctiva",39397,80725,1,"Benign neoplasm of right conjunctiva"
-45757720,"Blind right eye, low vision left eye",18924,79224,9,"Blindness right eye category 3, low vision left eye category 1 | 
+Blindness, left eye, normal vision right eye",0.641975308641975,"343041000119106"
+37207867,"Cicatricial ectropion of right lower eyelid",37415,102167,1,"100%~Cicatricial ectropion of right lower eyelid (H02.112)45591222;37415 patients","Cicatricial ectropion of right lower eyelid",0.640603566529492,"334251000119104"
+36713154,"Abscess of right upper eyelid",49762,80839,1,"100%~Abscess of right upper eyelid (H00.031)45591212;49762 patients","Abscess of right upper eyelid",0.615912208504801,"347641000119105"
+45757720,"Blind right eye, low vision left eye",18924,79224,9,"42.7%~Blindness right eye category 3, low vision left eye category 1 (H54.1131)1326549;7425 patients | 
+17.7%~Blindness right eye category 5, low vision left eye category 2 (H54.1152)1326556;2310 patients | 
+11.7%~Blindness right eye category 5, low vision left eye category 1 (H54.1151)1326555;2501 patients | 
+11%~Blindness right eye category 3, low vision left eye category 2 (H54.1132)1326550;2081 patients | 
+9.9%~Blindness right eye category 4, low vision left eye category 1 (H54.1141)1326552;2824 patients | 
+7%~Blindness right eye category 4, low vision left eye category 2 (H54.1142)1326553;1783 patients | 
+NA | 
+NA | 
+NA","Blindness right eye category 3, low vision left eye category 1 | 
 Blindness right eye category 5, low vision left eye category 2 | 
 Blindness right eye category 5, low vision left eye category 1 | 
 Blindness right eye category 3, low vision left eye category 2 | 
@@ -312,749 +113,151 @@ Blindness right eye category 4, low vision left eye category 1 |
 Blindness right eye category 4, low vision left eye category 2 | 
 Blindness right eye category 4, low vision left eye | 
 Blindness right eye category 3, low vision left eye | 
-Blindness right eye category 5, low vision left eye"
-37207961,"Eczematous dermatitis of right upper eyelid",52541,79173,1,"Eczematous dermatitis of right upper eyelid"
-4109045,"Cleft of soft palate",13849,77720,1,"Cleft soft palate"
-42534830,"Infective arthritis of right hip",8774,77273,1,"Staphylococcal arthritis, right hip"
-37208027,"Benign neoplasm of left conjunctiva",36985,77083,1,"Benign neoplasm of left conjunctiva"
-36717312,"Abscess of left upper eyelid",46736,76543,1,"Abscess of left upper eyelid"
-761469,"Acquired deformity of left hip",41053,75787,2,"Other specified acquired deformities of left thigh | 
-Unspecified acquired deformity of left thigh"
-37173346,"Pressure injury of right thoracic region of back stage III",9317,75430,1,"Pressure ulcer of right upper back, stage 3"
-36685161,"Chondritis of left external ear",45414,74854,1,"Chondritis of left external ear"
-759835,"Furuncle of left lower limb",48995,74750,1,"Furuncle of left lower limb"
-36685232,"Chondritis of right external ear",45014,74617,1,"Chondritis of right external ear"
-712644,"Metastasis to left kidney",21846,72416,1,"Secondary malignant neoplasm of left kidney and renal pelvis"
-712646,"Metastasis to left renal pelvis",21846,72416,1,"Secondary malignant neoplasm of left kidney and renal pelvis"
-761245,"Congenital talipes equinovarus of left foot",16663,72267,1,"Congenital talipes equinovarus, left foot"
-765174,"Furuncle of right lower limb",47740,71759,1,"Furuncle of right lower limb"
-764603,"Lump of axillary tail of left breast",43639,71287,1,"Unspecified lump in axillary tail of the left breast"
-35225631,"Metastasis to left ovary",16174,71009,1,"Secondary malignant neoplasm of left ovary"
-42534829,"Infective arthritis of left hip",8047,70208,1,"Staphylococcal arthritis, left hip"
-37173333,"Pressure injury of right lumbar region of back stage II",14635,69618,1,"Pressure ulcer of right lower back, stage 2"
-37207963,"Eczematous dermatitis of left upper eyelid",46022,67936,1,"Eczematous dermatitis of left upper eyelid"
-3656982,"Mechanical ectropion of left lower eyelid",33053,67775,1,"Mechanical ectropion of left lower eyelid"
-3656897,"Mechanical ectropion of right lower eyelid",32695,67531,1,"Mechanical ectropion of right lower eyelid"
-37173338,"Pressure injury of right thoracic region of back stage II",13589,66761,1,"Pressure ulcer of right upper back, stage 2"
-764600,"Lump of axillary tail of right breast",40348,66338,1,"Unspecified lump in axillary tail of the right breast"
-4195785,"Right heart failure secondary to left heart failure",22977,65533,1,"Right heart failure due to left heart failure"
-37173349,"Pressure injury of right thoracic region of back stage IV",4847,65302,1,"Pressure ulcer of right upper back, stage 4"
-37173235,"Pressure injury of left lumbar region of back",20138,64478,3,"Pressure ulcer of left lower back, unspecified stage | 
-Pressure ulcer of left lower back, unstageable | 
-Pressure ulcer of left lower back"
-37108749,"Congenital pes cavus of right foot",33111,61981,1,"Congenital pes cavus, right foot"
-45757722,"Blind left eye, low vision right eye",17931,61855,8,"Low vision right eye category 1, blindness left eye category 3 | 
+Blindness right eye category 5, low vision left eye",0.614540466392318,"343031000119102"
+37207961,"Eczematous dermatitis of right upper eyelid",52541,79173,1,"100%~Eczematous dermatitis of right upper eyelid (H01.131)45581528;52541 patients","Eczematous dermatitis of right upper eyelid",0.613168724279835,"342521000119101"
+36717312,"Abscess of left upper eyelid",46736,76543,1,"100%~Abscess of left upper eyelid (H00.034)45595970;46736 patients","Abscess of left upper eyelid",0.606310013717421,"347671000119103"
+37207963,"Eczematous dermatitis of left upper eyelid",46022,67936,1,"100%~Eczematous dermatitis of left upper eyelid (H01.134)45605579;46022 patients","Eczematous dermatitis of left upper eyelid",0.587105624142661,"342551000119109"
+3656982,"Mechanical ectropion of left lower eyelid",33053,67775,1,"100%~Mechanical ectropion of left lower eyelid (H02.125)45562127;33053 patients","Mechanical ectropion of left lower eyelid",0.585733882030178,"339741000119107"
+3656897,"Mechanical ectropion of right lower eyelid",32695,67531,1,"100%~Mechanical ectropion of right lower eyelid (H02.122)45562126;32695 patients","Mechanical ectropion of right lower eyelid",0.584362139917695,"334141000119109"
+45757722,"Blind left eye, low vision right eye",17931,61855,8,"41.4%~Low vision right eye category 1, blindness left eye category 3 (H54.1213)1326558;6777 patients | 
+14.4%~Low vision right eye category 2, blindness left eye category 5 (H54.1225)1326564;2117 patients | 
+14.3%~Low vision right eye category 1, blindness left eye category 5 (H54.1215)1326560;2387 patients | 
+12.3%~Low vision right eye category 1, blindness left eye category 4 (H54.1214)1326559;2926 patients | 
+9.7%~Low vision right eye category 2, blindness left eye category 3 (H54.1223)1326562;2034 patients | 
+7.8%~Low vision right eye category 2, blindness left eye category 4 (H54.1224)1326563;1690 patients | 
+NA | 
+NA","Low vision right eye category 1, blindness left eye category 3 | 
 Low vision right eye category 2, blindness left eye category 5 | 
 Low vision right eye category 1, blindness left eye category 5 | 
 Low vision right eye category 1, blindness left eye category 4 | 
 Low vision right eye category 2, blindness left eye category 3 | 
 Low vision right eye category 2, blindness left eye category 4 | 
 Low vision right eye category 2, blindness left eye | 
-Low vision right eye category 1, blindness left eye"
-37173341,"Pressure injury of left thoracic region of back stage III",7616,58801,1,"Pressure ulcer of left upper back, stage 3"
-37170868,"Pressure injury of right elbow stage III",6612,58269,1,"Pressure ulcer of right elbow, stage 3"
-37170887,"Pressure injury of left elbow stage III",6491,57878,1,"Pressure ulcer of left elbow, stage 3"
-37173334,"Pressure injury of left lumbar region of back stage II",12198,57810,1,"Pressure ulcer of left lower back, stage 2"
-3657020,"Edema of right lower eyelid",40124,57134,1,"Edema of right lower eyelid"
-3662401,"Edema of left lower eyelid",39831,55771,1,"Edema of left lower eyelid"
-37108748,"Congenital pes cavus of left foot",29891,55565,1,"Congenital pes cavus, left foot"
-36685160,"Cholesteatoma of left external ear",17804,53809,1,"Cholesteatoma of left external ear"
-36686919,"Hemifacial spasm of left facial nerve",13228,53732,1,"Clonic hemifacial spasm, left"
-37168360,"Detachment of right retina with retinal break",12377,53485,1,"Retinal detachment with giant retinal tear, right eye"
-37173350,"Pressure injury of right thoracic region of back",17643,52240,3,"Pressure ulcer of right upper back, unstageable | 
-Pressure ulcer of right upper back, unspecified stage | 
-Pressure ulcer of right upper back"
-37168359,"Detachment of left retina with retinal break",11898,52031,1,"Retinal detachment with giant retinal tear, left eye"
-3656971,"Edema of left orbit",36145,51905,1,"Edema of left orbit"
-37173336,"Pressure injury of left thoracic region of back stage II",10764,51301,1,"Pressure ulcer of left upper back, stage 2"
-37310595,"Benign neoplasm of right retina",24385,50794,1,"Benign neoplasm of right retina"
-37173348,"Pressure injury of left thoracic region of back stage IV",4195,50374,1,"Pressure ulcer of left upper back, stage 4"
-37310608,"Benign neoplasm of left retina",23453,49597,1,"Benign neoplasm of left retina"
-36685231,"Cholesteatoma of right external ear",16603,49491,1,"Cholesteatoma of right external ear"
-3656887,"Edema of right orbit",34251,49164,1,"Edema of right orbit"
-4272171,"Cleft hard and soft palate",9970,46542,1,"Cleft hard palate with cleft soft palate"
-36686918,"Hemifacial spasm of right facial nerve",11530,46158,1,"Clonic hemifacial spasm, right"
-37170885,"Pressure injury of left elbow stage II",9258,45826,1,"Pressure ulcer of left elbow, stage 2"
-37170865,"Pressure injury of right elbow stage II",9439,45764,1,"Pressure ulcer of right elbow, stage 2"
-1077052,"Mechanical entropion of right lower eyelid",12143,45423,1,"Mechanical entropion of right lower eyelid"
-759837,"Furuncle of right axilla",27690,45196,1,"Furuncle of right axilla"
-37170870,"Pressure injury of right elbow stage IV",3211,45086,1,"Pressure ulcer of right elbow, stage 4"
-36713155,"Abscess of right lower eyelid",28223,44480,1,"Abscess of right lower eyelid"
-36717200,"Abscess of left lower eyelid",26639,43000,1,"Abscess of left lower eyelid"
-35609010,"Rheumatoid arthritis of right shoulder",10025,42983,2,"Rheumatoid arthritis of right shoulder with involvement of other organs and systems | 
-Rheumatoid lung disease with rheumatoid arthritis of right shoulder"
-37168148,"Multiple lesions of retina of left eye without detachment",17222,42735,1,"Multiple defects of retina without detachment, left eye"
-37168136,"Multiple lesions of retina of right eye without detachment",17329,42637,1,"Multiple defects of retina without detachment, right eye"
-759836,"Furuncle of left axilla",26126,42204,1,"Furuncle of left axilla"
-37208029,"Neoplasm of uncertain behavior of left adrenal gland",14425,42090,1,"Neoplasm of uncertain behavior of left adrenal gland"
-36685924,"Furuncle of left upper limb",26563,39977,1,"Furuncle of left upper limb"
-1077020,"Mechanical entropion of right upper eyelid",8206,39903,1,"Mechanical entropion of right upper eyelid"
-37155728,"Pressure injury of left elbow stage IV",3121,39558,1,"Pressure ulcer of left elbow, stage 4"
-1077095,"Mechanical entropion of left lower eyelid",10704,39249,1,"Mechanical entropion of left lower eyelid"
-36685925,"Furuncle of right upper limb",26028,38946,1,"Furuncle of right upper limb"
-35626043,"Severe nonproliferative retinopathy of right eye due to diabetes mellitus",4181,37728,4,"Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, right eye | 
-Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, right eye"
-36674199,"Proliferative retinopathy of right eye with diabetes mellitus",5806,37673,2,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, right eye"
-1077061,"Mechanical entropion of left upper eyelid",7778,37563,1,"Mechanical entropion of left upper eyelid"
-35626044,"Severe nonproliferative retinopathy of left eye due to diabetes mellitus",3947,37493,4,"Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, left eye | 
-Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, left eye"
-37173240,"Pressure injury of left thoracic region of back",12824,37371,3,"Pressure ulcer of left upper back, unstageable | 
-Pressure ulcer of left upper back, unspecified stage | 
-Pressure ulcer of left upper back"
-3657021,"Eczematous dermatitis of right lower eyelid",24009,37055,1,"Eczematous dermatitis of right lower eyelid"
-40492466,"Cleft of hard palate",6882,36156,1,"Cleft hard palate"
-36674200,"Proliferative retinopathy of left eye due to diabetes mellitus",5448,35545,2,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, bilateral | 
-Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, left eye"
-36684720,"Episcleritis of left eye",18607,35397,1,"Episcleritis periodica fugax, left eye"
-36684727,"Neovascularization of left cornea",12276,35135,1,"Unspecified corneal neovascularization, left eye"
-36686543,"Congenital deformity of right foot",14027,34892,3,"Congenital talipes calcaneovalgus, right foot | 
-Other congenital varus deformities of feet, right foot | 
-Congenital deformity of feet, unspecified, right foot"
-37311833,"Stable treated proliferative retinopathy of right eye due to diabetes mellitus",5308,34541,2,"Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, bilateral | 
-Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, right eye"
-37311832,"Stable treated proliferative retinopathy of left eye due to diabetes mellitus",5219,33865,2,"Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, bilateral | 
-Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, left eye"
-3656899,"Cicatricial entropion of right lower eyelid",13113,33803,1,"Cicatricial entropion of right lower eyelid"
-37161698,"Sprain of ligament of interphalangeal joint of right thumb",21196,33639,3,"Sprain of interphalangeal joint of right thumb, initial encounter | 
-Sprain of interphalangeal joint of right thumb, subsequent encounter | 
-Sprain of interphalangeal joint of right thumb"
-36684661,"Neovascularization of right cornea",12004,33293,1,"Unspecified corneal neovascularization, right eye"
-4301483,"Persistent left superior vena cava",12015,33272,1,"Persistent left superior vena cava"
-36684654,"Episcleritis of right eye",17395,32722,1,"Episcleritis periodica fugax, right eye"
-37207858,"Hemorrhage of right orbit",17633,32697,1,"Hemorrhage of right orbit"
-381036,"Multiple AND bilateral precerebral artery stenosis",13230,32560,1,"Multiple and bilateral precerebral artery syndromes"
-37207918,"Hemorrhage of left orbit",17367,31831,1,"Hemorrhage of left orbit"
-37207755,"Bursitis of right hand",9308,31078,1,"Bursitis, right hand"
-37207865,"Spastic entropion of right lower eyelid",11768,30929,1,"Spastic entropion of right lower eyelid"
-3656984,"Cicatricial entropion of left lower eyelid",11657,30478,1,"Cicatricial entropion of left lower eyelid"
-3657022,"Eczematous dermatitis of left lower eyelid",20468,30195,1,"Eczematous dermatitis of left lower eyelid"
-36686542,"Congenital deformity of left foot",12097,30119,3,"Congenital talipes calcaneovalgus, left foot | 
-Other congenital varus deformities of feet, left foot | 
-Congenital deformity of feet, unspecified, left foot"
-37208035,"Neoplasm of uncertain behavior of right adrenal gland",10025,29580,1,"Neoplasm of uncertain behavior of right adrenal gland"
-441205,"Foreign object left in body during surgical operation",11770,29212,6,"Other complications of foreign body accidentally left in body following surgical operation, initial encounter | 
-Unspecified complication of foreign body accidentally left in body following surgical operation, initial encounter | 
-Other complications of foreign body accidentally left in body following surgical operation, subsequent encounter | 
-Unspecified complication of foreign body accidentally left in body following surgical operation, subsequent encounter | 
-Other complications of foreign body accidentally left in body following surgical operation | 
-Unspecified complication of foreign body accidentally left in body following surgical operation"
-42535175,"Chondromalacia of right hip",17199,28802,1,"Chondromalacia, right hip"
-442018,"Foreign body accidentally left during a procedure",19406,28794,15,"Unspecified complication of foreign body accidentally left in body following unspecified procedure, initial encounter | 
-Other complications of foreign body accidentally left in body following unspecified procedure, initial encounter | 
-Other complications of foreign body accidentally left in body following other procedure, initial encounter | 
-Unspecified complication of foreign body accidentally left in body following other procedure, initial encounter | 
-Unspecified complication of foreign body accidentally left in body following unspecified procedure, subsequent encounter | 
-Other complications of foreign body accidentally left in body following other procedure, subsequent encounter | 
-Other complications of foreign body accidentally left in body following unspecified procedure, subsequent encounter | 
-Unspecified complication of foreign body accidentally left in body following other procedure, subsequent encounter | 
-Unspecified complication of foreign body accidentally left in body following other procedure | 
-Other complications of foreign body accidentally left in body following unspecified procedure | 
-Other complications of foreign body accidentally left in body following procedure | 
-Unspecified complication of foreign body accidentally left in body following unspecified procedure | 
-Other complications of foreign body accidentally left in body following other procedure | 
-Complications of foreign body accidentally left in body following procedure | 
-Unspecified complication of foreign body accidentally left in body following procedure"
-36685061,"Melanoma in situ of left ear",8762,28665,1,"Melanoma in situ of left ear and external auricular canal"
-37207896,"Central pterygium of right eye",13366,28594,1,"Central pterygium of right eye"
-37207956,"Central pterygium of left eye",13410,28170,1,"Central pterygium of left eye"
-761386,"Post-thrombotic syndrome of bilateral lower extremities",4139,27727,1,"Postthrombotic syndrome with other complications of bilateral lower extremity"
-37207754,"Bursitis of left hand",7836,26583,1,"Bursitis, left hand"
-46269853,"Cleft of hard palate and cleft lip",4668,26053,1,"Cleft hard palate with unilateral cleft lip"
-36684811,"Melanoma in situ of right ear",8013,25904,1,"Melanoma in situ of right ear and external auricular canal"
-37207925,"Spastic entropion of left lower eyelid",9573,25701,1,"Spastic entropion of left lower eyelid"
-37207902,"Xanthoma of left upper eyelid",13743,24927,1,"Xanthelasma of left upper eyelid"
-37207842,"Xanthoma of right upper eyelid",13598,24784,1,"Xanthelasma of right upper eyelid"
-1076913,"Enteropathic arthritis of right glenohumeral joint",4205,24525,1,"Enteropathic arthropathies, right shoulder"
-42535174,"Chondromalacia of left hip",14298,23656,1,"Chondromalacia, left hip"
-36712802,"Mechanical failure of left knee prosthetic joint",10478,23533,3,"Broken internal left knee prosthesis, initial encounter | 
-Broken internal left knee prosthesis, subsequent encounter | 
-Broken internal left knee prosthesis"
-36712792,"Rupture of right Achilles tendon",5963,22578,2,"Laceration of right Achilles tendon, subsequent encounter | 
-Laceration of right Achilles tendon, initial encounter"
-37161699,"Sprain of ligament of interphalangeal joint of left thumb",13452,22571,3,"Sprain of interphalangeal joint of left thumb, initial encounter | 
-Sprain of interphalangeal joint of left thumb, subsequent encounter | 
-Sprain of interphalangeal joint of left thumb"
-45772121,"Cortical blindness of right side of brain",8512,22356,1,"Cortical blindness, right side of brain"
-42534836,"Rheumatoid arthritis of right hand",4492,22018,2,"Rheumatoid arthritis of right hand with involvement of other organs and systems | 
-Rheumatoid lung disease with rheumatoid arthritis of right hand"
-3656854,"Cicatricial entropion of right upper eyelid",7612,21865,1,"Cicatricial entropion of right upper eyelid"
-36687157,"Articular disc disorder of right temporomandibular joint",7319,21698,1,"Articular disc disorder of right temporomandibular joint"
-36712793,"Rupture of left Achilles tendon",5722,21436,2,"Laceration of left Achilles tendon, subsequent encounter | 
-Laceration of left Achilles tendon, initial encounter"
-36684693,"Recurrent pterygium of left eye",8251,21283,1,"Recurrent pterygium of left eye"
-36717277,"Ptosis of right eyebrow",12877,21109,1,"Brow ptosis, right"
-36687143,"Articular disc disorder of left temporomandibular joint",7170,21086,1,"Articular disc disorder of left temporomandibular joint"
-45757708,"Low vision right eye, normal vision left eye",9876,21037,3,"Low vision right eye category 1, normal vision left eye | 
+Low vision right eye category 1, blindness left eye",0.573388203017833,"343051000119108"
+3657020,"Edema of right lower eyelid",40124,57134,1,"100%~Edema of right lower eyelid (H02.842)45533195;40124 patients","Edema of right lower eyelid",0.563786008230453,"342471000119104"
+3662401,"Edema of left lower eyelid",39831,55771,1,"100%~Edema of left lower eyelid (H02.845)45586347;39831 patients","Edema of left lower eyelid",0.561042524005487,"342501000119105"
+37168360,"Detachment of right retina with retinal break",12377,53485,1,"100%~Retinal detachment with giant retinal tear, right eye (H33.031)45552661;12377 patients","Retinal detachment with giant retinal tear, right eye",0.559670781893004,"1279847002"
+37168359,"Detachment of left retina with retinal break",11898,52031,1,"100%~Retinal detachment with giant retinal tear, left eye (H33.032)45596065;11898 patients","Retinal detachment with giant retinal tear, left eye",0.558299039780521,"1279846006"
+35626038,"Mild nonproliferative retinopathy of right eye due to diabetes mellitus",9863,46726,2,"53.6%~Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, right eye (E08.3211)37200027;3735 patients | 
+46.4%~Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, right eye (E08.3291)37200031;6128 patients","Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, right eye | 
+Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, right eye",0.539094650205761,"769183005"
+1077052,"Mechanical entropion of right lower eyelid",12143,45423,1,"100%~Mechanical entropion of right lower eyelid (H02.022)45571849;12143 patients","Mechanical entropion of right lower eyelid",0.53360768175583,"334131000119100"
+36713155,"Abscess of right lower eyelid",28223,44480,1,"100%~Abscess of right lower eyelid (H00.032)45552555;28223 patients","Abscess of right lower eyelid",0.526748971193416,"347651000119107"
+36717200,"Abscess of left lower eyelid",26639,43000,1,"100%~Abscess of left lower eyelid (H00.035)45562118;26639 patients","Abscess of left lower eyelid",0.519890260631001,"347681000119100"
+37168148,"Multiple lesions of retina of left eye without detachment",17222,42735,1,"100%~Multiple defects of retina without detachment, left eye (H33.332)45591317;17222 patients","Multiple defects of retina without detachment, left eye",0.517146776406036,"1279496001"
+37168136,"Multiple lesions of retina of right eye without detachment",17329,42637,1,"100%~Multiple defects of retina without detachment, right eye (H33.331)45581648;17329 patients","Multiple defects of retina without detachment, right eye",0.515775034293553,"1275622007"
+1077020,"Mechanical entropion of right upper eyelid",8206,39903,1,"100%~Mechanical entropion of right upper eyelid (H02.021)45533182;8206 patients","Mechanical entropion of right upper eyelid",0.510288065843621,"331561000119103"
+1077095,"Mechanical entropion of left lower eyelid",10704,39249,1,"100%~Mechanical entropion of left lower eyelid (H02.025)45571851;10704 patients","Mechanical entropion of left lower eyelid",0.507544581618656,"339731000119103"
+1077061,"Mechanical entropion of left upper eyelid",7778,37563,1,"100%~Mechanical entropion of left upper eyelid (H02.024)45571850;7778 patients","Mechanical entropion of left upper eyelid",0.49519890260631,"337171000119107"
+3657021,"Eczematous dermatitis of right lower eyelid",24009,37055,1,"100%~Eczematous dermatitis of right lower eyelid (H01.132)45542926;24009 patients","Eczematous dermatitis of right lower eyelid",0.491083676268861,"342531000119103"
+35626039,"Mild nonproliferative retinopathy of left eye due to diabetes mellitus",7809,35889,2,"50.9%~Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, left eye (E08.3212)37200028;2659 patients | 
+49.1%~Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, left eye (E08.3292)37200032;5150 patients","Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, left eye | 
+Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, left eye",0.48559670781893,"769184004"
+36684720,"Episcleritis of left eye",18607,35397,1,"100%~Episcleritis periodica fugax, left eye (H15.112)45533236;18607 patients","Episcleritis periodica fugax, left eye",0.482853223593964,"340861000119109"
+36684727,"Neovascularization of left cornea",12276,35135,1,"100%~Unspecified corneal neovascularization, left eye (H16.402)45542980;12276 patients","Unspecified corneal neovascularization, left eye",0.481481481481481,"341231000119107"
+3656899,"Cicatricial entropion of right lower eyelid",13113,33803,1,"100%~Cicatricial entropion of right lower eyelid (H02.012)45576622;13113 patients","Cicatricial entropion of right lower eyelid",0.471879286694102,"334241000119101"
+36684661,"Neovascularization of right cornea",12004,33293,1,"100%~Unspecified corneal neovascularization, right eye (H16.401)45581599;12004 patients","Unspecified corneal neovascularization, right eye",0.465020576131687,"335621000119105"
+36684654,"Episcleritis of right eye",17395,32722,1,"100%~Episcleritis periodica fugax, right eye (H15.111)45576666;17395 patients","Episcleritis periodica fugax, right eye",0.462277091906722,"335251000119100"
+37207865,"Spastic entropion of right lower eyelid",11768,30929,1,"100%~Spastic entropion of right lower eyelid (H02.042)45557272;11768 patients","Spastic entropion of right lower eyelid",0.454046639231824,"334091000119102"
+3656984,"Cicatricial entropion of left lower eyelid",11657,30478,1,"100%~Cicatricial entropion of left lower eyelid (H02.015)45547780;11657 patients","Cicatricial entropion of left lower eyelid",0.452674897119342,"339841000119101"
+3657022,"Eczematous dermatitis of left lower eyelid",20468,30195,1,"100%~Eczematous dermatitis of left lower eyelid (H01.135)45571847;20468 patients","Eczematous dermatitis of left lower eyelid",0.449931412894376,"342561000119106"
+37207896,"Central pterygium of right eye",13366,28594,1,"100%~Central pterygium of right eye (H11.021)45586368;13366 patients","Central pterygium of right eye",0.441700960219479,"336201000119108"
+37207956,"Central pterygium of left eye",13410,28170,1,"100%~Central pterygium of left eye (H11.022)45533225;13410 patients","Central pterygium of left eye",0.434842249657064,"341811000119103"
+37207925,"Spastic entropion of left lower eyelid",9573,25701,1,"100%~Spastic entropion of left lower eyelid (H02.045)45557273;9573 patients","Spastic entropion of left lower eyelid",0.415637860082305,"339691000119105"
+37207902,"Xanthoma of left upper eyelid",13743,24927,1,"100%~Xanthelasma of left upper eyelid (H02.64)45576633;13743 patients","Xanthelasma of left upper eyelid",0.406035665294925,"337091000119107"
+37207842,"Xanthoma of right upper eyelid",13598,24784,1,"100%~Xanthelasma of right upper eyelid (H02.61)45538168;13598 patients","Xanthelasma of right upper eyelid",0.403292181069959,"331481000119108"
+3656854,"Cicatricial entropion of right upper eyelid",7612,21865,1,"100%~Cicatricial entropion of right upper eyelid (H02.011)45571848;7612 patients","Cicatricial entropion of right upper eyelid",0.392318244170096,"331671000119108"
+36684693,"Recurrent pterygium of left eye",8251,21283,1,"100%~Recurrent pterygium of left eye (H11.062)45591258;8251 patients","Recurrent pterygium of left eye",0.385459533607682,"338321000119109"
+45757708,"Low vision right eye, normal vision left eye",9876,21037,3,"65.7%~Low vision right eye category 1, normal vision left eye (H54.511A)1326583;7271 patients | 
+34.3%~Low vision right eye category 2, normal vision left eye (H54.512A)1326584;2605 patients | 
+NA","Low vision right eye category 1, normal vision left eye | 
 Low vision right eye category 2, normal vision left eye | 
-Low vision, right eye, normal vision left eye"
-761385,"Post-thrombotic syndrome of left lower extremity",4394,21006,1,"Postthrombotic syndrome with other complications of left lower extremity"
-36712948,"Ptosis of left eyebrow",12807,20961,1,"Brow ptosis, left"
-4005755,"Cleft hard palate with cleft lip, bilateral",2811,20642,1,"Cleft hard palate with bilateral cleft lip"
-36684630,"Recurrent pterygium of right eye",7784,20170,1,"Recurrent pterygium of right eye"
-1077019,"Mechanical lagophthalmos of right upper eyelid",9736,20053,1,"Mechanical lagophthalmos right upper eyelid"
-45757699,"Low vision left eye, normal vision right eye",10814,19991,3,"Low vision left eye category 1, normal vision right eye | 
+Low vision, right eye, normal vision left eye",0.384087791495199,"339911000119106"
+36684630,"Recurrent pterygium of right eye",7784,20170,1,"100%~Recurrent pterygium of right eye (H11.061)45542961;7784 patients","Recurrent pterygium of right eye",0.377229080932785,"332711000119103"
+1077019,"Mechanical lagophthalmos of right upper eyelid",9736,20053,1,"100%~Mechanical lagophthalmos right upper eyelid (H02.221)45605581;9736 patients","Mechanical lagophthalmos right upper eyelid",0.375857338820302,"331551000119100"
+45757699,"Low vision left eye, normal vision right eye",10814,19991,3,"72%~Low vision left eye category 1, normal vision right eye (H54.52A1)1326586;7865 patients | 
+28%~Low vision left eye category 2, normal vision right eye (H54.52A2)1326587;2949 patients | 
+NA","Low vision left eye category 1, normal vision right eye | 
 Low vision left eye category 2, normal vision right eye | 
-Low vision, left eye, normal vision right eye"
-36713101,"Osteoarthritis of joint of right ankle and/or foot",6946,19607,1,"Chondromalacia, right ankle and joints of right foot"
-4127128,"Bilateral cleft lip",4204,19470,1,"Cleft lip, bilateral"
-37173239,"Pressure injury of right thoracic region of back stage I",5357,19445,1,"Pressure ulcer of right upper back, stage 1"
-3656938,"Cicatricial entropion of left upper eyelid",6524,19392,1,"Cicatricial entropion of left upper eyelid"
-37173234,"Pressure injury of right lumbar region of back stage I",4976,19093,1,"Pressure ulcer of right lower back, stage 1"
-36686113,"Open wound of left chest wall",7900,18955,6,"Puncture wound without foreign body of left front wall of thorax with penetration into thoracic cavity, initial encounter | 
-Puncture wound without foreign body of left back wall of thorax with penetration into thoracic cavity, initial encounter | 
-Puncture wound without foreign body of left front wall of thorax with penetration into thoracic cavity, subsequent encounter | 
-Puncture wound without foreign body of left back wall of thorax with penetration into thoracic cavity, subsequent encounter | 
-Puncture wound without foreign body of left front wall of thorax with penetration into thoracic cavity | 
-Puncture wound without foreign body of left back wall of thorax with penetration into thoracic cavity"
-762387,"Cellulitis of bilateral orbits",9244,18913,1,"Cellulitis of bilateral orbits"
-1076088,"Juvenile idiopathic arthritis of right knee",6189,18902,3,"Unspecified juvenile rheumatoid arthritis, right knee | 
-Other juvenile arthritis, right knee | 
-Juvenile arthritis, unspecified, right knee"
-760157,"Polyp of left middle ear",8060,18706,1,"Polyp of left middle ear"
-760199,"Polyp of right middle ear",8343,18659,1,"Polyp of right middle ear"
-42537576,"Osteoarthritis of joint of left ankle and/or foot",6539,18510,1,"Chondromalacia, left ankle and joints of left foot"
-37170882,"Pressure injury of left elbow stage I",5198,18341,1,"Pressure ulcer of left elbow, stage 1"
-602647,"Carbuncle of left lower limb",9721,18251,1,"Carbuncle of left lower limb"
-36686289,"Laceration of left elbow",7058,18085,3,"Laceration with foreign body of left elbow, initial encounter | 
-Laceration with foreign body of left elbow, subsequent encounter | 
-Laceration with foreign body of left elbow"
-1077060,"Mechanical lagophthalmos of left upper eyelid",8853,18080,1,"Mechanical lagophthalmos left upper eyelid"
-42534961,"Injury of right hand",9048,17986,9,"Strain of extensor muscle, fascia and tendon of right thumb at wrist and hand level, initial encounter | 
-Strain of long flexor muscle, fascia and tendon of right thumb at wrist and hand level, initial encounter | 
-Strain of extensor muscle, fascia and tendon of right thumb at wrist and hand level, subsequent encounter | 
-Strain of long flexor muscle, fascia and tendon of right thumb at wrist and hand level, subsequent encounter | 
-Corrosion of second degree of multiple right fingers (nail), including thumb, initial encounter | 
-Corrosion of second degree of multiple right fingers (nail), including thumb, subsequent encounter | 
-Corrosion of second degree of multiple right fingers (nail), including thumb | 
-Strain of extensor muscle, fascia and tendon of right thumb at wrist and hand level | 
-Strain of long flexor muscle, fascia and tendon of right thumb at wrist and hand level"
-42534962,"Injury of left hand",8695,17955,9,"Strain of extensor muscle, fascia and tendon of left thumb at wrist and hand level, initial encounter | 
-Strain of extensor muscle, fascia and tendon of left thumb at wrist and hand level, subsequent encounter | 
-Strain of long flexor muscle, fascia and tendon of left thumb at wrist and hand level, initial encounter | 
-Strain of long flexor muscle, fascia and tendon of left thumb at wrist and hand level, subsequent encounter | 
-Corrosion of second degree of multiple left fingers (nail), including thumb, initial encounter | 
-Corrosion of second degree of multiple left fingers (nail), including thumb, subsequent encounter | 
-Corrosion of second degree of multiple left fingers (nail), including thumb | 
-Strain of long flexor muscle, fascia and tendon of left thumb at wrist and hand level | 
-Strain of extensor muscle, fascia and tendon of left thumb at wrist and hand level"
-4077901,"Cleft uvula",8057,17548,1,"Cleft uvula"
-765222,"Post-thrombotic syndrome of right lower extremity",3197,17435,1,"Postthrombotic syndrome with other complications of right lower extremity"
-42538748,"Retained nonmagnetic foreign body in right eye",5782,17188,5,"Retained (nonmagnetic) (old) foreign body in vitreous body, right eye | 
+Low vision, left eye, normal vision right eye",0.374485596707819,"334311000119108"
+3656938,"Cicatricial entropion of left upper eyelid",6524,19392,1,"100%~Cicatricial entropion of left upper eyelid (H02.014)45586335;6524 patients","Cicatricial entropion of left upper eyelid",0.373113854595336,"337281000119103"
+35626041,"Moderate nonproliferative diabetic retinopathy of right eye",3350,18162,2,"70.6%~Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, right eye (E08.3311)37200035;1859 patients | 
+29.4%~Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, right eye (E08.3391)37200039;1491 patients","Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, right eye | 
+Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, right eye",0.363511659807956,"769185003"
+1077060,"Mechanical lagophthalmos of left upper eyelid",8853,18080,1,"100%~Mechanical lagophthalmos left upper eyelid (H02.224)45595981;8853 patients","Mechanical lagophthalmos left upper eyelid",0.362139917695473,"337161000119101"
+42538748,"Retained nonmagnetic foreign body in right eye",5782,17188,5,"66.4%~Retained (nonmagnetic) (old) foreign body in vitreous body, right eye (H44.751)45586479;2370 patients | 
+23%~Unspecified retained (old) intraocular foreign body, nonmagnetic, right eye (H44.701)45605701;2420 patients | 
+5.3%~Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, right eye (H44.791)45543061;636 patients | 
+3%~Retained (nonmagnetic) (old) foreign body in posterior wall of globe, right eye (H44.741)45605702;185 patients | 
+2.4%~Retained (nonmagnetic) (old) foreign body in iris or ciliary body, right eye (H44.721)45591369;171 patients","Retained (nonmagnetic) (old) foreign body in vitreous body, right eye | 
 Unspecified retained (old) intraocular foreign body, nonmagnetic, right eye | 
 Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, right eye | 
 Retained (nonmagnetic) (old) foreign body in posterior wall of globe, right eye | 
-Retained (nonmagnetic) (old) foreign body in iris or ciliary body, right eye"
-74150,"Congenital subluxation of hip, bilateral",4742,17125,1,"Congenital partial dislocation of hip, bilateral"
-36686288,"Laceration of right elbow",6809,17038,3,"Laceration with foreign body of right elbow, initial encounter | 
-Laceration with foreign body of right elbow, subsequent encounter | 
-Laceration with foreign body of right elbow"
-37208010,"Pigment dispersion syndrome of right eye",7113,16982,1,"Degeneration of iris (pigmentary), right eye"
-37170860,"Pressure injury of right elbow stage I",4812,16718,1,"Pressure ulcer of right elbow, stage 1"
-42534834,"Rheumatoid arthritis of left hand",3501,16410,2,"Rheumatoid arthritis of left hand with involvement of other organs and systems | 
-Rheumatoid lung disease with rheumatoid arthritis of left hand"
-602648,"Carbuncle of right lower limb",9255,16384,1,"Carbuncle of right lower limb"
-1076087,"Juvenile idiopathic arthritis of left knee",5449,16376,3,"Unspecified juvenile rheumatoid arthritis, left knee | 
-Other juvenile arthritis, left knee | 
-Juvenile arthritis, unspecified, left knee"
-45757715,"Cortical blindness of left side of brain",6900,16252,1,"Cortical blindness, left side of brain"
-1076892,"Calcific tendinitis of right lower leg",7747,15920,1,"Calcific tendinitis, right lower leg"
-37208015,"Pigment dispersion syndrome of left eye",6724,15863,1,"Degeneration of iris (pigmentary), left eye"
-42538747,"Retained nonmagnetic foreign body in left eye",5488,15600,5,"Retained (nonmagnetic) (old) foreign body in vitreous body, left eye | 
+Retained (nonmagnetic) (old) foreign body in iris or ciliary body, right eye",0.352537722908093,"762526006"
+37208010,"Pigment dispersion syndrome of right eye",7113,16982,1,"100%~Degeneration of iris (pigmentary), right eye (H21.231)45538234;7113 patients","Degeneration of iris (pigmentary), right eye",0.35116598079561,"348081000119109"
+37208015,"Pigment dispersion syndrome of left eye",6724,15863,1,"100%~Degeneration of iris (pigmentary), left eye (H21.232)45586412;6724 patients","Degeneration of iris (pigmentary), left eye",0.34156378600823,"348531000119101"
+42538747,"Retained nonmagnetic foreign body in left eye",5488,15600,5,"65.1%~Retained (nonmagnetic) (old) foreign body in vitreous body, left eye (H44.752)45552709;2294 patients | 
+23.9%~Unspecified retained (old) intraocular foreign body, nonmagnetic, left eye (H44.702)45543060;2245 patients | 
+5.5%~Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, left eye (H44.792)45586480;603 patients | 
+3.3%~Retained (nonmagnetic) (old) foreign body in posterior wall of globe, left eye (H44.742)45600939;187 patients | 
+2.3%~Retained (nonmagnetic) (old) foreign body in iris or ciliary body, left eye (H44.722)45596112;159 patients","Retained (nonmagnetic) (old) foreign body in vitreous body, left eye | 
 Unspecified retained (old) intraocular foreign body, nonmagnetic, left eye | 
 Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, left eye | 
 Retained (nonmagnetic) (old) foreign body in posterior wall of globe, left eye | 
-Retained (nonmagnetic) (old) foreign body in iris or ciliary body, left eye"
-1076890,"Calcific tendinitis of left lower leg",7278,15389,1,"Calcific tendinitis, left lower leg"
-1076893,"Calcific tendinitis of right thigh",7519,15197,1,"Calcific tendinitis, right thigh"
-37173236,"Pressure injury of left lumbar region of back stage I",3995,15191,1,"Pressure ulcer of left lower back, stage 1"
-37173332,"Pressure injury of left thoracic region of back stage I",4165,14890,1,"Pressure ulcer of left upper back, stage 1"
-37171185,"Inflammation of semimembranosus muscle bursa of right knee",7684,14752,1,"Tibial collateral bursitis [Pellegrini-Stieda], right leg"
-36685933,"Acute lymphangitis of right upper limb",8621,14432,1,"Acute lymphangitis of right upper limb"
-42534969,"Injury of right ankle",3143,14370,1,"Pressure-induced deep tissue damage of right ankle"
-37171184,"Inflammation of semimembranosus muscle bursa of left knee",7270,14195,1,"Tibial collateral bursitis [Pellegrini-Stieda], left leg"
-37310483,"Infective arthritis of right hand",2793,14178,1,"Staphylococcal arthritis, right hand"
-37208034,"Neoplasm of uncertain behavior of left ureter",5604,14004,1,"Neoplasm of uncertain behavior of left ureter"
-602289,"Carbuncle of right axilla",7856,13682,1,"Carbuncle of right axilla"
-37208037,"Neoplasm of uncertain behavior of right ureter",5481,13576,1,"Neoplasm of uncertain behavior of right ureter"
-36685932,"Acute lymphangitis of left upper limb",7807,13520,1,"Acute lymphangitis of left upper limb"
-37117476,"Injury of left ankle",2968,13356,1,"Pressure-induced deep tissue damage of left ankle"
-760772,"Injury of right hip region",3233,12988,1,"Pressure-induced deep tissue damage of right hip"
-605396,"Carbuncle of left axilla",7445,12819,1,"Carbuncle of left axilla"
-37108591,"Rheumatoid arthritis of right knee",2197,12669,2,"Rheumatoid arthritis of right knee with involvement of other organs and systems | 
-Rheumatoid lung disease with rheumatoid arthritis of right knee"
-760773,"Injury of left hip region",3059,12534,1,"Pressure-induced deep tissue damage of left hip"
-1076891,"Calcific tendinitis of left thigh",6321,12023,1,"Calcific tendinitis, left thigh"
-1077051,"Mechanical lagophthalmos of right lower eyelid",6088,12012,1,"Mechanical lagophthalmos right lower eyelid"
-1077021,"Mechanical ectropion of right upper eyelid",3622,11334,1,"Mechanical ectropion of right upper eyelid"
-1077094,"Mechanical lagophthalmos of left lower eyelid",5464,10803,1,"Mechanical lagophthalmos left lower eyelid"
-37109495,"Macular hole of right eye",1790,10488,1,"Degenerative myopia with macular hole, right eye"
-37310484,"Infective arthritis of left hand",2096,10456,1,"Staphylococcal arthritis, left hand"
-37116542,"Traumatic amputation at right hip joint",1337,10327,6,"Complete traumatic amputation at right hip joint, initial encounter | 
-Complete traumatic amputation at right hip joint, subsequent encounter | 
-Partial traumatic amputation at right hip joint, subsequent encounter | 
-Partial traumatic amputation at right hip joint, initial encounter | 
-Complete traumatic amputation at right hip joint | 
-Partial traumatic amputation at right hip joint"
-37109493,"Macular hole of left eye",1806,10044,1,"Degenerative myopia with macular hole, left eye"
-1076907,"Enteropathic arthritis of left glenohumeral joint",1676,9891,1,"Enteropathic arthropathies, left shoulder"
-36686112,"Open wound of right chest wall",4689,9816,6,"Puncture wound without foreign body of right front wall of thorax with penetration into thoracic cavity, initial encounter | 
-Puncture wound without foreign body of right back wall of thorax with penetration into thoracic cavity, initial encounter | 
-Puncture wound without foreign body of right front wall of thorax with penetration into thoracic cavity, subsequent encounter | 
-Puncture wound without foreign body of right back wall of thorax with penetration into thoracic cavity, subsequent encounter | 
-Puncture wound without foreign body of right back wall of thorax with penetration into thoracic cavity | 
-Puncture wound without foreign body of right front wall of thorax with penetration into thoracic cavity"
-37207919,"Cyst of left orbit",4722,9793,1,"Cyst of left orbit"
-760176,"Acute perichondritis of right external ear",5934,9757,1,"Acute perichondritis of right external ear"
-1077062,"Mechanical ectropion of left upper eyelid",2997,9757,1,"Mechanical ectropion of left upper eyelid"
-37207864,"Xanthoma of right lower eyelid",5537,9627,1,"Xanthelasma of right lower eyelid"
-37207924,"Xanthoma of left lower eyelid",5442,9386,1,"Xanthelasma of left lower eyelid"
-37207859,"Cyst of right orbit",4433,9237,1,"Cyst of right orbit"
-37207879,"Double pterygium of right eye",3704,8978,1,"Double pterygium of right eye"
-435137,"Foreign object left in body during aspiration of fluid or tissue, puncture and catheterization",3261,8802,12,"Unspecified complication of foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter | 
-Other complications of foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter | 
-Unspecified complication of foreign body accidentally left in body following heart catheterization, initial encounter | 
-Other complications of foreign body accidentally left in body following heart catheterization, initial encounter | 
-Unspecified complication of foreign body accidentally left in body following aspiration, puncture or other catheterization, subsequent encounter | 
-Unspecified complication of foreign body accidentally left in body following heart catheterization, subsequent encounter | 
-Other complications of foreign body accidentally left in body following aspiration, puncture or other catheterization, subsequent encounter | 
-Other complications of foreign body accidentally left in body following heart catheterization, subsequent encounter | 
-Other complications of foreign body accidentally left in body following heart catheterization | 
-Unspecified complication of foreign body accidentally left in body following heart catheterization | 
-Other complications of foreign body accidentally left in body following aspiration, puncture or other catheterization | 
-Unspecified complication of foreign body accidentally left in body following aspiration, puncture or other catheterization"
-765310,"Acute perichondritis of left external ear",5430,8697,1,"Acute perichondritis of left external ear"
-35626068,"Macular edema of left eye due to diabetes mellitus",744,8692,2,"Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, bilateral | 
-Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, left eye"
-46269856,"Cleft of soft palate and cleft lip",2540,8277,1,"Cleft soft palate with unilateral cleft lip"
-37309840,"Burn of right hand",3706,8195,6,"Burn of unspecified degree of multiple right fingers (nail), including thumb, initial encounter | 
-Burn of unspecified degree of multiple right fingers (nail), including thumb, subsequent encounter | 
-Corrosion of unspecified degree of multiple right fingers (nail), including thumb, initial encounter | 
-Corrosion of unspecified degree of multiple right fingers (nail), including thumb, subsequent encounter | 
-Burn of unspecified degree of multiple right fingers (nail), including thumb | 
-Corrosion of unspecified degree of multiple right fingers (nail), including thumb"
-1076912,"Enteropathic arthritis of right knee joint",1718,8091,1,"Enteropathic arthropathies, right knee"
-37207939,"Double pterygium of left eye",3288,8051,1,"Double pterygium of left eye"
-1076906,"Enteropathic arthritis of left knee joint",1506,8002,1,"Enteropathic arthropathies, left knee"
-37108590,"Rheumatoid arthritis of left knee",2017,7862,2,"Rheumatoid arthritis of left knee with involvement of other organs and systems | 
-Rheumatoid lung disease with rheumatoid arthritis of left knee"
-37108607,"Arthritis of right wrist",1116,7602,1,"Rheumatoid arthritis of right wrist with involvement of other organs and systems"
-35626067,"Macular edema of right eye due to diabetes mellitus",816,7471,2,"Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, bilateral | 
-Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, right eye"
-77984,"Congenital cleft hand",1511,7211,3,"Lobster-claw hand, bilateral | 
-Lobster-claw right hand | 
-Lobster-claw left hand"
-762180,"Juvenile idiopathic arthritis of right hand",2408,6903,3,"Unspecified juvenile rheumatoid arthritis, right hand | 
-Juvenile arthritis, unspecified, right hand | 
-Other juvenile arthritis, right hand"
-37108606,"Arthritis of left wrist",974,6640,1,"Rheumatoid arthritis of left wrist with involvement of other organs and systems"
-36717300,"Lagophthalmos of bilateral eyelids",3146,6322,2,"Unspecified lagophthalmos, bilateral, upper and lower eyelids | 
-Paralytic lagophthalmos, bilateral, upper and lower eyelids"
-4251327,"Double outlet left ventricle",1646,5995,1,"Double outlet left ventricle"
-36684810,"Benign neoplasm of right testis",2976,5936,1,"Benign neoplasm of right testis"
-36684824,"Benign neoplasm of left testis",2908,5882,1,"Benign neoplasm of left testis"
-37116543,"Traumatic amputation at left hip joint",919,5793,6,"Complete traumatic amputation at left hip joint, initial encounter | 
-Complete traumatic amputation at left hip joint, subsequent encounter | 
-Partial traumatic amputation at left hip joint, initial encounter | 
-Partial traumatic amputation at left hip joint, subsequent encounter | 
-Partial traumatic amputation at left hip joint | 
-Complete traumatic amputation at left hip joint"
-4003674,"Primary malignant neoplasm of branchial cleft",1785,5791,1,"Malignant neoplasm of branchial cleft"
-1076091,"Juvenile idiopathic arthritis of joint of right wrist region",1769,5741,4,"Unspecified juvenile rheumatoid arthritis, right wrist | 
-Juvenile arthritis, unspecified, right wrist | 
-Other juvenile arthritis, right wrist | 
-Juvenile rheumatoid arthritis with systemic onset, right wrist"
-37309841,"Burn of left hand",2690,5740,6,"Burn of unspecified degree of multiple left fingers (nail), including thumb, initial encounter | 
-Burn of unspecified degree of multiple left fingers (nail), including thumb, subsequent encounter | 
-Corrosion of unspecified degree of multiple left fingers (nail), including thumb, initial encounter | 
-Corrosion of unspecified degree of multiple left fingers (nail), including thumb | 
-Burn of unspecified degree of multiple left fingers (nail), including thumb | 
-Corrosion of unspecified degree of multiple left fingers (nail), including thumb, subsequent encounter"
-3662369,"Paralytic ectropion of right lower eyelid",2062,5586,1,"Paralytic ectropion of right lower eyelid"
-3657889,"Paralytic ectropion of left lower eyelid",2106,5402,1,"Paralytic ectropion of left lower eyelid"
-37310611,"Benign neoplasm of left renal pelvis",2705,5388,1,"Benign neoplasm of left renal pelvis"
-762178,"Juvenile idiopathic arthritis of left hand",1949,5339,3,"Unspecified juvenile rheumatoid arthritis, left hand | 
-Other juvenile arthritis, left hand | 
-Juvenile arthritis, unspecified, left hand"
-37311300,"Cataract of right eye",2820,5325,1,"Cataract with neovascularization, right eye"
-1076085,"Juvenile idiopathic arthritis of right hip",1648,5227,3,"Unspecified juvenile rheumatoid arthritis, right hip | 
-Juvenile arthritis, unspecified, right hip | 
-Other juvenile arthritis, right hip"
-37310612,"Benign neoplasm of right renal pelvis",2592,5011,1,"Benign neoplasm of right renal pelvis"
-1076911,"Enteropathic arthritis of right hip",868,4951,1,"Enteropathic arthropathies, right hip"
-602297,"Acute lymphangitis of right axilla",3007,4932,1,"Acute lymphangitis of right axilla"
-1076084,"Juvenile idiopathic arthritis of left hip",1441,4869,3,"Unspecified juvenile rheumatoid arthritis, left hip | 
-Juvenile arthritis, unspecified, left hip | 
-Other juvenile arthritis, left hip"
-35609009,"Rheumatoid arthritis of left shoulder",1163,4826,2,"Rheumatoid arthritis of left shoulder with involvement of other organs and systems | 
-Rheumatoid lung disease with rheumatoid arthritis of left shoulder"
-602296,"Acute lymphangitis of left axilla",2601,4633,1,"Acute lymphangitis of left axilla"
-761246,"Talipes calcaneovarus of right foot",2429,4617,1,"Congenital talipes calcaneovarus, right foot"
-3656988,"Interstitial keratitis of left eye",1378,4552,1,"Other interstitial and deep keratitis, left eye"
-761247,"Talipes calcaneovarus of left foot",2200,4550,1,"Congenital talipes calcaneovarus, left foot"
-1076905,"Enteropathic arthritis of left hip",758,4504,1,"Enteropathic arthropathies, left hip"
-3656903,"Interstitial keratitis of right eye",1355,4475,1,"Other interstitial and deep keratitis, right eye"
-37209290,"Torsion of right fallopian tube",1974,4464,1,"Torsion of right fallopian tube"
-434548,"Foreign object left in body during removal of catheter or packing",1678,4324,6,"Unspecified complication of foreign body accidentally left in body following removal of catheter or packing, initial encounter | 
-Other complications of foreign body accidentally left in body following removal of catheter or packing, initial encounter | 
-Unspecified complication of foreign body accidentally left in body following removal of catheter or packing, subsequent encounter | 
-Other complications of foreign body accidentally left in body following removal of catheter or packing, subsequent encounter | 
-Other complications of foreign body accidentally left in body following removal of catheter or packing | 
-Unspecified complication of foreign body accidentally left in body following removal of catheter or packing"
-37311301,"Cataract of left eye",2564,4209,1,"Cataract with neovascularization, left eye"
-37310596,"Benign neoplasm of right ureter",2383,4059,1,"Benign neoplasm of right ureter"
-37310609,"Benign neoplasm of left ureter",2403,4002,1,"Benign neoplasm of left ureter"
-42534837,"Rheumatoid arthritis of right hip",850,3862,2,"Rheumatoid arthritis of right hip with involvement of other organs and systems | 
-Rheumatoid lung disease with rheumatoid arthritis of right hip"
-601105,"Primary malignant neoplasm of left acoustic nerve",642,3648,1,"Malignant neoplasm of left acoustic nerve"
-36686263,"Open wound of left forearm",678,3641,6,"Complete traumatic amputation of left forearm, level unspecified, initial encounter | 
-Complete traumatic amputation of left forearm, level unspecified, subsequent encounter | 
-Partial traumatic amputation of left forearm, level unspecified, initial encounter | 
-Partial traumatic amputation of left forearm, level unspecified, subsequent encounter | 
-Partial traumatic amputation of left forearm, level unspecified | 
-Complete traumatic amputation of left forearm, level unspecified"
-42534835,"Rheumatoid arthritis of left hip",797,3590,2,"Rheumatoid arthritis of left hip with involvement of other organs and systems | 
-Rheumatoid lung disease with rheumatoid arthritis of left hip"
-759916,"Juvenile osteochondrosis of tibial tubercle of left knee",2075,3572,1,"Juvenile osteochondrosis of tibia tubercle, left leg"
-4004138,"Central cleft lip",923,3562,1,"Cleft lip, median"
-37108605,"Arthritis of left elbow",569,3518,2,"Rheumatoid arthritis of left elbow with involvement of other organs and systems | 
-Enteropathic arthropathies, left elbow"
-37209482,"Transplant failure of cornea of right eye",1480,3507,1,"Corneal transplant failure, right eye"
-1076090,"Juvenile idiopathic arthritis of joint of left wrist region",1089,3504,3,"Unspecified juvenile rheumatoid arthritis, left wrist | 
-Juvenile arthritis, unspecified, left wrist | 
-Juvenile rheumatoid arthritis with systemic onset, left wrist"
-46269855,"Cleft of soft palate and bilateral cleft lip",877,3479,1,"Cleft soft palate with bilateral cleft lip"
-37209484,"Transplant failure of cornea of left eye",1418,3417,1,"Corneal transplant failure, left eye"
-1076950,"Infective myositis of right forearm",1443,3345,1,"Infective myositis, right forearm"
-37119224,"Arthritis of right elbow",581,3270,2,"Rheumatoid arthritis of right elbow with involvement of other organs and systems | 
-Enteropathic arthropathies, right elbow"
-1076949,"Infective myositis of left forearm",1342,3168,1,"Infective myositis, left forearm"
-601104,"Primary malignant neoplasm of right acoustic nerve",1193,3144,1,"Malignant neoplasm of right acoustic nerve"
-438929,"Acute reaction to foreign substance accidentally left during a procedure",1597,3136,10,"Aseptic peritonitis due to foreign substance accidentally left during a procedure, initial encounter | 
-Other acute reaction to foreign substance accidentally left during a procedure, initial encounter | 
-Unspecified acute reaction to foreign substance accidentally left during a procedure, initial encounter | 
-Aseptic peritonitis due to foreign substance accidentally left during a procedure, subsequent encounter | 
-Other acute reaction to foreign substance accidentally left during a procedure, subsequent encounter | 
-Unspecified acute reaction to foreign substance accidentally left during a procedure, subsequent encounter | 
-Aseptic peritonitis due to foreign substance accidentally left during a procedure | 
-Other acute reaction to foreign substance accidentally left during a procedure | 
-Acute reaction to foreign substance accidentally left during a procedure | 
-Unspecified acute reaction to foreign substance accidentally left during a procedure"
-37162935,"Congenital complete absence of right lower limb",623,3097,1,"Congenital complete absence of right lower limb"
-1076924,"Flail joint of right elbow",1567,3024,1,"Flail joint, right elbow"
-1076923,"Flail joint of left elbow",1540,2981,1,"Flail joint, left elbow"
-37209289,"Torsion of left fallopian tube",1433,2936,1,"Torsion of left fallopian tube"
-759915,"Juvenile osteochondrosis of tibial tubercle of right knee",1830,2909,1,"Juvenile osteochondrosis of tibia tubercle, right leg"
-1076910,"Enteropathic arthritis of right hand",808,2846,1,"Enteropathic arthropathies, right hand"
-36686264,"Open wound of right forearm",588,2774,6,"Complete traumatic amputation of right forearm, level unspecified, initial encounter | 
-Complete traumatic amputation of right forearm, level unspecified, subsequent encounter | 
-Partial traumatic amputation of right forearm, level unspecified, initial encounter | 
-Partial traumatic amputation of right forearm, level unspecified, subsequent encounter | 
-Complete traumatic amputation of right forearm, level unspecified | 
-Partial traumatic amputation of right forearm, level unspecified"
-37310605,"Benign neoplasm of left epididymis",1417,2765,1,"Benign neoplasm of left epididymis"
-601153,"Kaposi sarcoma of right lung",697,2569,1,"Kaposi's sarcoma of right lung"
-37310603,"Benign neoplasm of right epididymis",1306,2552,1,"Benign neoplasm of right epididymis"
-36685024,"Rheumatoid arthritis of right wrist",406,2491,1,"Rheumatoid lung disease with rheumatoid arthritis of right wrist"
-1076904,"Enteropathic arthritis of left hand",668,2433,1,"Enteropathic arthropathies, left hand"
-37209483,"Transplant rejection of cornea of right eye",975,2255,3,"Corneal transplant rejection, right eye | 
-Corneal transplant failure, bilateral | 
-Corneal transplant rejection, bilateral"
-37209481,"Transplant rejection of cornea of left eye",964,2219,3,"Corneal transplant rejection, left eye | 
-Corneal transplant failure, bilateral | 
-Corneal transplant rejection, bilateral"
-45757200,"Open bilateral fracture of multiple ribs",1049,2195,1,"Multiple fractures of ribs, bilateral, initial encounter for open fracture"
-601151,"Kaposi sarcoma of left lung",564,2176,1,"Kaposi's sarcoma of left lung"
-1076082,"Juvenile idiopathic arthritis of right elbow",739,2167,4,"Unspecified juvenile rheumatoid arthritis, right elbow | 
-Juvenile arthritis, unspecified, right elbow | 
-Other juvenile arthritis, right elbow | 
-Juvenile rheumatoid arthritis with systemic onset, right elbow"
-1244218,"Tissue necrosis of left foot due to and following frostbite",336,2137,1,"Frostbite with tissue necrosis of left foot, sequela"
-1076081,"Juvenile idiopathic arthritis of left elbow",644,2132,4,"Unspecified juvenile rheumatoid arthritis, left elbow | 
-Juvenile arthritis, unspecified, left elbow | 
-Other juvenile arthritis, left elbow | 
-Juvenile rheumatoid arthritis with systemic onset, left elbow"
-1244220,"Tissue necrosis of right foot due to and following frostbite",314,1838,1,"Frostbite with tissue necrosis of right foot, sequela"
-36685020,"Rheumatoid arthritis of left wrist",287,1835,1,"Rheumatoid lung disease with rheumatoid arthritis of left wrist"
-36685206,"Ankylosis of ossicles of right ear",874,1809,1,"Ankylosis of ear ossicles, right ear"
-760750,"Injury of left elbow region",497,1753,1,"Pressure-induced deep tissue damage of left elbow"
-36685135,"Ankylosis of ossicles of left ear",812,1714,1,"Ankylosis of ear ossicles, left ear"
-760749,"Injury of right elbow region",477,1588,1,"Pressure-induced deep tissue damage of right elbow"
-4266499,"Adhesions due to foreign body accidentally left in operative wound AND/OR body cavity during a procedure",809,1536,32,"Adhesions due to foreign body accidentally left in body following surgical operation, initial encounter | 
-Adhesions due to foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter | 
-Adhesions due to foreign body accidentally left in body following unspecified procedure, initial encounter | 
-Adhesions due to foreign body accidentally left in body following other procedure, initial encounter | 
-Adhesions due to foreign body accidentally left in body following heart catheterization, initial encounter | 
-Adhesions due to foreign body accidentally left in body following infusion or transfusion, initial encounter | 
-Adhesions due to foreign body accidentally left in body following endoscopic examination, initial encounter | 
-Adhesions due to foreign body accidentally left in body following removal of catheter or packing, initial encounter | 
-Adhesions due to foreign body accidentally left in body following injection or immunization, initial encounter | 
-Adhesions due to foreign body accidentally left in body following surgical operation, subsequent encounter | 
-Adhesions due to foreign body accidentally left in body following kidney dialysis, initial encounter | 
-Adhesions due to foreign body accidentally left in body following infusion or transfusion, subsequent encounter | 
-Adhesions due to foreign body accidentally left in body following unspecified procedure, subsequent encounter | 
-Adhesions due to foreign body accidentally left in body following infusion or transfusion | 
-Adhesions due to foreign body accidentally left in body following kidney dialysis | 
-Adhesions due to foreign body accidentally left in body following heart catheterization | 
-Adhesions due to foreign body accidentally left in body following removal of catheter or packing | 
-Adhesions due to foreign body accidentally left in body following heart catheterization, subsequent encounter | 
-Adhesions due to foreign body accidentally left in body following infusion or transfusion, sequela | 
-Adhesions due to foreign body accidentally left in body following surgical operation | 
-Adhesions due to foreign body accidentally left in body following injection or immunization | 
-Adhesions due to foreign body accidentally left in body following aspiration, puncture or other catheterization | 
-Adhesions due to foreign body accidentally left in body following other procedure | 
-Adhesions due to foreign body accidentally left in body following injection or immunization, subsequent encounter | 
-Adhesions due to foreign body accidentally left in body following other procedure, subsequent encounter | 
-Adhesions due to foreign body accidentally left in body following aspiration, puncture or other catheterization, subsequent encounter | 
-Adhesions due to foreign body accidentally left in body following endoscopic examination, subsequent encounter | 
-Adhesions due to foreign body accidentally left in body following unspecified procedure | 
-Adhesions due to foreign body accidentally left in body following procedure | 
-Adhesions due to foreign body accidentally left in body following kidney dialysis, subsequent encounter | 
-Adhesions due to foreign body accidentally left in body following endoscopic examination | 
-Adhesions due to foreign body accidentally left in body following removal of catheter or packing, subsequent encounter"
-440597,"Foreign object left in body during endoscopic examination",579,1507,6,"Unspecified complication of foreign body accidentally left in body following endoscopic examination, initial encounter | 
-Other complications of foreign body accidentally left in body following endoscopic examination, initial encounter | 
-Unspecified complication of foreign body accidentally left in body following endoscopic examination, subsequent encounter | 
-Other complications of foreign body accidentally left in body following endoscopic examination, subsequent encounter | 
-Other complications of foreign body accidentally left in body following endoscopic examination | 
-Unspecified complication of foreign body accidentally left in body following endoscopic examination"
-3656848,"Vitiligo of skin of right upper eyelid and periocular area",912,1457,1,"Vitiligo of right upper eyelid and periocular area"
-1244557,"Disorder of left eye proper",315,1449,1,"Vogt-Koyanagi syndrome, left eye"
-1076914,"Enteropathic arthritis of right radiocarpal joint",323,1343,1,"Enteropathic arthropathies, right wrist"
-4189529,"Obstruction due to foreign body accidentally left in operative wound AND/OR body cavity during a procedure",765,1314,32,"Obstruction due to foreign body accidentally left in body following unspecified procedure, initial encounter | 
-Obstruction due to foreign body accidentally left in body following surgical operation, initial encounter | 
-Obstruction due to foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter | 
-Obstruction due to foreign body accidentally left in body following other procedure, initial encounter | 
-Obstruction due to foreign body accidentally left in body following heart catheterization, initial encounter | 
-Obstruction due to foreign body accidentally left in body following endoscopic examination, initial encounter | 
-Obstruction due to foreign body accidentally left in body following kidney dialysis, initial encounter | 
-Obstruction due to foreign body accidentally left in body following removal of catheter or packing, initial encounter | 
-Obstruction due to foreign body accidentally left in body following injection or immunization, initial encounter | 
-Obstruction due to foreign body accidentally left in body following aspiration, puncture or other catheterization, subsequent encounter | 
-Obstruction due to foreign body accidentally left in body following infusion or transfusion | 
-Obstruction due to foreign body accidentally left in body following endoscopic examination | 
-Obstruction due to foreign body accidentally left in body following surgical operation, subsequent encounter | 
-Obstruction due to foreign body accidentally left in body following removal of catheter or packing, subsequent encounter | 
-Obstruction due to foreign body accidentally left in body following endoscopic examination, subsequent encounter | 
-Obstruction due to foreign body accidentally left in body following aspiration, puncture or other catheterization | 
-Obstruction due to foreign body accidentally left in body following unspecified procedure | 
-Obstruction due to foreign body accidentally left in body following procedure | 
-Obstruction due to foreign body accidentally left in body following unspecified procedure, subsequent encounter | 
-Obstruction due to foreign body accidentally left in body following surgical operation | 
-Obstruction due to foreign body accidentally left in body following heart catheterization | 
-Obstruction due to foreign body accidentally left in body following other procedure | 
-Obstruction due to foreign body accidentally left in body following heart catheterization, subsequent encounter | 
-Obstruction due to foreign body accidentally left in body following injection or immunization, subsequent encounter | 
-Obstruction due to foreign body accidentally left in body following infusion or transfusion, subsequent encounter | 
-Obstruction due to foreign body accidentally left in body following other procedure, subsequent encounter | 
-Obstruction due to foreign body accidentally left in body following kidney dialysis | 
-Obstruction due to foreign body accidentally left in body following injection or immunization | 
-Obstruction due to foreign body accidentally left in body following removal of catheter or packing | 
-Obstruction due to foreign body accidentally left in body following infusion or transfusion, initial encounter | 
-Obstruction due to foreign body accidentally left in body following kidney dialysis, subsequent encounter | 
-Obstruction due to foreign body accidentally left in body following infusion or transfusion, sequela"
-1245822,"Systemic onset juvenile idiopathic arthritis of right knee",422,1311,1,"Juvenile rheumatoid arthritis with systemic onset, right knee"
-1076961,"Paget disease of right shoulder",543,1298,1,"Osteitis deformans of right shoulder"
-1245824,"Systemic onset juvenile idiopathic arthritis of left knee",378,1239,1,"Juvenile rheumatoid arthritis with systemic onset, left knee"
-3656850,"Vitiligo of skin of left upper eyelid and periocular area",691,1231,1,"Vitiligo of left upper eyelid and periocular area"
-1076675,"Systemic onset juvenile idiopathic arthritis of right hand",208,1204,1,"Juvenile rheumatoid arthritis with systemic onset, right hand"
-36685018,"Rheumatoid arthritis of left elbow",158,1179,1,"Rheumatoid lung disease with rheumatoid arthritis of left elbow"
-42538746,"Retained magnetic foreign body in right eye",726,1119,2,"Unspecified retained (old) intraocular foreign body, magnetic, right eye | 
-Retained (old) intraocular foreign body, magnetic, in other or multiple sites, right eye"
-36685022,"Rheumatoid arthritis of right elbow",177,1056,1,"Rheumatoid lung disease with rheumatoid arthritis of right elbow"
-4152658,"Foreign object left in body during injection or vaccination",450,1049,6,"Unspecified complication of foreign body accidentally left in body following injection or immunization, initial encounter | 
-Other complications of foreign body accidentally left in body following injection or immunization, initial encounter | 
-Other complications of foreign body accidentally left in body following injection or immunization, subsequent encounter | 
-Unspecified complication of foreign body accidentally left in body following injection or immunization, subsequent encounter | 
-Other complications of foreign body accidentally left in body following injection or immunization | 
-Unspecified complication of foreign body accidentally left in body following injection or immunization"
-42539563,"Retained magnetic foreign body in left eye",608,973,2,"Unspecified retained (old) intraocular foreign body, magnetic, left eye | 
-Retained (old) intraocular foreign body, magnetic, in other or multiple sites, left eye"
-1076672,"Systemic onset juvenile idiopathic arthritis of left hand",189,924,1,"Juvenile rheumatoid arthritis with systemic onset, left hand"
-1076908,"Enteropathic arthritis of left radiocarpal joint",249,913,1,"Enteropathic arthropathies, left wrist"
-1246184,"Reactive arthritis of joint of right wrist region",419,892,1,"Other reactive arthropathies, right wrist"
-4139281,"Perforation due to foreign body accidentally left in operative wound AND/OR body cavity during a procedure",495,848,31,"Perforation due to foreign body accidentally left in body following heart catheterization, initial encounter | 
-Perforation due to foreign body accidentally left in body following unspecified procedure, initial encounter | 
-Perforation due to foreign body accidentally left in body following surgical operation, initial encounter | 
-Perforation due to foreign body accidentally left in body following aspiration, puncture or other catheterization, initial encounter | 
-Perforation due to foreign body accidentally left in body following heart catheterization, subsequent encounter | 
-Perforation due to foreign body accidentally left in body following other procedure, initial encounter | 
-Perforation due to foreign body accidentally left in body following removal of catheter or packing, initial encounter | 
-Perforation due to foreign body accidentally left in body following endoscopic examination, initial encounter | 
-Perforation due to foreign body accidentally left in body following injection or immunization | 
-Perforation due to foreign body accidentally left in body following aspiration, puncture or other catheterization | 
-Perforation due to foreign body accidentally left in body following other procedure | 
-Perforation due to foreign body accidentally left in body following unspecified procedure | 
-Perforation due to foreign body accidentally left in body following infusion or transfusion, subsequent encounter | 
-Perforation due to foreign body accidentally left in body following injection or immunization, subsequent encounter | 
-Perforation due to foreign body accidentally left in body following infusion or transfusion, initial encounter | 
-Perforation due to foreign body accidentally left in body following surgical operation | 
-Perforation due to foreign body accidentally left in body following aspiration, puncture or other catheterization, subsequent encounter | 
-Perforation due to foreign body accidentally left in body following endoscopic examination, subsequent encounter | 
-Perforation due to foreign body accidentally left in body following removal of catheter or packing, subsequent encounter | 
-Perforation due to foreign body accidentally left in body following infusion or transfusion | 
-Perforation due to foreign body accidentally left in body following kidney dialysis | 
-Perforation due to foreign body accidentally left in body following endoscopic examination | 
-Perforation due to foreign body accidentally left in body following surgical operation, subsequent encounter | 
-Perforation due to foreign body accidentally left in body following kidney dialysis, subsequent encounter | 
-Perforation due to foreign body accidentally left in body following kidney dialysis, initial encounter | 
-Perforation due to foreign body accidentally left in body following unspecified procedure, subsequent encounter | 
-Perforation due to foreign body accidentally left in body following heart catheterization | 
-Perforation due to foreign body accidentally left in body following removal of catheter or packing | 
-Perforation due to foreign body accidentally left in body following procedure | 
-Perforation due to foreign body accidentally left in body following other procedure, subsequent encounter | 
-Perforation due to foreign body accidentally left in body following injection or immunization, initial encounter"
-37160019,"Ankylosis of ossicles of bilateral ears",381,828,1,"Ankylosis of ear ossicles, bilateral"
-1076684,"Systemic onset juvenile idiopathic arthritis of left hip",148,795,1,"Juvenile rheumatoid arthritis with systemic onset, left hip"
-1246178,"Reactive arthritis of joint of left wrist region",322,766,1,"Other reactive arthropathies, left wrist"
-36687162,"Arthritis of left temporomandibular joint",506,756,1,"Arthritis of left temporomandibular joint"
-1076677,"Systemic onset juvenile idiopathic arthritis of right hip",144,725,1,"Juvenile rheumatoid arthritis with systemic onset, right hip"
-36687161,"Arthritis of right temporomandibular joint",498,720,1,"Arthritis of right temporomandibular joint"
-1076683,"Systemic onset juvenile idiopathic arthritis of joint of right shoulder region",89,716,1,"Juvenile rheumatoid arthritis with systemic onset, right shoulder"
-1076976,"Palindromic rheumatism of right knee",228,673,1,"Palindromic rheumatism, right knee"
-1076962,"Paget disease of left shoulder",306,636,1,"Osteitis deformans of left shoulder"
-1076894,"Calcium deposit in bursa of left wrist",310,612,1,"Calcium deposit in bursa, left wrist"
-1076919,"Monostotic fibrous dysplasia of right forearm",191,601,1,"Fibrous dysplasia (monostotic), right forearm"
-3661895,"Xeroderma of right upper eyelid",389,532,1,"Xeroderma of right upper eyelid"
-1076895,"Calcium deposit in bursa of right wrist",294,514,1,"Calcium deposit in bursa, right wrist"
-1076917,"Monostotic fibrous dysplasia of left forearm",241,507,1,"Fibrous dysplasia (monostotic), left forearm"
-434843,"Foreign object left in body during infusion or transfusion",340,503,7,"Unspecified complication of foreign body accidentally left in body following infusion or transfusion, initial encounter | 
-Other complications of foreign body accidentally left in body following infusion or transfusion, initial encounter | 
-Unspecified complication of foreign body accidentally left in body following infusion or transfusion, subsequent encounter | 
-Other complications of foreign body accidentally left in body following infusion or transfusion, subsequent encounter | 
-Other complications of foreign body accidentally left in body following infusion or transfusion | 
-Other complications of foreign body accidentally left in body following infusion or transfusion, sequela | 
-Unspecified complication of foreign body accidentally left in body following infusion or transfusion"
-1076673,"Systemic onset juvenile idiopathic arthritis of joint of left shoulder region",89,496,1,"Juvenile rheumatoid arthritis with systemic onset, left shoulder"
-1076972,"Palindromic rheumatism of left knee",167,467,1,"Palindromic rheumatism, left knee"
-3661897,"Xeroderma of left upper eyelid",316,453,1,"Xeroderma of left upper eyelid"
-439634,"Foreign object left in body during kidney dialysis",126,420,6,"Unspecified complication of foreign body accidentally left in body following kidney dialysis, initial encounter | 
-Other complications of foreign body accidentally left in body following kidney dialysis, initial encounter | 
-Unspecified complication of foreign body accidentally left in body following kidney dialysis, subsequent encounter | 
-Other complications of foreign body accidentally left in body following kidney dialysis, subsequent encounter | 
-Unspecified complication of foreign body accidentally left in body following kidney dialysis | 
-Other complications of foreign body accidentally left in body following kidney dialysis"
-1077008,"Xeroderma of right lower eyelid",254,349,1,"Xeroderma of right lower eyelid"
-1077009,"Xeroderma of left lower eyelid",244,331,1,"Xeroderma of left lower eyelid"
-608874,"Endometriosis of left fallopian tube",0,0,3,"Deep endometriosis of left fallopian tube | 
-Endometriosis of left fallopian tube, unspecified depth | 
-Superficial endometriosis of left fallopian tube"
-608875,"Endometriosis of right fallopian tube",0,0,3,"Superficial endometriosis of right fallopian tube | 
-Endometriosis of right fallopian tube, unspecified depth | 
-Deep endometriosis of right fallopian tube"
-760128,"Foreign body in right ear",0,0,1,"Foreign body in right ear"
-760129,"Foreign body in left ear",0,0,1,"Foreign body in left ear"
-760747,"Contusion of right hand",0,0,1,"Contusion of right hand"
-760748,"Contusion of left hand",0,0,1,"Contusion of left hand"
-760755,"Abrasion of skin of left forearm",0,0,1,"Abrasion of left forearm"
-760758,"Contusion of right elbow",0,0,1,"Contusion of right elbow"
-760759,"Contusion of left elbow",0,0,1,"Contusion of left elbow"
-760760,"Contusion of right forearm",0,0,1,"Contusion of right forearm"
-760761,"Contusion of left forearm",0,0,1,"Contusion of left forearm"
-760777,"Contusion of right thigh",0,0,1,"Contusion of right thigh"
-760778,"Contusion of left thigh",0,0,1,"Contusion of left thigh"
-760779,"Contusion of right knee",0,0,1,"Contusion of right knee"
-760795,"Sprain of left rotator cuff capsule",0,0,1,"Sprain of left rotator cuff capsule"
-760797,"Contusion of right upper arm",0,0,1,"Contusion of right upper arm"
-760798,"Contusion of left upper arm",0,0,1,"Contusion of left upper arm"
-760799,"Contusion of right shoulder",0,0,1,"Contusion of right shoulder"
-760800,"Contusion of left shoulder",0,0,1,"Contusion of left shoulder"
-760811,"Sprain of tibiofibular ligament of right ankle",0,0,1,"Sprain of tibiofibular ligament of right ankle"
-760812,"Sprain of tibiofibular ligament of left ankle",0,0,1,"Sprain of tibiofibular ligament of left ankle"
-760819,"Strain of right Achilles tendon",0,0,1,"Strain of right Achilles tendon"
-760820,"Strain of left Achilles tendon",0,0,1,"Strain of left Achilles tendon"
-760828,"Contusion of right foot",0,0,1,"Contusion of right foot"
-760829,"Contusion of left foot",0,0,1,"Contusion of left foot"
-765361,"Abrasion of skin of right forearm",0,0,1,"Abrasion of right forearm"
-765896,"Contusion of left knee",0,0,1,"Contusion of left knee"
-1074913,"Anterior subluxation of right radial head",0,0,1,"Anterior subluxation of right radial head"
-1074914,"Anterior subluxation of left radial head",0,0,1,"Anterior subluxation of left radial head"
-1075501,"Primary open angle glaucoma of left eye",0,0,1,"Primary open-angle glaucoma, left eye"
-1075502,"Primary open angle glaucoma of right eye",0,0,2,"Primary open-angle glaucoma, right eye | 
-Primary open-angle glaucoma, left eye"
-1077204,"Puncture wound of left hand with foreign body",0,0,1,"Puncture wound with foreign body of left hand"
-1077205,"Puncture wound of left hip with foreign body",0,0,1,"Puncture wound with foreign body, left hip"
-1077207,"Puncture wound of left shoulder with foreign body",0,0,1,"Puncture wound with foreign body of left shoulder"
-1077208,"Puncture wound of right hand with foreign body",0,0,1,"Puncture wound with foreign body of right hand"
-1077209,"Puncture wound of right hip with foreign body",0,0,1,"Puncture wound with foreign body, right hip"
-1077210,"Puncture wound of right shoulder with foreign body",0,0,1,"Puncture wound with foreign body of right shoulder"
-1077275,"Puncture wound of left ankle with foreign body",0,0,1,"Puncture wound with foreign body, left ankle"
-1077276,"Puncture wound of left foot with foreign body",0,0,1,"Puncture wound with foreign body, left foot"
-1077277,"Puncture wound of right ankle with foreign body",0,0,1,"Puncture wound with foreign body, right ankle"
-1077278,"Puncture wound of right foot with foreign body",0,0,1,"Puncture wound with foreign body, right foot"
-1077282,"Sprain of right iliofemoral ligament",0,0,1,"Iliofemoral ligament sprain of right hip"
-1077283,"Sprain of left ischiofemoral ligament",0,0,1,"Ischiocapsular ligament sprain of left hip"
-1077284,"Sprain of right ischiofemoral ligament",0,0,1,"Ischiocapsular ligament sprain of right hip"
-1077383,"Superficial endometriosis of left ovary",0,0,1,"Superficial endometriosis of left ovary"
-1077390,"Superficial endometriosis of bilateral ovaries",0,0,1,"Superficial endometriosis of bilateral ovaries"
-1077488,"Superficial endometriosis of right ovary",0,0,1,"Superficial endometriosis of right ovary"
-3571992,"Abrasion of skin of left thumb",0,0,1,"Abrasion of left thumb"
-3657662,"Abrasion of skin of left hand",0,0,1,"Abrasion of left hand"
-3657663,"Abrasion of skin of right wrist region",0,0,1,"Abrasion of right wrist"
-3657664,"Abrasion of skin of left wrist region",0,0,1,"Abrasion of left wrist"
-3657933,"Abrasion of skin of right thumb",0,0,1,"Abrasion of right thumb"
-3657940,"Abrasion of skin of right elbow region",0,0,1,"Abrasion of right elbow"
-3657941,"Abrasion of skin of left elbow region",0,0,1,"Abrasion of left elbow"
-3657961,"Abrasion of skin of right shoulder region",0,0,1,"Abrasion of right shoulder"
-3657962,"Abrasion of skin of left shoulder region",0,0,1,"Abrasion of left shoulder"
-3657963,"Abrasion of skin of right upper arm",0,0,1,"Abrasion of right upper arm"
-3657964,"Abrasion of skin of left upper arm",0,0,1,"Abrasion of left upper arm"
-3662160,"Abrasion of skin of right hand",0,0,1,"Abrasion of right hand"
-3662171,"Abrasion of skin of right ear",0,0,1,"Abrasion of right ear"
-3662172,"Abrasion of skin of left ear",0,0,1,"Abrasion of left ear"
-4149218,"Undescended testes - bilateral",0,0,1,"Undescended testicle, bilateral"
-4301771,"Cleft leaflet of mitral valve",0,0,1,"Congenital mitral valve cleft leaflet"
-36686169,"Open wound of right buttock",0,0,1,"Open wound of right buttock"
-36686170,"Open wound of left buttock",0,0,1,"Open wound of left buttock"
-36686191,"Contusion of right cerebrum",0,0,3,"Contusion and laceration of right cerebrum with loss of consciousness status unknown | 
-Contusion and laceration of right cerebrum with loss of consciousness status unknown, initial encounter | 
-Contusion and laceration of right cerebrum with loss of consciousness status unknown, subsequent encounter"
-36686192,"Contusion of left cerebrum",0,0,3,"Contusion and laceration of left cerebrum with loss of consciousness status unknown | 
-Contusion and laceration of left cerebrum with loss of consciousness status unknown, initial encounter | 
-Contusion and laceration of left cerebrum with loss of consciousness status unknown, subsequent encounter"
-36686345,"Laceration of left Achilles tendon",0,0,1,"Laceration of left Achilles tendon"
-36686364,"Crushing injury of right elbow",0,0,1,"Crushing injury of right elbow"
-36686365,"Crushing injury of left elbow",0,0,1,"Crushing injury of left elbow"
-36686381,"Crushing injury of right hip",0,0,1,"Crushing injury of right hip"
-36686382,"Crushing injury of left hip",0,0,1,"Crushing injury of left hip"
-36686391,"Crushing injury of right thigh",0,0,1,"Crushing injury of right thigh"
-36686392,"Crushing injury of left thigh",0,0,1,"Crushing injury of left thigh"
-36686393,"Contusion of left lower leg",0,0,1,"Contusion of left lower leg"
-36686411,"Laceration of right renal artery",0,0,1,"Laceration of right renal artery"
-36686412,"Laceration of left renal artery",0,0,1,"Laceration of left renal artery"
-36686413,"Injury of right iliac vein",0,0,1,"Injury of right iliac vein"
-36686414,"Injury of left iliac vein",0,0,1,"Injury of left iliac vein"
-36686466,"Contusion of right breast",0,0,1,"Contusion of right breast"
-36686472,"Primary blast injury of right ear",0,0,1,"Primary blast injury of right ear"
-36686473,"Primary blast injury of left ear",0,0,1,"Primary blast injury of left ear"
-36686474,"Contusion of right ear",0,0,1,"Contusion of right ear"
-36686475,"Contusion of left ear",0,0,1,"Contusion of left ear"
-36686495,"Contusion of left breast",0,0,1,"Contusion of left breast"
-36686514,"Laceration of right Achilles tendon",0,0,1,"Laceration of right Achilles tendon"
-37108724,"Contusion of left wrist",0,0,1,"Contusion of left wrist"
-37161710,"Sprain of ligament of right shoulder joint",0,0,1,"Sprain of right rotator cuff capsule"
-37209399,"Endometriosis of right ovary",0,0,2,"Deep endometriosis of right ovary | 
-Endometriosis of right ovary, unspecified depth"
-37209400,"Endometriosis of left ovary",0,0,2,"Deep endometriosis of left ovary | 
-Endometriosis of left ovary, unspecified depth"
-37309980,"Foreign body in skin of left shoulder",0,0,1,"Superficial foreign body of left shoulder"
-37309981,"Foreign body in skin of right shoulder",0,0,1,"Superficial foreign body of right shoulder"
-37310022,"Foreign body in skin of left wrist",0,0,1,"Superficial foreign body of left wrist"
-37310023,"Foreign body in skin of right wrist",0,0,1,"Superficial foreign body of right wrist"
-37310035,"Foreign body in skin of right ring finger",0,0,1,"Superficial foreign body of right ring finger"
-37310036,"Foreign body in skin of right little finger",0,0,1,"Superficial foreign body of right little finger"
-37310037,"Foreign body in skin of left ring finger",0,0,1,"Superficial foreign body of left ring finger"
-37310038,"Foreign body in skin of left little finger",0,0,1,"Superficial foreign body of left little finger"
-37310043,"Abrasion of skin of left ring finger",0,0,1,"Abrasion of left ring finger"
-37310044,"Abrasion of skin of left middle finger",0,0,1,"Abrasion of left middle finger"
-37310045,"Abrasion of skin of left little finger",0,0,1,"Abrasion of left little finger"
-37310046,"Abrasion of skin of left index finger",0,0,1,"Abrasion of left index finger"
-37310047,"Abrasion of skin of right ring finger",0,0,1,"Abrasion of right ring finger"
-37310048,"Abrasion of skin of right middle finger",0,0,1,"Abrasion of right middle finger"
-37310049,"Abrasion of skin of right little finger",0,0,1,"Abrasion of right little finger"
-37310073,"Abrasion of skin of right index finger",0,0,1,"Abrasion of right index finger"
-42539234,"Contusion of right wrist",0,0,1,"Contusion of right wrist"
+Retained (nonmagnetic) (old) foreign body in iris or ciliary body, left eye",0.337448559670782,"762525005"
+35626042,"Moderate nonproliferative diabetic retinopathy of left eye",2561,12735,2,"68.6%~Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, left eye (E08.3312)37200036;1444 patients | 
+31.4%~Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, left eye (E08.3392)37200040;1117 patients","Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, left eye | 
+Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, left eye",0.316872427983539,"769186002"
+1077051,"Mechanical lagophthalmos of right lower eyelid",6088,12012,1,"100%~Mechanical lagophthalmos right lower eyelid (H02.222)45595980;6088 patients","Mechanical lagophthalmos right lower eyelid",0.308641975308642,"334121000119103"
+36712704,"Vitreomacular adhesion of bilateral eyes",6364,11574,1,"100%~Vitreomacular adhesion, unspecified eye (H43.829)45571987;6364 patients","Vitreomacular adhesion, unspecified eye",0.304526748971193,"10762111000119102"
+1077021,"Mechanical ectropion of right upper eyelid",3622,11334,1,"100%~Mechanical ectropion of right upper eyelid (H02.121)45600823;3622 patients","Mechanical ectropion of right upper eyelid",0.297668038408779,"331571000119109"
+1077094,"Mechanical lagophthalmos of left lower eyelid",5464,10803,1,"100%~Mechanical lagophthalmos left lower eyelid (H02.225)45566923;5464 patients","Mechanical lagophthalmos left lower eyelid",0.285322359396433,"339721000119101"
+37109495,"Macular hole of right eye",1790,10488,1,"100%~Degenerative myopia with macular hole, right eye (H44.2B1)1326516;1790 patients","Degenerative myopia with macular hole, right eye",0.282578875171468,"677951000119109"
+37109493,"Macular hole of left eye",1806,10044,1,"100%~Degenerative myopia with macular hole, left eye (H44.2B2)1326517;1806 patients","Degenerative myopia with macular hole, left eye",0.277091906721536,"677901000119105"
+1077062,"Mechanical ectropion of left upper eyelid",2997,9757,1,"100%~Mechanical ectropion of left upper eyelid (H02.124)45542930;2997 patients","Mechanical ectropion of left upper eyelid",0.272976680384088,"337181000119105"
+37207864,"Xanthoma of right lower eyelid",5537,9627,1,"100%~Xanthelasma of right lower eyelid (H02.62)45557285;5537 patients","Xanthelasma of right lower eyelid",0.271604938271605,"334051000119107"
+37207924,"Xanthoma of left lower eyelid",5442,9386,1,"100%~Xanthelasma of left lower eyelid (H02.65)45586343;5442 patients","Xanthelasma of left lower eyelid",0.260631001371742,"339651000119100"
+37207879,"Double pterygium of right eye",3704,8978,1,"100%~Double pterygium of right eye (H11.031)45591256;3704 patients","Double pterygium of right eye",0.253772290809328,"335351000119105"
+37207939,"Double pterygium of left eye",3288,8051,1,"100%~Double pterygium of left eye (H11.032)45581577;3288 patients","Double pterygium of left eye",0.240054869684499,"340961000119102"
+35626043,"Severe nonproliferative retinopathy of right eye due to diabetes mellitus",1183,7478,2,"67.5%~Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, right eye (E08.3411)37200043;765 patients | 
+32.5%~Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, right eye (E08.3491)37200047;418 patients","Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, right eye | 
+Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, right eye",0.233196159122085,"769187006"
+35626044,"Severe nonproliferative retinopathy of left eye due to diabetes mellitus",949,7243,2,"76.2%~Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, left eye (E08.3412)37200044;629 patients | 
+23.8%~Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, left eye (E08.3492)37200048;320 patients","Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, left eye | 
+Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, left eye",0.226337448559671,"769188001"
+36674199,"Proliferative retinopathy of right eye with diabetes mellitus",1609,7178,1,"100%~Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, right eye (E08.3591)37200075;1609 patients","Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, right eye",0.224965706447188,"770765001"
+36717300,"Lagophthalmos of bilateral eyelids",3146,6322,2,"74.2%~Unspecified lagophthalmos, bilateral, upper and lower eyelids (H02.20C)1595566;2724 patients | 
+25.8%~Paralytic lagophthalmos, bilateral, upper and lower eyelids (H02.23C)1595575;422 patients","Unspecified lagophthalmos, bilateral, upper and lower eyelids | 
+Paralytic lagophthalmos, bilateral, upper and lower eyelids",0.200274348422497,"11718681000119109"
+3662369,"Paralytic ectropion of right lower eyelid",2062,5586,1,"100%~Paralytic ectropion of right lower eyelid (H02.152)1595558;2062 patients","Paralytic ectropion of right lower eyelid",0.190672153635117,"16907361000119100"
+3657889,"Paralytic ectropion of left lower eyelid",2106,5402,1,"100%~Paralytic ectropion of left lower eyelid (H02.155)1595561;2106 patients","Paralytic ectropion of left lower eyelid",0.183813443072702,"16907441000119106"
+37311300,"Cataract of right eye",2820,5325,1,"100%~Cataract with neovascularization, right eye (H26.211)45605649;2820 patients","Cataract with neovascularization, right eye",0.181069958847737,"816120008"
+36674200,"Proliferative retinopathy of left eye due to diabetes mellitus",1251,5050,1,"100%~Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, left eye (E08.3592)37200076;1251 patients","Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, left eye",0.176954732510288,"770766000"
+3656988,"Interstitial keratitis of left eye",1378,4552,1,"100%~Other interstitial and deep keratitis, left eye (H16.392)45586392;1378 patients","Other interstitial and deep keratitis, left eye",0.165980795610425,"340301000119102"
+3656903,"Interstitial keratitis of right eye",1355,4475,1,"100%~Other interstitial and deep keratitis, right eye (H16.391)45566987;1355 patients","Other interstitial and deep keratitis, right eye",0.16323731138546,"334701000119106"
+37311301,"Cataract of left eye",2564,4209,1,"100%~Cataract with neovascularization, left eye (H26.212)45552642;2564 patients","Cataract with neovascularization, left eye",0.155006858710562,"816119002"
+37311833,"Stable treated proliferative retinopathy of right eye due to diabetes mellitus",804,3857,1,"100%~Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, right eye (E08.3551)37200071;804 patients","Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, right eye",0.148148148148148,"816961009"
+35626068,"Macular edema of left eye due to diabetes mellitus",186,3782,1,"100%~Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, left eye (E08.37X2)37200081;186 patients","Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, left eye",0.145404663923182,"769218003"
+37209482,"Transplant failure of cornea of right eye",1480,3507,1,"100%~Corneal transplant failure, right eye (T86.8411)725614;1480 patients","Corneal transplant failure, right eye",0.141289437585734,"16058711000119104"
+37209484,"Transplant failure of cornea of left eye",1418,3417,1,"100%~Corneal transplant failure, left eye (T86.8412)725615;1418 patients","Corneal transplant failure, left eye",0.135802469135802,"16058871000119104"
+37311832,"Stable treated proliferative retinopathy of left eye due to diabetes mellitus",715,3181,1,"100%~Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, left eye (E08.3552)37200072;715 patients","Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, left eye",0.131687242798354,"816962002"
+35626067,"Macular edema of right eye due to diabetes mellitus",258,2561,1,"100%~Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, right eye (E08.37X1)37200080;258 patients","Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, right eye",0.120713305898491,"769217008"
+3656848,"Vitiligo of skin of right upper eyelid and periocular area",912,1457,1,"100%~Vitiligo of right upper eyelid and periocular area (H02.731)45586344;912 patients","Vitiligo of right upper eyelid and periocular area",0.0905349794238683,"330881000119101"
+1244557,"Disorder of left eye proper",315,1449,1,"100%~Vogt-Koyanagi syndrome, left eye (H20.822)45567006;315 patients","Vogt-Koyanagi syndrome, left eye",0.0891632373113855,"1290030002"
+37209483,"Transplant rejection of cornea of right eye",704,1417,1,"100%~Corneal transplant rejection, right eye (T86.8401)725610;704 patients","Corneal transplant rejection, right eye",0.0877914951989026,"16058831000119102"
+37209481,"Transplant rejection of cornea of left eye",693,1381,1,"100%~Corneal transplant rejection, left eye (T86.8402)725611;693 patients","Corneal transplant rejection, left eye",0.0864197530864197,"16058671000119103"
+3656850,"Vitiligo of skin of left upper eyelid and periocular area",691,1231,1,"100%~Vitiligo of left upper eyelid and periocular area (H02.734)45557286;691 patients","Vitiligo of left upper eyelid and periocular area",0.0809327846364883,"330911000119101"
+42538746,"Retained magnetic foreign body in right eye",726,1119,2,"81.2%~Unspecified retained (old) intraocular foreign body, magnetic, right eye (H44.601)45557439;573 patients | 
+18.8%~Retained (old) intraocular foreign body, magnetic, in other or multiple sites, right eye (H44.691)45591368;153 patients","Unspecified retained (old) intraocular foreign body, magnetic, right eye | 
+Retained (old) intraocular foreign body, magnetic, in other or multiple sites, right eye",0.0754458161865569,"762524009"
+42539563,"Retained magnetic foreign body in left eye",608,973,2,"77.9%~Unspecified retained (old) intraocular foreign body, magnetic, left eye (H44.602)45567076;462 patients | 
+22.1%~Retained (old) intraocular foreign body, magnetic, in other or multiple sites, left eye (H44.692)45567078;146 patients","Unspecified retained (old) intraocular foreign body, magnetic, left eye | 
+Retained (old) intraocular foreign body, magnetic, in other or multiple sites, left eye",0.0672153635116598,"762523003"
+3661895,"Xeroderma of right upper eyelid",389,532,1,"100%~Xeroderma of right upper eyelid (H01.141)45547779;389 patients","Xeroderma of right upper eyelid",0.0438957475994513,"330821000119100"
+3661897,"Xeroderma of left upper eyelid",316,453,1,"100%~Xeroderma of left upper eyelid (H01.144)45576621;316 patients","Xeroderma of left upper eyelid",0.0411522633744856,"330851000119108"
+1077008,"Xeroderma of right lower eyelid",254,349,1,"100%~Xeroderma of right lower eyelid (H01.142)45600818;254 patients","Xeroderma of right lower eyelid",0.0329218106995885,"330831000119102"
+1077009,"Xeroderma of left lower eyelid",244,331,1,"100%~Xeroderma of left lower eyelid (H01.145)45566916;244 patients","Xeroderma of left lower eyelid",0.0288065843621399,"330861000119105"
+1075501,"Primary open angle glaucoma of left eye",0,0,1,"NA","Primary open-angle glaucoma, left eye",0,"1306287007"
+1075502,"Primary open angle glaucoma of right eye",0,0,2,"NA | 
+NA","Primary open-angle glaucoma, right eye | 
+Primary open-angle glaucoma, left eye",0,"1306288002"
