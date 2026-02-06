@@ -6,6 +6,14 @@ This repository supports study looking at lateral specific concepts
 # abstract
 (to be pasted later)
 
+# Tables
+## Phase 1 results
+Percentages quantify what proportion of total events is contributed by a given source concept.
+See CSV files above for full results.
+This image may be outdated. See files for most up to date results.
+It provides a preview of the work.
+<img width="965" height="646" alt="image" src="https://github.com/user-attachments/assets/a8f094f7-b1e1-420f-953c-2bc4c588e513" />
+
 
 # --Additional results--
 
