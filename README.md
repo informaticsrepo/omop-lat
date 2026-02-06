@@ -2,16 +2,16 @@
 This repository supports study looking at lateral specific concepts
 
 
-
-# abstract
+# Abstract
 (to be pasted later)
 
 # Tables
 ## Phase 1 results
-Percentages quantify what proportion of total events is contributed by a given source concept.
-See CSV files above for full results.
-This image may be outdated. See files for most up to date results.
-It provides a preview of the work.
+Percentages quantify what proportion of total events is contributed by a given source concept.  
+See CSV files above for full results. (namely S2 files)  
+This image may be outdated. See files for most up to date results.  
+It provides a preview of the work. (illustrates what the most current file aims to show)  
+
 <img width="965" height="646" alt="image" src="https://github.com/user-attachments/assets/a8f094f7-b1e1-420f-953c-2bc4c588e513" />
 
 
@@ -24,10 +24,11 @@ Of those 3747 concepts, 643 concepts distinguish laterality (two seperate concep
 
 
 # Phase 3
-Procedures in ophtalmology:
+Procedures in ophtalmology scope:
 
-### Intraocular drug administration
-: While source diagnostic data use pre-coordination, procedural data (in CPT [Current procedural terminology]) use potcoordination for drug injection procedures. For example, code 67028 (Intravitreal injection of a pharmacologic agent) is combined with  modifier 50 for bilateral injections and modifiers LT and RT for left and right eye injections. 67028+LT and 67028+RT and 67028+50 may all be mapped to https://athena.ohdsi.org/search-terms/terms/4334590 (Injection of drug into vitreous, SNOMED CT concept code 231755001)  
+### Intraocular drug administration:
+While source diagnostic data use pre-coordination, procedural data (in CPT [Current procedural terminology]) use potcoordination for drug injection procedures. For example, code 67028 (Intravitreal injection of a pharmacologic agent) is combined with  modifier 50 for bilateral injections and modifiers LT and RT for left and right eye injections.  
+67028+LT and 67028+RT and 67028+50 may all be mapped to https://athena.ohdsi.org/search-terms/terms/4334590 (Injection of drug into vitreous, SNOMED CT concept code 231755001)  
 
 
 ### Procedure on eye
@@ -45,3 +46,13 @@ During our study, we noted that the information loss can be analyzed in general.
 With data on source concepts usage frequency, for each standard concepts with multiple source concepts mapped to it, we can try to identify (and study) any information loss. This can be viewed by some as desired and intended. Others may view this as an information loss and try to avoid it but still keep in mind some optimal granularity of the standard concept model layer. 
 Standard concepts are meant to facilitate harmonization. What level of granularity is built into such standard concepts is a design choice of model administrators. To some extend, this granularity level is dictated by available terminologies in existence. For example, the choice of SNOMED CT as a standard terminology for condition domain in 2008. 
 
+
+# Fully Specified Name (FSN) generation
+
+`Ptosis of eyelid of left eye` versus `Ptosis of left eyelid`
+`of left eye` versus `in left eye`
+`Pain in eye of left eye` versus `pain in left eye`
+
+# Future
+
+Given current evolution of coding (as of Feb 2026), some problems will be better adressed by specifying the task for agentic system to solve. This was considered during result review of the project and dealing with some aspects. We also expect AI help with adressing deficiencies in medical terminologies/ontologies.
