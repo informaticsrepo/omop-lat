@@ -34,7 +34,7 @@ Pilot submission was made in October 2025 and appeared in production in December
 
  We found 3116 ICD10-CM source ophthalmology diagnosis concepts of type DiseaseConceptWithLaterality (see supplemental file s1.csv) mapped to 730 standard SNOMED CT concepts (file s2.csv). 
 
- Study repository contains analogous results and supplemental files for phase 2 scope for all diagnoses, other expanded results and additional discussion points. For batch A, number of SNOMED CT parent concepts where lateral-specific terms will be requested is: 20 (for top 3 percentile), 34 (for top 5 percentile) and 132 (for top 20 percentile) (file s3.csv). 
+ Study repository contains analogous results and supplemental files for phase 2 scope for all diagnoses, other expanded results and additional discussion points. For batch A, number of SNOMED CT parent concepts where lateral-specific terms will be requested is: 20 (for top 3rd percentile), 34 (for top 5th percentile) and 132 (for top 20th percentile) (file s3.csv). 
 
  
 
